@@ -20,18 +20,19 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
     - name: Setup Node.js environment
-      working-directory: ./Site
       uses: actions/setup-node@v1.4.1
 
     - name: Install packages
+      working-directory: ../../Site
       run: npm ci
 
     - name: Run npm build
+      working-directory: ../../Site
       run: npm run build
 
     - name: Deploy to gh-pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        publish_dir: ./Site/_site_barri
+        publish_dir: ../../Site/_site_barri
         publish_branch: gh-pages
