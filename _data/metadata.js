@@ -1,6 +1,6 @@
 module.exports = {
     title: "Portail du BARRI",
-    url: "https://cisirh.github.io/Test",
+    url: "https://barri.devalle.fr",
     newsletter: [
         {
             url: "",
