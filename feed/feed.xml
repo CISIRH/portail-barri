@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="fr">
+	<title>Portail du BARRI</title>
+	<subtitle>Centre interministériel de services informatiques relatifs aux ressources humaines (CISIRH)</subtitle>
+	<link href="https://cisirh.github.io/feed/feed.xml" rel="self"/>
+	<link href="https://cisirh.github.io/"/>
+	<updated>2024-05-21T14:48:03Z</updated>
+	<id>https://cisirh.github.io</id>
+	<author>
+		<name>Centre interministériel de services informatiques relatifs aux ressources humaines</name>
+		<email>contact.cisirh@finances.gouv.fr</email>
+	</author>
+	<entry>
+		<title>Publication du noyau RH FPE 23.10.00</title>
+		<link href="https://cisirh.github.io/fr/blog/publication-noyau-fev24/"/>
+		<updated>2024-05-21T14:48:03Z</updated>
+		<id>https://cisirh.github.io/fr/blog/publication-noyau-fev24/</id>
+		<content type="html">&lt;p&gt;Cette version du Noyau RH FPE prend notamment en compte :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;les mises à jour des Référentiels de Classification Centraux (RCC) réalisées depuis la diffusion de la version d’actualisation 23.00.00 du Noyau RH FPE ;&lt;/li&gt;
+&lt;li&gt;la publication des actes PACTE Cerfa et Contrat apprentissage Cerfa, et de 280 actes documentaires de la bibliothèque des actes dont 267 actes modélisés.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Elle intègre également 21 fiches de maintenance (FIME) portant notamment sur :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;la prise en compte des impacts de la loi n° 2023-567 du 7 juillet 2023 visant à favoriser l&#39;accompagnement des couples confrontés à une interruption spontanée de grossesse dite fausse couche ;&lt;/li&gt;
+&lt;li&gt;la prise en compte des impacts de la loi n° 2022-1616 du 23 décembre 2022 de financement de la sécurité sociale pour 2023 (1) et du décret n° 2023-825 du 25 août 2023 portant diverses dispositions relatives au congé de présence parentale et au congé de proche aidant ;&lt;/li&gt;
+&lt;li&gt;la prise en compte des impacts de l’arrêté du 1er août 2023 relatif à la formation et à l&#39;accompagnement personnalisé des agents publics ;&lt;/li&gt;
+&lt;li&gt;la prise en compte des impacts l’article A34 bis (1°) du décret n°86-83 qui précise les conditions d’ancienneté requises pour bénéficier d’une autorisation de temps partiel de droit pour naissance ou adoption ainsi que l’évolution de l’article L1225-47 du code du travail, modifié par la loi 2023-171 du 9 mars 2023 ;&lt;/li&gt;
+&lt;li&gt;la mise en qualité de la modélisation de la bibliothèque des actes (BDA) et de la documentation associée (actes documentaires et guides) ;&lt;/li&gt;
+&lt;li&gt;la mise à jour règlementaire des tableaux RGRH et du référentiel des évènements ;&lt;/li&gt;
+&lt;li&gt;la mise à jour de la documentation métier dans le répertoire « 8-Informations complémentaires », notamment la documentation des nomenclatures, la matrice des modes de gestion et de rémunération des agents contractuels et la description des compteurs à mettre en œuvre dans les SIRH.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+	<entry>
+		<title>Chatbot Rebecca - Publication de la newsletter d&#39;octobre</title>
+		<link href="https://cisirh.github.io/fr/blog/newsletter-rebecca-oct23/"/>
+		<updated>2024-05-21T14:48:03Z</updated>
+		<id>https://cisirh.github.io/fr/blog/newsletter-rebecca-oct23/</id>
+		<content type="html">&lt;p&gt;Au sommaire :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mes nouvelles connaissances RH,&lt;/li&gt;
+&lt;li&gt;Le RIFSEEP s&#39;enrichit,&lt;/li&gt;
+&lt;li&gt;Un moteur de recherche plus efficace,&lt;/li&gt;
+&lt;li&gt;C&#39;est fait : l&#39;affichage des réponses du domaine RH évolue ce mois-ci !,&lt;/li&gt;
+&lt;li&gt;Astuce : indemnités incompatibles,&lt;/li&gt;
+&lt;li&gt;Mon stand au salon des applications RH.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bonne lecture ! N&#39;hésitez pas à la diffuser autour de vous.&lt;/p&gt;
+</content>
+	</entry>
+</feed>
