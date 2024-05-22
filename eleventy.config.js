@@ -13,7 +13,6 @@ const {EleventyHtmlBasePlugin} = require("@11ty/eleventy");
 const {EleventyI18nPlugin} = require("@11ty/eleventy");
 const i18n = require("@codegouvfr/eleventy-plugin-i18n");
 const pluginCalendar = require("@codegouvfr/eleventy-plugin-calendar");
-
 const customMarkdownContainers = require("./markdown-custom-containers");
 
 const {translations} = require("./_data/i18n");
@@ -234,6 +233,6 @@ module.exports = function (eleventyConfig) {
         // When paired with the HTML <base> plugin https://www.11ty.dev/docs/plugins/html-base/
         // it will transform any absolute URLs in your HTML to include this
         // folder name and does **not** affect where things go in the output folder.
-        pathPrefix: "/",
+        pathPrefix: "/Test/",
     };
 };
