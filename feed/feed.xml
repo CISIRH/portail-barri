@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="fr">
 	<title>Portail du BARRI</title>
 	<subtitle>Centre interministériel de services informatiques relatifs aux ressources humaines (CISIRH)</subtitle>
-	<link href="https://barri.devalle.fr/Test/feed/feed.xml" rel="self"/>
-	<link href="https://barri.devalle.fr/Test/"/>
-	<updated>2024-05-22T20:02:09Z</updated>
+	<link href="https://barri.devalle.fr/portail-barri/feed/feed.xml" rel="self"/>
+	<link href="https://barri.devalle.fr/portail-barri/"/>
+	<updated>2024-05-24T17:11:49Z</updated>
 	<id>https://barri.devalle.fr</id>
 	<author>
 		<name>Centre interministériel de services informatiques relatifs aux ressources humaines</name>
@@ -12,9 +12,9 @@
 	</author>
 	<entry>
 		<title>Publication du noyau RH FPE 23.10.00</title>
-		<link href="https://barri.devalle.fr/Test/fr/blog/publication-noyau-fev24/"/>
-		<updated>2024-05-22T20:02:09Z</updated>
-		<id>https://barri.devalle.fr/Test/fr/blog/publication-noyau-fev24/</id>
+		<link href="https://barri.devalle.fr/portail-barri/fr/blog/publication-noyau-fev24/"/>
+		<updated>2024-05-24T17:11:49Z</updated>
+		<id>https://barri.devalle.fr/portail-barri/fr/blog/publication-noyau-fev24/</id>
 		<content type="html">&lt;p&gt;Cette version du Noyau RH FPE prend notamment en compte :&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;les mises à jour des Référentiels de Classification Centraux (RCC) réalisées depuis la diffusion de la version d’actualisation 23.00.00 du Noyau RH FPE ;&lt;/li&gt;
@@ -34,9 +34,9 @@
 	</entry>
 	<entry>
 		<title>Chatbot Rebecca - Publication de la newsletter d&#39;octobre</title>
-		<link href="https://barri.devalle.fr/Test/fr/blog/newsletter-rebecca-oct23/"/>
-		<updated>2024-05-22T20:02:09Z</updated>
-		<id>https://barri.devalle.fr/Test/fr/blog/newsletter-rebecca-oct23/</id>
+		<link href="https://barri.devalle.fr/portail-barri/fr/blog/newsletter-rebecca-oct23/"/>
+		<updated>2024-05-24T17:11:49Z</updated>
+		<id>https://barri.devalle.fr/portail-barri/fr/blog/newsletter-rebecca-oct23/</id>
 		<content type="html">&lt;p&gt;Au sommaire :&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Mes nouvelles connaissances RH,&lt;/li&gt;
