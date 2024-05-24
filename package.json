@@ -15,9 +15,9 @@
     "url": "git@github.com:codegouvfr/eleventy-dsfr.git"
   },
   "author": {
-    "name": "Mission logiciels libres (DINUM)",
-    "email": "contact@code.gouv.fr",
-    "url": "https://code.gouv.fr/mission/"
+    "name": "CISIRH",
+    "email": "contact.cisirh@finances.gouv.fr",
+    "url": "https://economie.gouv.fr/cisirh"
   },
   "license": "MIT",
   "engines": {
