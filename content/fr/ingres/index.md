@@ -12,7 +12,7 @@ INGRES (INstrument de Gestion des REférentielS RH) s’adresse aux gestionnaire
 
 Le CISIRH en assure l’hébergement, l’exploitation et la maintenance. Il peut également proposer des formations à l’outil.
 
-[Flyer de présentation de INGRES](/portail-barri/files/flyer_ingres.pdf)
+[Flyer de présentation de INGRES](/files/flyer_ingres.pdf)
 
 # Fonctionnalités
 INGRES est une base de connaissances conforme à la réglementation et un outil de référence pour alimenter les SIRH ministériels. Il permet de :
