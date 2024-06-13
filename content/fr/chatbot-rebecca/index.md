@@ -17,6 +17,8 @@ La phase d'expérimentation de ce chatbot a débuté dans l’application RenoiR
 
 Ses connaissances se sont élargies et couvrent à présent de nouveaux domaines (cessations de fonctions, congés et absences, carrière, recrutement, discipline et formation), ainsi qu’un nouveau type de règles : les règles d’impact et une nouvelle population : les ouvriers de l'Etat.
 
+[CV RH & Paie de Rebecca](/files/cv_rh_paie_rebecca.pdf)
+
 **... et intègre désormais un volet paie**
 
 Elle propose notamment une description des indemnités servies aux agents de la Fonction Publique d'Etat et décrites dans le référentiel de paye (RdP) du CISIRH. Elle apporte son expertise sur les indemnités interministérielles ainsi que sur les indemnités du ministère de la Culture, du Conseil d'Etat, du ministère de l'Education Nationale et du ministère des Armées (personnels civils).
@@ -37,4 +39,6 @@ Elle propose notamment une description des indemnités servies aux agents de la 
 # Accès au chatbot
 
 Le chatbot Rebecca est disponible ...
+
+[Documentation utilisateur](/files/guide_utilisateur_chatbot.pdf)
 
