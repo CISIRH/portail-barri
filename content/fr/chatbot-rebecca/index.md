@@ -13,6 +13,8 @@ Début mai 2017, une réflexion a débuté pour mettre à disposition ces règle
 
 La phase d'expérimentation de ce chatbot a débuté dans l’application RenoiRH en décembre 2017. Les gestionnaires des ministères sociaux et de la culture pouvaient accéder à cet assistant directement depuis les pages du SIRH RenoiRH et effectuer des recherches sur les domaines « modalités de service » et « positions » pour les populations suivantes : titulaires, stagiaires et contractuels.
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=PZULODvwhJA" target="_blank"><img src="http://img.youtube.com/vi/YPZULODvwhJA/0.jpg" alt="Vidéo de présentation Rebecca" width="240" height="180" border="10" /></a>
+
 **Depuis sa création, Rebecca n’a cessé d’évoluer sur le domaine RH...**
 
 Ses connaissances se sont élargies et couvrent à présent de nouveaux domaines (cessations de fonctions, congés et absences, carrière, recrutement, discipline et formation), ainsi qu’un nouveau type de règles : les règles d’impact et une nouvelle population : les ouvriers de l'Etat.
