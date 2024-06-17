@@ -7,4 +7,7 @@ eleventyNavigation:
   order: 2
 ---
 
-<contact@code.gouv.fr>
+
+Pour toute demande d'information et d'accompagnement, n'hésitez pas à écrire à .
+
+Vous pouvez suivre le CISIRH sur les réseaux sociaux.
