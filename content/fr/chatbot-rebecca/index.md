@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 3
 ---
 # Présentation
-Depuis 2014, des travaux de mise en qualité des règles de gestion RH automatisables dans les SIRH ont été menés. A ces règles automatisables ont été ajoutées des règles de gestion relevant du contrôle intellectuel du gestionnaire. Au total, **plusieurs milliers de règles ont été décrites**.
+TEST Depuis 2014, des travaux de mise en qualité des règles de gestion RH automatisables dans les SIRH ont été menés. A ces règles automatisables ont été ajoutées des règles de gestion relevant du contrôle intellectuel du gestionnaire. Au total, **plusieurs milliers de règles ont été décrites**.
 
 Début mai 2017, une réflexion a débuté pour mettre à disposition ces règles de gestion de la manière la plus efficace possible pour un gestionnaire en mettant en œuvre un outil sans adhérence avec un SIRH. Le projet de mise en œuvre d’un chatbot était né : « Avec un chatbot, il s’agit d’offrir aux gestionnaires **un accès plus direct et convivial à la réglementation RH**. Un simple clic et l’agent pose sa question à l’aide de mots-clés et obtient une réponse immédiate. »
 
