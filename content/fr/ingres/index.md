@@ -8,7 +8,7 @@ eleventyNavigation:
 ---
 
 # Présentation
-INGRES (INstrument de Gestion des REférentielS RH) s’adresse aux gestionnaires RH des ministères, aux directions de tutelle et aux équipes projets des ministères. Les référentiels disponibles dans cet outil participent à la qualité, la conformité et l’homogénéité des données utilisées. Il oeuvre à la mise à disposition des référentiels communs et facilite les échanges avec les ministères et l’ensemble de la chaîne RH.
+**INGRES** (INstrument de Gestion des REférentielS RH) s’adresse aux gestionnaires RH des ministères, aux directions de tutelle et aux équipes projets des ministères. Les référentiels disponibles dans cet outil participent à la qualité, la conformité et l’homogénéité des données utilisées. Il oeuvre à la mise à disposition des **référentiels communs** et facilite les échanges avec les ministères et l’ensemble de la chaîne RH.
 
 Le CISIRH en assure l’hébergement, l’exploitation et la maintenance. Il peut également proposer des formations à l’outil.
 
