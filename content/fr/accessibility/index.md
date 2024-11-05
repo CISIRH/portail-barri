@@ -30,7 +30,7 @@ Malgré nos efforts, certains contenus sont inaccessibles. Vous trouverez ci-des
 - Code source non valide: le code source de l'application comporte des attributs obsolètes susceptibles d'affecter l'accessibilité de l'application.
 - Fichiers en téléchargement: certains documents en téléchargement ne sont pas traités pour l’accessibilité et ne disposent pas d’alternatives accessibles aux aveugles et grands malvoyants.
 
-L'ensemble de ces points de non conformité sera intégré aux plans d'action annuels du schéma pluriannuel de mise en accessibilité du CISIRH.
+L'ensemble de ces points de non conformité sera intégré aux plans d'action annuels du [schéma pluriannuel de mise en accessibilité du CISIRH](https://nexus.cisirh.rie.gouv.fr/repository/RGAA/CISIRH/Sch%C3%A9ma%20pluriannuel%20d'accessibilit%C3%A9%20du%20CISIRH).
 
 ## Outils utilisés pour évaluer l'accessibilité
 
@@ -59,8 +59,8 @@ Cette procédure est à utiliser dans le cas suivant : étant en situation de ha
 
 Vous pouvez :
 
-- Écrire un message au Défenseur des droits
-- Contacter le délégué du Défenseur des droits dans votre région
+- Écrire un message au [Défenseur des droits](https://formulaire.defenseurdesdroits.fr)
+- Contacter le [délégué du Défenseur des droits dans votre région](https://www.defenseurdesdroits.fr/saisir/delegues)
 - Envoyer un courrier par la poste (gratuit, ne pas mettre de timbre) :
     Défenseur des droits
     Libre réponse 71120 75342 Paris CEDEX 07
