@@ -25,7 +25,7 @@ Ses connaissances se sont élargies et couvrent à présent de nouveaux domaines
 
 **... et intègre désormais un volet paie**
 
-Elle présente la règlementation applicable aux indemnités servies aux agents de la Fonction Publique d'Etat et décrites dans le référentiel de paye (RdP) du CISIRH. Elle apporte son expertise sur les indemnités interministérielles ainsi que sur les indemnités du ministère de la Culture, du Conseil d'Etat, du ministère de l'Education Nationale et du ministère des Armées (personnels civils).
+Elle présente la réglementation applicable aux indemnités servies aux agents de la Fonction Publique d'Etat et décrites dans le référentiel de paye (RdP) du CISIRH. Elle apporte son expertise sur les indemnités interministérielles ainsi que sur les indemnités du ministère de la Culture, du Conseil d'Etat, du ministère de l'Education Nationale et du ministère des Armées (personnels civils).
 
 **De plus :**
 
