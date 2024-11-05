@@ -4,7 +4,7 @@
 	<subtitle>Centre interministériel de services informatiques relatifs aux ressources humaines (CISIRH)</subtitle>
 	<link href="https://cisirh.github.io/portail-barri/feed/feed.xml" rel="self"/>
 	<link href="https://cisirh.github.io/portail-barri/portail-barri"/>
-	<updated>2024-11-05T08:14:30Z</updated>
+	<updated>2024-11-05T08:23:03Z</updated>
 	<id>https://cisirh.github.io/portail-barri</id>
 	<author>
 		<name>Centre interministériel de services informatiques relatifs aux ressources humaines</name>
@@ -13,7 +13,7 @@
 	<entry>
 		<title>Publication du noyau RH FPE 23.10.00</title>
 		<link href="https://cisirh.github.io/portail-barri/fr/blog/publication-noyau-fev24/"/>
-		<updated>2024-11-05T08:14:30Z</updated>
+		<updated>2024-11-05T08:23:03Z</updated>
 		<id>https://cisirh.github.io/portail-barri/fr/blog/publication-noyau-fev24/</id>
 		<content type="html">&lt;p&gt;Cette version du Noyau RH FPE prend notamment en compte :&lt;/p&gt;
 &lt;ul&gt;
@@ -35,7 +35,7 @@
 	<entry>
 		<title>chatbot-rebecca - Publication de la newsletter d&#39;octobre</title>
 		<link href="https://cisirh.github.io/portail-barri/fr/blog/newsletter-rebecca-oct23/"/>
-		<updated>2024-11-05T08:14:30Z</updated>
+		<updated>2024-11-05T08:23:03Z</updated>
 		<id>https://cisirh.github.io/portail-barri/fr/blog/newsletter-rebecca-oct23/</id>
 		<content type="html">&lt;p&gt;Au sommaire :&lt;/p&gt;
 &lt;ul&gt;
@@ -52,7 +52,7 @@
 	<entry>
 		<title>FAQ - Transfert de gestion</title>
 		<link href="https://cisirh.github.io/portail-barri/fr/blog/faq-transfertgestion-sgcd/"/>
-		<updated>2024-11-05T08:14:30Z</updated>
+		<updated>2024-11-05T08:23:03Z</updated>
 		<id>https://cisirh.github.io/portail-barri/fr/blog/faq-transfertgestion-sgcd/</id>
 		<content type="html">&lt;p&gt;&lt;strong&gt;Question détaillée&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Dans le cadre du transfert de certains personnels vers les secrétariats généraux communs (SGCD), une convention de gestion doit être signée avec le ministère de l’intérieur pour le transfert de personnels non titulaires (Berkani) ainsi que d’ouvriers des Parcs et Ateliers (OPA).
