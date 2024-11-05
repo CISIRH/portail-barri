@@ -25,24 +25,21 @@ Ses connaissances se sont élargies et couvrent à présent de nouveaux domaines
 
 **... et intègre désormais un volet paie**
 
-Elle propose notamment une description des indemnités servies aux agents de la Fonction Publique d'Etat et décrites dans le référentiel de paye (RdP) du CISIRH. Elle apporte son expertise sur les indemnités interministérielles ainsi que sur les indemnités du ministère de la Culture, du Conseil d'Etat, du ministère de l'Education Nationale et du ministère des Armées (personnels civils).
+Elle présente la règlementation applicable aux indemnités servies aux agents de la Fonction Publique d'Etat et décrites dans le référentiel de paye (RdP) du CISIRH. Elle apporte son expertise sur les indemnités interministérielles ainsi que sur les indemnités du ministère de la Culture, du Conseil d'Etat, du ministère de l'Education Nationale et du ministère des Armées (personnels civils).
 
 **De plus :**
 
 - Elle suit les évolutions réglementaires.
-- Elle permet aux ministères de mettre à disposition de leurs gestionnaires leur documentation personnelle.
-- Elle offre désormais ses services à de nombreuses structures partenaires : ministère de la Transition Ecologique et Solidaire, ministère de l’Agriculture et de l’Alimentation, ministère des Armées, ministère de l’Intérieur, Cour des Comptes, Météo France, Direction Générale de l'Aviation Civile, Agence de Mutualisation des Universités et des Etablissements…
+- Elle permet aux ministères de mettre à disposition de leurs gestionnaires leur documentation propre.
+- Elle offre désormais ses services à de nombreux partenaires : ministère de la Transition Ecologique et Solidaire, ministère de l’Agriculture et de l’Alimentation, ministère des Armées, ministère de l’Intérieur, Cour des Comptes, Météo France, Direction Générale de l'Aviation Civile, Agence de Mutualisation des Universités et des Etablissements…
 
 # Fonctionnalités
-- Fournir des **règles de gestion RH fiabilisées et actualisées** des différentes situations de gestion de la Fonction Publique d’Etat, pour les titulaires, stagiaires, contractuels, ouvriers d’Etat et prochainement les militaires, avec à l’appui les références juridiques précises sur lesquelles elles se fondent;
-- Mettre à disposition les **fiches indemnitaires interministérielles et ministérielles** des structures partenaires clientes de l’offre « Référentiel de paye » (RdP);
+- Fournir des **règles de gestion RH fiabilisées et actualisées** des différentes situations de gestion de la Fonction Publique d’Etat, pour les titulaires, stagiaires, contractuels, ouvriers d’Etat et prochainement les militaires, ainsi que leurs références juridiques;
+- Mettre à disposition les **fiches indemnitaires interministérielles et ministérielles** des partenaires clientes de l’offre « Référentiel de paye » (RdP);
 - **Contextualiser** les réponses grâce à la mise à disposition de modes opératoires propres à chaque SIRH;
-- Envoyer régulièrement des **notifications** sur les actualités du chatbot et plus généralement de la règlementation RH de la Fonction Publique d’Etat;
-- Proposer des **QCM** pour permettre de tester ses connaissances en matière de règlementation RH.
+- Envoyer régulièrement des **notifications** pour informer des actualités du chatbot;
+- Proposer des **QCM** permettant de tester ses connaissances en matière de règlementation RH.
 
-# Accès au chatbot
-
-Le chatbot Rebecca est disponible ...
 
 [Documentation utilisateur](/files/guide_utilisateur_chatbot.pdf)
 
