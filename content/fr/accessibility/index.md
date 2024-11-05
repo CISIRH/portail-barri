@@ -13,11 +13,13 @@ Cette déclaration d’accessibilité s’applique au Portail du Bureau de l'ana
 # État de conformité
 
 Le Portail du BARRI est <strong class="aModifier">partiellement</strong> conforme avec le RGAA 4.1. Partiellement conforme veut dire que certaines sections du contenu ne sont pas entièrement conformes aux standards d'accessibilités.
-Résultats des tests
+
+# Résultats des tests
 
 L’audit de conformité réalisé en interne, par une personne non impliquée dans le développement de l'application, révèle que 85,10 % des critères RGAA sont respectés.
-Contenus non accessibles
-Non conformité
+
+# Contenus non accessibles
+## Non conformité
 
 Malgré nos efforts, certains contenus sont inaccessibles. Vous trouverez ci-dessous une liste des limitations connues :
 
@@ -30,11 +32,11 @@ Malgré nos efforts, certains contenus sont inaccessibles. Vous trouverez ci-des
 
 L'ensemble de ces points de non conformité sera intégré aux plans d'action annuels du schéma pluriannuel de mise en accessibilité du CISIRH.
 
-# Outils utilisés pour évaluer l'accessibilité
+## Outils utilisés pour évaluer l'accessibilité
 
 La vérification de l'accessibilité est le résultat de tests manuels, assistés par des outils (bookmarklets, feuilles de style CSS personnalisées, Color Contrast Analyser, lecteurs d'écran, inspecteur de code, Web Developer Toolbar).
 
-# Dérogations pour charge disproportionnée
+## Dérogations pour charge disproportionnée
 
 Le CISIRH n'invoque la dérogation temporaire pour charge disproportionnée sur aucune section, aucun contenu et aucune fonction de l'application.
 
@@ -50,7 +52,8 @@ Si vous n’arrivez pas à accéder à un contenu ou à un service en raison d'u
 - Adresse : 41 boulevard Vincent Auriol, 75013 Paris
 
 Important: merci de n’utiliser ces coordonnées qu’en cas de défaut d'adaptation de l'application à votre handicap. Si vous avez besoin d’assistance sur un autre sujet, vous pouvez contacter votre assistance utilisateur locale.
-Voie de recours
+
+# Voie de recours
 
 Cette procédure est à utiliser dans le cas suivant : étant en situation de handicap, vous avez signalé au responsable accessibilité de l'application un défaut d’accessibilité qui vous empêche d’accéder à un contenu ou à un des services de l'application et vous n’avez pas obtenu de réponse dans un délai satisfaisant.
 
