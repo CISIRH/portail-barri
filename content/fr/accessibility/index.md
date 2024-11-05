@@ -1,20 +1,18 @@
 ---
-title: Exemple de déclaration d’accessibilité
+title: Déclaration d’accessibilité
 layout: layouts/post.njk
 description: Déclaration d’accessibilité à compléter
 slugOverride: accessibilite
 showBreadcrumb: true
 ---
 
-# Déclaration d'accessibilité
-
 Le Centre Interministériel de Services Informatiques relatifs aux Ressources Humaines (CISIRH) s’engage à rendre son service accessible, conformément à l’article 47 de la loi n° 2005-102 du 11 février 2005.
 
 Cette déclaration d’accessibilité s’applique au Portail du Bureau de l'analyse réglementaire et des référentiels interministériels (BARRI).
 
-## État de conformité
+# État de conformité
 
-Le Portail du BARRI est partiellement conforme avec le RGAA 4.1. Partiellement conforme veut dire que certaines sections du contenu ne sont pas entièrement conformes aux standards d'accessibilités.
+Le Portail du BARRI est <strong class="aModifier">partiellement</strong> conforme avec le RGAA 4.1. Partiellement conforme veut dire que certaines sections du contenu ne sont pas entièrement conformes aux standards d'accessibilités.
 Résultats des tests
 
 L’audit de conformité réalisé en interne, par une personne non impliquée dans le développement de l'application, révèle que 85,10 % des critères RGAA sont respectés.
@@ -32,19 +30,19 @@ Malgré nos efforts, certains contenus sont inaccessibles. Vous trouverez ci-des
 
 L'ensemble de ces points de non conformité sera intégré aux plans d'action annuels du schéma pluriannuel de mise en accessibilité du CISIRH.
 
-## Outils utilisés pour évaluer l'accessibilité
+# Outils utilisés pour évaluer l'accessibilité
 
 La vérification de l'accessibilité est le résultat de tests manuels, assistés par des outils (bookmarklets, feuilles de style CSS personnalisées, Color Contrast Analyser, lecteurs d'écran, inspecteur de code, Web Developer Toolbar).
 
-## Dérogations pour charge disproportionnée
+# Dérogations pour charge disproportionnée
 
 Le CISIRH n'invoque la dérogation temporaire pour charge disproportionnée sur aucune section, aucun contenu et aucune fonction de l'application.
 
-## Établissement de cette déclaration d'accessibilité
+# Établissement de cette déclaration d'accessibilité
 
 Cette déclaration a été établie le 4 novembre 2024.
 
-## Amélioration et contact
+# Amélioration et contact
 
 Si vous n’arrivez pas à accéder à un contenu ou à un service en raison d'un défaut d'adaptation de l'application à votre handicap, vous pouvez contacter le responsable accessibilité du Portail du BARRI pour être orienté vers une alternative accessible ou obtenir le contenu sous une autre forme.
 
