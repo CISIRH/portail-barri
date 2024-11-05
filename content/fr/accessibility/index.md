@@ -6,101 +6,60 @@ slugOverride: accessibilite
 showBreadcrumb: true
 ---
 
-<span class="aModifier">[Nom de l’entité]</span> s’engage à rendre ses sites internet, intranet, extranet et ses progiciels accessibles (et ses applications mobiles et mobilier urbain numérique) conformément à l’article 47 de la loi n°2005-102 du 11 février 2005.
+# Déclaration d'accessibilité
 
-À cette fin, <span class="aModifier">[Nom de l’entité]</span> met en œuvre la stratégie et les actions suivantes :
+Le Centre Interministériel de Services Informatiques relatifs aux Ressources Humaines (CISIRH) s’engage à rendre son service accessible, conformément à l’article 47 de la loi n° 2005-102 du 11 février 2005.
 
-- Schéma pluriannuel de mise en accessibilité 2022-2024 <span class="aModifier">[url]</span> ;
-- Actions réalisées en 2020-2021 <span class="aModifier">[url]</span> ;
-- Plan d’actions 2022-2024 <span class="aModifier">[url]</span>.
-
-Cette déclaration d’accessibilité s’applique à <span class="aModifier">[www.nomdusite.gouv.fr]</span>.
+Cette déclaration d’accessibilité s’applique au Portail du Bureau de l'analyse réglementaire et des référentiels interministériels (BARRI).
 
 ## État de conformité
 
-<span class="aModifier">[Nom du site (url du site)]</span> est <strong class="aModifier">non/partiellement/totalement</strong> conforme avec le référentiel général d’amélioration de l’accessibilité (RGAA), version 4 en raison des non-conformités et des dérogations énumérées ci-dessous.
+Le Portail du BARRI est partiellement conforme avec le RGAA 4.1. Partiellement conforme veut dire que certaines sections du contenu ne sont pas entièrement conformes aux standards d'accessibilités.
+Résultats des tests
 
-### Résultats des tests
+L’audit de conformité réalisé en interne, par une personne non impliquée dans le développement de l'application, révèle que 85,10 % des critères RGAA sont respectés.
+Contenus non accessibles
+Non conformité
 
-L’audit de conformité réalisé par <span class="aModifier">[nom de l’entité qui a réalisé l’audit]</span> révèle que :
+Malgré nos efforts, certains contenus sont inaccessibles. Vous trouverez ci-dessous une liste des limitations connues :
 
-- <span class="aModifier">[nn]</span>% des critères du RGAA version 4 sont respectés ;
-- (Facultatif) Le taux moyen de conformité du site s’élève à <span class="aModifier">[nn]</span>% ;
-- (Facultatif) Accès à la grille d’audit RGAA <span class="aModifier">[url]</span> pour télécharger la grille d’audit.
+- Images de décoration sans alternatives vides: des images de décoration sont renseignées, ce qui produit de l'information inutile pour les utilisateurs de lecteurs d'écrans et de systèmes de vocalisations couplés aux logiciels d'agrandissement.
+- Identification des changements de langue dans les pages: certains changements de langue dans les pages ne sont pas indiqués, ce qui peut provoquer une lecture du texte dans une mauvaise langue par les lecteurs d'écran et rendre inopérant le recours à un système de vocalisation.
+- Système de navigation non pertinent: les zones de regroupement de contenus ne sont pas toutes identifiées et aucun lien d'évitement ne permet d'aller directement au contenu principal de la page, ce qui peut rendre la navigation laborieuse pour des utilisateurs en situation de handicap.
+- Contrôle des contenus: certaines actions déclenchées au moyen d’un dispositif de pointage sur un point unique de l’écran ne peuvent faire l’objet d’une annulation, ce qui peut perturber la navigation des utilisateurs recourant à des technologies d'assistance (lecteurs d'écrans ou périphériques spécialisés).
+- Code source non valide: le code source de l'application comporte des attributs obsolètes susceptibles d'affecter l'accessibilité de l'application.
+- Fichiers en téléchargement: certains documents en téléchargement ne sont pas traités pour l’accessibilité et ne disposent pas d’alternatives accessibles aux aveugles et grands malvoyants.
 
-## Contenus non accessibles
+L'ensemble de ces points de non conformité sera intégré aux plans d'action annuels du schéma pluriannuel de mise en accessibilité du CISIRH.
 
-### Non-conformités
+## Outils utilisés pour évaluer l'accessibilité
 
-Exemples :
+La vérification de l'accessibilité est le résultat de tests manuels, assistés par des outils (bookmarklets, feuilles de style CSS personnalisées, Color Contrast Analyser, lecteurs d'écran, inspecteur de code, Web Developer Toolbar).
 
-- La vidéo de présentation de la demande d’aide n’a pas de transcription. Pour toute question sur cette démarche, vous pouvez contacter le NN NN NN NN NN. La version 2020 respectera les critères du RGAA sur les alternatives texte pour les documents multimédias.
-- Le bouton d’envoi du formulaire de déclaration contient un intitulé « Retour » au lieu de « Envoi ». Cette erreur sera corrigée avant le 31 mars 2020
-- La connexion au compte personnel contient une vérification que vous n’êtes pas un robot avec un captcha visuel. Il est possible d’effectuer sa démarche par téléphone ou au guichet pour les personnes empêchées d’accéder à leur compte...
+## Dérogations pour charge disproportionnée
 
-### Dérogations pour charge disproportionnée
+Le CISIRH n'invoque la dérogation temporaire pour charge disproportionnée sur aucune section, aucun contenu et aucune fonction de l'application.
 
-Exemple :
-Les archives des comptes rendus des séances du conseil municipal jusqu’en 2010 sont au format PDF image. Il est cependant possible d’en demander un exemplaire texte par courriel
+## Établissement de cette déclaration d'accessibilité
 
-### Contenus non soumis à l’obligation d’accessibilité
+Cette déclaration a été établie le 4 novembre 2024.
 
-Exemples :
+## Amélioration et contact
 
-- Cartes de l’Institut géographique national associées à l’annuaire
-- Reproduction du manuscrit du Moyen-Âge...
+Si vous n’arrivez pas à accéder à un contenu ou à un service en raison d'un défaut d'adaptation de l'application à votre handicap, vous pouvez contacter le responsable accessibilité du Portail du BARRI pour être orienté vers une alternative accessible ou obtenir le contenu sous une autre forme.
 
-## Établissement de cette déclaration d’accessibilité
+- E-mail : aurelien.louche@finances.gouv.fr
+- Adresse : 41 boulevard Vincent Auriol, 75013 Paris
 
-Cette déclaration a été établie le <span class="aModifier">[JJ/MM/AAAA]</span>.
-Elle a été mise à jour le <span class="aModifier">[JJ/MM/AAAA]</span>.
+Important: merci de n’utiliser ces coordonnées qu’en cas de défaut d'adaptation de l'application à votre handicap. Si vous avez besoin d’assistance sur un autre sujet, vous pouvez contacter votre assistance utilisateur locale.
+Voie de recours
 
-### Technologies utilisées pour la réalisation du site
+Cette procédure est à utiliser dans le cas suivant : étant en situation de handicap, vous avez signalé au responsable accessibilité de l'application un défaut d’accessibilité qui vous empêche d’accéder à un contenu ou à un des services de l'application et vous n’avez pas obtenu de réponse dans un délai satisfaisant.
 
-- HTML5
-- CSS
-- ...
-
-### Environnement de test
-
-Les vérifications de restitution de contenus ont été réalisées sur la base de la combinaison fournie par la base de référence du RGAA, avec les versions suivantes :
-
-- Firefox et NVDA
-- Safari et VoiceOver
-- ...
-
-### Outils pour évaluer l’accessibilité
-
-- color contrast analyzer
-- inspecteur de code
-- ...
-
-### Pages du site ayant fait l’objet de la vérification de conformité
-
-- page d’accueil <span class="aModifier">[url]</span>
-- page contact <span class="aModifier">[url]</span>
-- page mentions légales <span class="aModifier">[url]</span>
-- page accessibilité <span class="aModifier">[url]</span>
-- page plan du site <span class="aModifier">[url]</span>
-- page d’aide <span class="aModifier">[url]</span>
-- ...
-
-## Retour d’information et contact
-
-Si vous n’arrivez pas à accéder à un contenu ou à un service, vous pouvez contacter le responsable de <span class="aModifier">[nom du site]</span> pour être orienté vers une alternative accessible ou obtenir le contenu sous une autre forme.
-
-- Envoyer un message <span class="aModifier">[url du formulaire en ligne]</span> ;
-- Contacter <span class="aModifier">[Nom de l’entité responsable du service en ligne et coordonnées]</span>.
-
-## Voies de recours
-
-Si vous constatez un défaut d’accessibilité vous empêchant d’accéder à un contenu ou une fonctionnalité du site, que vous nous le signalez et que vous ne parvenez pas à obtenir une réponse de notre part, vous êtes en droit de faire parvenir vos doléances ou une demande de saisine au Défenseur des droits.
-
-Plusieurs moyens sont à votre disposition :
+Vous pouvez :
 
 - Écrire un message au Défenseur des droits
 - Contacter le délégué du Défenseur des droits dans votre région
-- Envoyer un courrier par la poste (gratuit, ne pas mettre de timbre)
-  Défenseur des droits
-  Libre réponse 71120
-  75342 Paris CEDEX 07
+- Envoyer un courrier par la poste (gratuit, ne pas mettre de timbre) :
+    Défenseur des droits
+    Libre réponse 71120 75342 Paris CEDEX 07
