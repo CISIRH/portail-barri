@@ -24,3 +24,8 @@ INGRES est une base de connaissances conforme à la réglementation RH et un out
 - Intégrer des flux permettant une **mise à jour automatisée des référentiels SIRH**;
 - Une **aide en ligne** et des sessions de formation régulières permettant un accès facilité à l’application et son contenu.
 
+**API INGRES** : 2 API "Nomenclatures" et "Diffusion" basées sur les référentiels de l’outil Ingres sont référencées sur le catalogue de la DINUM : https://api.gouv.fr. Ces API ont pour objectif de fluidifier la diffusion et l’utilisation des nomenclatures réglementaires RH de la FPE.
+
+La première **API « Nomenclatures »** permet d’obtenir, au format JSON (JavaScript Objet Notation), via une simple requête, la liste des codes réglementaires de toutes les nomenclatures gérées dans INGRES. Elle peut être utilisée directement dans le développement de vos applications utilisant ces données afin de disposer de référentiels toujours « à jour ». 
+
+La  seconde **API « Diffusions »** permet de récupérer au format Excel ou XML la liste des codes réglementaires présents dans INGRES (dans le même format que celui des diffusions officielles du « Noyau RH FPE »).
