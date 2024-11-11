@@ -23,8 +23,8 @@ Le CISIRH en assure l’hébergement, l’exploitation et la maintenance. Il pro
 - **Extraire des rapports** utiles au suivi et à la validation du contenu des référentiels;
 - Intégrer des flux permettant une **mise à jour automatisée des référentiels SIRH**;
 - Une **aide en ligne** et des sessions de formation régulières permettant un accès facilité à l’application et son contenu.
-
-
+<br>
+<br>
 
 **API INGRES** : 2 API "Nomenclatures" et "Diffusion" basées sur les référentiels de l’outil Ingres sont référencées sur le catalogue de la DINUM : https://api.gouv.fr. Ces API ont pour objectif de fluidifier la diffusion et l’utilisation des nomenclatures réglementaires RH de la FPE.
 
