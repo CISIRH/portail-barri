@@ -16,7 +16,7 @@ Au cœur de cette offre, le CISIRH gère et met à disposition, via **INGRES** e
 # Contenu du Noyau RH FPE
 Cette offre s’articule autour de quatre items :
 - **Une documentation de référence pour les ressources humaines** : description d’éléments réglementaires, de concepts, de pratiques ou de fonctionnalités (ex : guide des PJ, guide d’avancement d’échelon, bibliothèque des actes).
-- **Un dictionnaire de données** : liste et description des données implémentées dans les SIRH (ex : matricule, statut, etc.).
+- **Un dictionnaire de données** : liste et description des données à implémenter dans les SIRH (ex : matricule, statut, etc.) indispensables pour constituer et gérer le dossier d'un agent. 
 - **L'ensemble des référentiels partagés entre les ministères** : valeurs associées aux données (accessibles par listes déroulantes dans les SIRH, ex : corps, grades etc.).
-- **Un répertoire des règles de gestion** : description des contrôles (intellectuels ou automatisés) pour la mise en œuvre d’événements de gestion liés à la RH, à la paye et au post-paye.
+- **Un répertoire des règles de gestion** : description des contrôles (automatisés ou, à défaut, intellectuels) pour la mise en œuvre d’événements de gestion liés à la RH, à la paye et au déclaratif (post-paye) dans le SIRH.
 
