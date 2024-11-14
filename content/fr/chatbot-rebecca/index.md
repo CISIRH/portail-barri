@@ -38,6 +38,5 @@ Elle présente la réglementation applicable aux indemnités et primes des agent
 - Envoyer régulièrement des **notifications** pour informer des actualités du <span lang="en">chatbot<span>;
 - Proposer des **QCM** permettant de tester ses connaissances en matière de règlementation RH.
 
-
 [Documentation utilisateur](/files/guide_utilisateur_chatbot.pdf)
 
