@@ -4,7 +4,7 @@ description: Dans le cadre du transfert de certains personnels vers les SGCD (se
 date: git Last Modified
 image:
   path: ./logo-faq.png
-	alt:
+	alt: null
 tags:
   - Transfert de gestion
   - Affectation
