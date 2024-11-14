@@ -5,6 +5,7 @@ description: La nouvelle version du noyau est disponible !
 date: git Last Modified
 image:
   path: ./logo-noyau-rh-fpe.jpg
+	alt:
 tags:
   - noyau
 ---
