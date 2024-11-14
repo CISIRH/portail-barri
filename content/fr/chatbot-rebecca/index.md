@@ -39,5 +39,5 @@ Elle présente la réglementation applicable aux indemnités et primes des agent
 - Proposer des **QCM** permettant de tester ses connaissances en matière de règlementation RH.
 
 
-[Documentation utilisateur](/files/guide_utilisateur_<span lang="en">chatbot<span>.pdf)
+[Documentation utilisateur](/files/guide_utilisateur_chatbot.pdf)
 
