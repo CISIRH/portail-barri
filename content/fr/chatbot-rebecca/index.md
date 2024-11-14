@@ -1,17 +1,17 @@
 ---
 layout: layouts/page.njk
-title: <p lang="en">chatbot<p> Rebecca
+title: Chatbot Rebecca
 eleventyNavigation:
-  key: <p lang="en">chatbot<p> Rebecca
+  key: Chatbot Rebecca
   parent:
   order: 3
 ---
 # Présentation
 Depuis 2014, des travaux de mise en qualité des règles de gestion RH automatisables dans les SIRH ont été menés. A ces règles automatisables ont été ajoutées des règles de gestion relevant du contrôle intellectuel du gestionnaire. Au total, **plusieurs milliers de règles ont ainsi été décrites**.
 
-Début mai 2017, une réflexion a débuté pour mettre à disposition du gestionnaire ces règles de gestion de la manière la plus efficace possible avec un outil sans adhérence avec un SIRH. Le projet de créer à cet effet un assistant digital était né : « Avec un <p lang="en">chatbot<p>, il s’agit d’offrir aux gestionnaires **un accès plus direct et convivial à la réglementation RH**. Un simple clic permet à l'agent de poser sa question à l’aide de mots-clés et d'obtenir une réponse immédiate. »
+Début mai 2017, une réflexion a débuté pour mettre à disposition du gestionnaire ces règles de gestion de la manière la plus efficace possible avec un outil sans adhérence avec un SIRH. Le projet de créer à cet effet un assistant digital était né : « Avec un <div lang="en">chatbot<div>, il s’agit d’offrir aux gestionnaires **un accès plus direct et convivial à la réglementation RH**. Un simple clic permet à l'agent de poser sa question à l’aide de mots-clés et d'obtenir une réponse immédiate. »
 
-La phase d'expérimentation de ce <p lang="en">chatbot<p> a débuté dans l’application RenoiRH en décembre 2017. Les gestionnaires des ministères sociaux et de la culture pouvaient accéder à cet assistant directement depuis les pages du SIRH RenoiRH et effectuer des recherches sur les domaines « modalités de service » et « positions » pour les populations suivantes : titulaires, stagiaires et contractuels.
+La phase d'expérimentation de ce <div lang="en">chatbot<div> a débuté dans l’application RenoiRH en décembre 2017. Les gestionnaires des ministères sociaux et de la culture pouvaient accéder à cet assistant directement depuis les pages du SIRH RenoiRH et effectuer des recherches sur les domaines « modalités de service » et « positions » pour les populations suivantes : titulaires, stagiaires et contractuels.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=PZULODvwhJA" target="_blank"><img src="http://img.youtube.com/vi/PZULODvwhJA/0.jpg" alt="Présentation Rebecca" width="240" height="180" border="10" /></a>
 
@@ -35,9 +35,9 @@ Elle présente la réglementation applicable aux indemnités et primes des agent
 - Fournir des **règles de gestion RH fiables et actualisées** des différentes situations de gestion de la Fonction Publique d’Etat, pour les titulaires, stagiaires, contractuels, ouvriers d’Etat et prochainement les militaires, ainsi que leurs références juridiques;
 - Mettre à disposition les **fiches indemnitaires interministérielles et ministérielles** des partenaires clients de l’offre de service « Référentiel de paye » (RdP);
 - **Contextualiser** les réponses grâce à la mise à disposition de modes opératoires propres à chaque SIRH;
-- Envoyer régulièrement des **notifications** pour informer des actualités du <p lang="en">chatbot<p>;
+- Envoyer régulièrement des **notifications** pour informer des actualités du <div lang="en">chatbot<div>;
 - Proposer des **QCM** permettant de tester ses connaissances en matière de règlementation RH.
 
 
-[Documentation utilisateur](/files/guide_utilisateur_<p lang="en">chatbot<p>.pdf)
+[Documentation utilisateur](/files/guide_utilisateur_<div lang="en">chatbot<div>.pdf)
 
