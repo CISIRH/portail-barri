@@ -4,7 +4,6 @@ description: La newsletter du mois d'octobre est disponible !
 date: git Last Modified
 image:
   path: ./logo-chatbot.png
-  alt : Illustration contenant l'avatar du chatbot
 tags:
   - chatbot
 ---
