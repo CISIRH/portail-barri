@@ -4,6 +4,7 @@ title: Publication du noyau RH FPE 23.10.00
 description: La nouvelle version du noyau est disponible !
 date: git Last Modified
 image:
+	alt,
   path: ./logo-noyau-rh-fpe.jpg
 tags:
   - noyau
