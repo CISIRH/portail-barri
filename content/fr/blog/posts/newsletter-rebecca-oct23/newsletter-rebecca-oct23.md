@@ -1,6 +1,6 @@
 ---
 title: Rebecca - Publication de la newsletter d'octobre
-description: La newsletter du mois d'octobre est disponible !
+description: La lettre d'information du mois d'octobre est disponible !
 date: git Last Modified
 image:
   path: ./logo-chatbot.png
