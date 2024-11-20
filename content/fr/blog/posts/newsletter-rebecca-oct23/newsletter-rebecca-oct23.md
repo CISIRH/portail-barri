@@ -1,5 +1,5 @@
 ---
-title: Rebecca - Publication de la newsletter d'octobre
+title: Rebecca - Publication de la lettre d'information d'octobre
 description: La lettre d'information du mois d'octobre est disponible !
 date: git Last Modified
 image:
