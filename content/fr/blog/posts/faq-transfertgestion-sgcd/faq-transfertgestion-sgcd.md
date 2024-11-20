@@ -3,8 +3,8 @@ title: FAQ - Transfert de gestion
 description: Dans le cadre du transfert de certains personnels vers les SGCD (secrétariats généraux communs), quelle est la position à utiliser dans ce cas de figure ?
 date: git Last Modified
 image:
-  path: ./logo-faq.png
-	alt: null
+    path: ./logo-faq.png
+    alt:
 tags:
   - Transfert de gestion
   - Affectation
