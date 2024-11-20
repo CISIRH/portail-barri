@@ -1,5 +1,5 @@
 ---
-title: chatbot-rebecca - Publication de la newsletter d'octobre
+title: Rebecca - Publication de la newsletter d'octobre
 description: La newsletter du mois d'octobre est disponible !
 date: git Last Modified
 image:
