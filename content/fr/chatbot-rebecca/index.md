@@ -19,8 +19,6 @@ La phase d'expérimentation de ce <span lang="en">chatbot<span> a débuté dans 
 
 Ses connaissances se sont élargies et couvrent à présent de nouveaux domaines (cessations de fonctions, congés et absences, carrière, recrutement, discipline et formation), ainsi qu’un nouveau type de règles : les règles d’impact et une nouvelle population : les ouvriers de l'Etat.
 
-[CV RH & Paie de Rebecca](/files/cv_rh_paie_rebecca.pdf)
-
 **... et intègre désormais un volet paie**
 
 Elle présente la réglementation applicable aux indemnités et primes des agents de la Fonction Publique d'Etat et décrites dans le référentiel de paye (RdP) du CISIRH. Elle apporte son expertise sur les indemnités interministérielles ainsi que sur les indemnités du ministère de la Culture, du Conseil d'Etat, du ministère de l'Education Nationale et du ministère des Armées (personnels civils).
@@ -37,6 +35,4 @@ Elle présente la réglementation applicable aux indemnités et primes des agent
 - **Contextualiser** les réponses grâce à la mise à disposition de modes opératoires propres à chaque SIRH;
 - Envoyer régulièrement des **notifications** pour informer des actualités du <span lang="en">chatbot<span>;
 - Proposer des **QCM** permettant de tester ses connaissances en matière de règlementation RH.
-
-[Documentation utilisateur](/files/guide_utilisateur_chatbot.pdf)
 
