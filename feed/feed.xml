@@ -4,59 +4,52 @@
 	<subtitle>Centre interministériel de services informatiques relatifs aux ressources humaines (CISIRH)</subtitle>
 	<link href="https://cisirh.github.io/portail-barri/feed/feed.xml" rel="self"/>
 	<link href="https://cisirh.github.io/portail-barri/portail-barri"/>
-	<updated>2025-02-07T13:09:14Z</updated>
+	<updated>2025-02-07T16:48:11Z</updated>
 	<id>https://cisirh.github.io/portail-barri</id>
 	<author>
 		<name>Centre interministériel de services informatiques relatifs aux ressources humaines</name>
 		<email>contact.cisirh@finances.gouv.fr</email>
 	</author>
 	<entry>
-		<title>Publication du noyau RH FPE 24.00.00</title>
+		<title>Publication du noyau RH FPE 24.10.00</title>
 		<link href="https://cisirh.github.io/portail-barri/fr/blog/publication-noyau-fev24/"/>
-		<updated>2025-02-07T13:09:14Z</updated>
+		<updated>2025-02-07T16:48:11Z</updated>
 		<id>https://cisirh.github.io/portail-barri/fr/blog/publication-noyau-fev24/</id>
-		<content type="html">&lt;p&gt;Cette version du Noyau RH FPE prend notamment en compte :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;les mises à jour des Référentiels de Classification Centraux (RCC) réalisées depuis la diffusion de la version d’actualisation 23.10.00 du Noyau RH FPE;&lt;/li&gt;
-&lt;li&gt;la publication des actes PACTE Cerfa et Contrat apprentissage Cerfa, et de 292 actes documentaires de la bibliothèque des actes dont 279 actes modélisés.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Elle intègre également 31 fiches de maintenance (FIME) qui portent en particulier sur :
-&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;a) la prise en compte des impacts :
-&lt;br&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;de la loi n° 2023-270 du 14 avril 2023 de financement rectificative de la sécurité sociale pour 2023 concernant notamment la retraite progressive ;&lt;/li&gt;
-&lt;li&gt;du décret n° 2021-1645 du 13 décembre 2021 relatif au personnel enseignant et hospitalier des centres hospitaliers et universitaires ;&lt;/li&gt;
-&lt;li&gt;de la modification de l’article L1225-40 du Code du travail ;
-&lt;br&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;b) la mise à jour :
-&lt;br&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;des nomenclatures des taux horaires des ouvriers (OE, OPA, OPA IGN) dans le domaine RCC pour RenoiRH Paie ;&lt;/li&gt;
-&lt;li&gt;des tableaux RGRH et du référentiel des évènements ;&lt;/li&gt;
-&lt;li&gt;des nomenclatures fichier GEST conformément aux diffusions de la DGFiP ;
-&lt;br&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;c) la création :
-&lt;br&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;de nomenclatures nécessaires à RenoiRH Paie (Codes bulletin de paie HR, Constantes de paie (DS9), PAS taux neutre, Indemnité de résidence (IR) et Indemnité de résidence à l’étranger (IRE)) ;&lt;/li&gt;
-&lt;li&gt;du statut Elève école Polytechnique pour RenoiRH Paie ;&lt;/li&gt;
-&lt;li&gt;du domaine PAY dans INGRES et la mise à jour des tableaux RGPAY suite à la PSC ;&lt;/li&gt;
-&lt;li&gt;de deux indicateurs booléens dans les nomenclatures Noyau « Statuts (Types de population) » et « Positions / Situations admin. », afin de prendre en compte l’éligibilité des agents à la PSC selon leur statut et d’indiquer les cas de positions/situations administratives qui suspendent la PSC de l’agent ;&lt;/li&gt;
-&lt;li&gt;du mouvement GEST PS : PSC référence contrat dans le dossier GEST;
-&lt;br&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;d) la mise en qualité de la modélisation de la bibliothèque des actes (BDA) et de la documentation associée (actes documentaires et guides);
-&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;e) la mise à jour de la documentation métier dans le répertoire « 8-Informations complémentaires », notamment la documentation des nomenclatures, la matrice des modes de gestion et de rémunération des agents contractuels et la description des compteurs à mettre en œuvre dans les SIRH.&lt;/p&gt;
+		<content type="html">&lt;p&gt;Cette version du Noyau RH FPE porte notamment :&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	les mises à jour des Référentiels de Classification Centraux (RCC) réalisées depuis la diffusion de la version d’actualisation 24.00.00 du Noyau RH FPE;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	la publication des actes PACTE Cerfa et Contrat apprentissage Cerfa, et de 302 actes documentaires de la bibliothèque des actes dont 295 actes modélisés.&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;Elle intègre également 31 fiches de maintenance (FIME) qui prennent en compte :&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	les impacts du décret n° 2023-873 du 12 septembre 2023 relatif aux modalités de prise du congé d’adoption et du congé pour l’arrivée d’un enfant placé en vue de son adoption et de la loi n°2022-219 du 21 février 2022 visant à réformer l&#39;adoption ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	les impacts du décret n° 2024-641 du 27 juin 2024 relatif au régime de certains congés pour raison de santé des fonctionnaires et des agents contractuels de l&#39;Etat ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	les impacts de l’arrêté du 22 février 2024 créant des dispositions temporaires en matière de compte épargne-temps dans la fonction publique de l&#39;Etat et dans la magistrature en raison de l&#39;organisation des jeux Olympiques et Paralympiques ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	les impacts du décret n° 2023-1321 du 27 décembre 2023 portant partie réglementaire du code de la recherche ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	les impacts du décret du 23 décembre 2024 relatif à la composition du Gouvernement ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	les impacts de la mise en œuvre de la protection sociale complémentaire (PSC) ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	les besoins de RenoiRH PAIE ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	la mise en qualité de la modélisation de la bibliothèque des actes (BDA) et de la documentation associée (actes documentaires et guides) ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	la mise à jour règlementaire des tableaux RGRH et du référentiel des évènements ;&lt;/p&gt;
+&lt;br&gt;
+•	l’actualisation de la documentation métier dans le répertoire « 8-Informations complémentaires », notamment la documentation des nomenclatures, la matrice des modes de gestion et de rémunération des agents contractuels et la description des compteurs à mettre en œuvre dans les SIRH.
+&lt;br&gt;
 </content>
 	</entry>
 	<entry>
 		<title>Rebecca - Publication de la lettre d&#39;information d&#39;octobre</title>
 		<link href="https://cisirh.github.io/portail-barri/fr/blog/newsletter-rebecca-oct23/"/>
-		<updated>2025-02-07T13:09:14Z</updated>
+		<updated>2025-02-07T16:48:11Z</updated>
 		<id>https://cisirh.github.io/portail-barri/fr/blog/newsletter-rebecca-oct23/</id>
 		<content type="html">&lt;p&gt;Au sommaire :&lt;/p&gt;
 &lt;ul&gt;
@@ -73,7 +66,7 @@
 	<entry>
 		<title>FAQ - Transfert de gestion</title>
 		<link href="https://cisirh.github.io/portail-barri/fr/blog/faq-transfertgestion-sgcd/"/>
-		<updated>2025-02-07T13:09:14Z</updated>
+		<updated>2025-02-07T16:48:11Z</updated>
 		<id>https://cisirh.github.io/portail-barri/fr/blog/faq-transfertgestion-sgcd/</id>
 		<content type="html">&lt;p&gt;&lt;strong&gt;Question détaillée&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Dans le cadre du transfert de certains personnels vers les secrétariats généraux communs (SGCD), une convention de gestion doit être signée avec le ministère de l’intérieur pour le transfert de personnels non titulaires (Berkani) ainsi que d’ouvriers des Parcs et Ateliers (OPA).
