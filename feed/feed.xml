@@ -4,16 +4,67 @@
 	<subtitle>Centre interministériel de services informatiques relatifs aux ressources humaines (CISIRH)</subtitle>
 	<link href="https://cisirh.github.io/portail-barri/feed/feed.xml" rel="self"/>
 	<link href="https://cisirh.github.io/portail-barri/portail-barri"/>
-	<updated>2025-07-02T15:34:59Z</updated>
+	<updated>2025-07-02T17:10:51Z</updated>
 	<id>https://cisirh.github.io/portail-barri</id>
 	<author>
 		<name>Centre interministériel de services informatiques relatifs aux ressources humaines</name>
 		<email>contact.cisirh@finances.gouv.fr</email>
 	</author>
 	<entry>
+		<title>FAQ - Transfert de gestion</title>
+		<link href="https://cisirh.github.io/portail-barri/fr/blog/faq-transfertgestion-sgcd/"/>
+		<updated>2025-07-02T17:10:51Z</updated>
+		<id>https://cisirh.github.io/portail-barri/fr/blog/faq-transfertgestion-sgcd/</id>
+		<content type="html">&lt;p&gt;&lt;strong&gt;Question détaillée&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dans le cadre du transfert de certains personnels vers les secrétariats généraux communs (SGCD), une convention de gestion doit être signée avec le ministère de l’intérieur pour le transfert de personnels non titulaires (Berkani) ainsi que d’ouvriers des Parcs et Ateliers (OPA).
+Quelle est la position à utiliser dans ce cas de figure ?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Réponse&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La convention a pour but de fixer entre le secrétariat général du ministère de l&#39;intérieur (MI) et le secrétariat général du ministère de la transition écologique (MTE) du ministère de la cohésion des territoires et des relations avec les collectivités territoriales (MCTRCT) et du ministère de la mer (MM), les modalités relatives à la gestion et à l&#39;imputation de la paie des ouvriers des parcs et ateliers (OPA) et des contractuels dits « Berkani » concernés par ces réformes, sur le territoire métropolitain et en Guyane. Elle ne concerne pas les SGCD des territoires ultra-marins.
+Les populations des ouvriers des parcs et ateliers (OPA) et des contractuels dits « Berkani » sont en fonction auprès du ministère de l&#39;intérieur. Cependant, les dispositions réglementaires relatives à la mise à disposition ne sont pas décrites au sein des textes réglementaires applicables à ces populations.
+Ainsi, ces agents ne sont pas mis à disposition mais affectés au sein des secrétariats généraux, gérés et payés par leur administration d&#39;origine sur le budget du ministère d&#39;accueil (ici le ministère de l&#39;intérieur).
+Cette situation n&#39;existant pas dans le noyau RH FPE, un nouveau code position a été créé pour gérer ces agents : ACI0I - Affecté hors de l&#39;administration d&#39;origine via une délégation de gestion sur le budget de l&#39;administration d&#39;accueil.&lt;/p&gt;
+</content>
+	</entry>
+	<entry>
+		<title>Publication du noyau RH FPE 24.10.00</title>
+		<link href="https://cisirh.github.io/portail-barri/fr/blog/publication-noyau-fev24/"/>
+		<updated>2025-07-02T17:10:51Z</updated>
+		<id>https://cisirh.github.io/portail-barri/fr/blog/publication-noyau-fev24/</id>
+		<content type="html">&lt;p&gt;Cette version du Noyau RH FPE porte notamment :&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	les mises à jour des Référentiels de Classification Centraux (RCC) réalisées depuis la diffusion de la version d’actualisation 24.00.00 du Noyau RH FPE;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	la publication des actes PACTE Cerfa et Contrat apprentissage Cerfa, et de 302 actes documentaires de la bibliothèque des actes dont 295 actes modélisés.&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;Elle intègre également 31 fiches de maintenance (FIME) qui prennent en compte :&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	les impacts du décret n° 2023-873 du 12 septembre 2023 relatif aux modalités de prise du congé d’adoption et du congé pour l’arrivée d’un enfant placé en vue de son adoption et de la loi n°2022-219 du 21 février 2022 visant à réformer l&#39;adoption ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	les impacts du décret n° 2024-641 du 27 juin 2024 relatif au régime de certains congés pour raison de santé des fonctionnaires et des agents contractuels de l&#39;Etat ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	les impacts de l’arrêté du 22 février 2024 créant des dispositions temporaires en matière de compte épargne-temps dans la fonction publique de l&#39;Etat et dans la magistrature en raison de l&#39;organisation des jeux Olympiques et Paralympiques ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	les impacts du décret n° 2023-1321 du 27 décembre 2023 portant partie réglementaire du code de la recherche ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	les impacts du décret du 23 décembre 2024 relatif à la composition du Gouvernement ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	les impacts de la mise en œuvre de la protection sociale complémentaire (PSC) ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	les besoins de RenoiRH PAIE ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	la mise en qualité de la modélisation de la bibliothèque des actes (BDA) et de la documentation associée (actes documentaires et guides) ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	la mise à jour règlementaire des tableaux RGRH et du référentiel des évènements ;&lt;/p&gt;
+&lt;br&gt;
+•	l’actualisation de la documentation métier dans le répertoire « 8-Informations complémentaires », notamment la documentation des nomenclatures, la matrice des modes de gestion et de rémunération des agents contractuels et la description des compteurs à mettre en œuvre dans les SIRH.
+&lt;br&gt;
+</content>
+	</entry>
+	<entry>
 		<title>Publication du noyau RH FPE 25.00.00</title>
 		<link href="https://cisirh.github.io/portail-barri/fr/blog/A.Publication-noyau-juil25/"/>
-		<updated>2025-07-02T15:34:59Z</updated>
+		<updated>2025-07-02T17:10:51Z</updated>
 		<id>https://cisirh.github.io/portail-barri/fr/blog/A.Publication-noyau-juil25/</id>
 		<content type="html">&lt;p&gt;Cette version du Noyau RH FPE porte notamment :&lt;/p&gt;
 &lt;br&gt;
@@ -67,57 +118,6 @@
 &lt;p&gt;•	la publication des recueils des fiches du Référentiel de Paye (RdP) ainsi que la publication du barème complet du RIFSEEP et de la cartographie Interministérielle des Impacts Congés Absences (ICA) sur le paiement des indemnités ;
 &lt;br&gt;&lt;/p&gt;
 &lt;p&gt;•	la mise à jour de la documentation métier dans le répertoire « 8-Informations complémentaires », notamment la documentation des nomenclatures, la matrice des modes de gestion et de rémunération des agents contractuels, la description des compteurs à mettre en œuvre dans les SIRH, la correspondance des indices bruts/des indices majorés juridiques et la description du chaînage des corps et des emplois fonctionnels.&lt;/p&gt;
-</content>
-	</entry>
-	<entry>
-		<title>Publication du noyau RH FPE 24.10.00</title>
-		<link href="https://cisirh.github.io/portail-barri/fr/blog/publication-noyau-fev24/"/>
-		<updated>2025-07-02T15:34:59Z</updated>
-		<id>https://cisirh.github.io/portail-barri/fr/blog/publication-noyau-fev24/</id>
-		<content type="html">&lt;p&gt;Cette version du Noyau RH FPE porte notamment :&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;•	les mises à jour des Référentiels de Classification Centraux (RCC) réalisées depuis la diffusion de la version d’actualisation 24.00.00 du Noyau RH FPE;&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;•	la publication des actes PACTE Cerfa et Contrat apprentissage Cerfa, et de 302 actes documentaires de la bibliothèque des actes dont 295 actes modélisés.&lt;/p&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;p&gt;Elle intègre également 31 fiches de maintenance (FIME) qui prennent en compte :&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;•	les impacts du décret n° 2023-873 du 12 septembre 2023 relatif aux modalités de prise du congé d’adoption et du congé pour l’arrivée d’un enfant placé en vue de son adoption et de la loi n°2022-219 du 21 février 2022 visant à réformer l&#39;adoption ;&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;•	les impacts du décret n° 2024-641 du 27 juin 2024 relatif au régime de certains congés pour raison de santé des fonctionnaires et des agents contractuels de l&#39;Etat ;&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;•	les impacts de l’arrêté du 22 février 2024 créant des dispositions temporaires en matière de compte épargne-temps dans la fonction publique de l&#39;Etat et dans la magistrature en raison de l&#39;organisation des jeux Olympiques et Paralympiques ;&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;•	les impacts du décret n° 2023-1321 du 27 décembre 2023 portant partie réglementaire du code de la recherche ;&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;•	les impacts du décret du 23 décembre 2024 relatif à la composition du Gouvernement ;&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;•	les impacts de la mise en œuvre de la protection sociale complémentaire (PSC) ;&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;•	les besoins de RenoiRH PAIE ;&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;•	la mise en qualité de la modélisation de la bibliothèque des actes (BDA) et de la documentation associée (actes documentaires et guides) ;&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;•	la mise à jour règlementaire des tableaux RGRH et du référentiel des évènements ;&lt;/p&gt;
-&lt;br&gt;
-•	l’actualisation de la documentation métier dans le répertoire « 8-Informations complémentaires », notamment la documentation des nomenclatures, la matrice des modes de gestion et de rémunération des agents contractuels et la description des compteurs à mettre en œuvre dans les SIRH.
-&lt;br&gt;
-</content>
-	</entry>
-	<entry>
-		<title>FAQ - Transfert de gestion</title>
-		<link href="https://cisirh.github.io/portail-barri/fr/blog/faq-transfertgestion-sgcd/"/>
-		<updated>2025-07-02T15:34:59Z</updated>
-		<id>https://cisirh.github.io/portail-barri/fr/blog/faq-transfertgestion-sgcd/</id>
-		<content type="html">&lt;p&gt;&lt;strong&gt;Question détaillée&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Dans le cadre du transfert de certains personnels vers les secrétariats généraux communs (SGCD), une convention de gestion doit être signée avec le ministère de l’intérieur pour le transfert de personnels non titulaires (Berkani) ainsi que d’ouvriers des Parcs et Ateliers (OPA).
-Quelle est la position à utiliser dans ce cas de figure ?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Réponse&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;La convention a pour but de fixer entre le secrétariat général du ministère de l&#39;intérieur (MI) et le secrétariat général du ministère de la transition écologique (MTE) du ministère de la cohésion des territoires et des relations avec les collectivités territoriales (MCTRCT) et du ministère de la mer (MM), les modalités relatives à la gestion et à l&#39;imputation de la paie des ouvriers des parcs et ateliers (OPA) et des contractuels dits « Berkani » concernés par ces réformes, sur le territoire métropolitain et en Guyane. Elle ne concerne pas les SGCD des territoires ultra-marins.
-Les populations des ouvriers des parcs et ateliers (OPA) et des contractuels dits « Berkani » sont en fonction auprès du ministère de l&#39;intérieur. Cependant, les dispositions réglementaires relatives à la mise à disposition ne sont pas décrites au sein des textes réglementaires applicables à ces populations.
-Ainsi, ces agents ne sont pas mis à disposition mais affectés au sein des secrétariats généraux, gérés et payés par leur administration d&#39;origine sur le budget du ministère d&#39;accueil (ici le ministère de l&#39;intérieur).
-Cette situation n&#39;existant pas dans le noyau RH FPE, un nouveau code position a été créé pour gérer ces agents : ACI0I - Affecté hors de l&#39;administration d&#39;origine via une délégation de gestion sur le budget de l&#39;administration d&#39;accueil.&lt;/p&gt;
 </content>
 	</entry>
 </feed>
