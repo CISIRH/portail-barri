@@ -1,5 +1,5 @@
 ---
-title: Publication du noyau RH FPE 24.10.00
+title: Publication du noyau RH FPE 25.00.00
 
 description: La nouvelle version du noyau est disponible !
 date: git Last Modified
@@ -13,55 +13,96 @@ Cette version du Noyau RH FPE porte notamment :
 
 <br>
 
-•	les mises à jour des Référentiels de Classification Centraux (RCC) réalisées depuis la diffusion de la version d’actualisation 24.00.00 du Noyau RH FPE;
+•	les mises à jour des Référentiels de Classification Centraux (RCC) réalisées depuis la diffusion de la version d’actualisation 24.10.00 du Noyau RH FPE;
 
 <br>
 
-•	la publication des actes PACTE Cerfa et Contrat apprentissage Cerfa, et de 302 actes documentaires de la bibliothèque des actes dont 295 actes modélisés.
+•	la publication des actes PACTE Cerfa et Contrat apprentissage Cerfa, et de 302 actes documentaires de la bibliothèque des actes dont 291 actes modélisés.
 
 <br>
 <br>
 
-Elle intègre également 31 fiches de maintenance (FIME) qui prennent en compte :
+Elle intègre également 37 fiches de maintenance (FIME) qui prennent en compte :
 
 <br>
 
-•	les impacts du décret n° 2023-873 du 12 septembre 2023 relatif aux modalités de prise du congé d’adoption et du congé pour l’arrivée d’un enfant placé en vue de son adoption et de la loi n°2022-219 du 21 février 2022 visant à réformer l'adoption ;
+•	les impacts :
 
 <br>
 
-•	les impacts du décret n° 2024-641 du 27 juin 2024 relatif au régime de certains congés pour raison de santé des fonctionnaires et des agents contractuels de l'Etat ;
+•	de la loi n°2025-127 du 14 février 2025 de finances pour 2025 ;
 
 <br>
 
-•	les impacts de l’arrêté du 22 février 2024 créant des dispositions temporaires en matière de compte épargne-temps dans la fonction publique de l'Etat et dans la magistrature en raison de l'organisation des jeux Olympiques et Paralympiques ;
+•	des décrets n° 2025-197 du 27 février 2025 relatif aux règles de rémunération de certains agents publics placés en congé de maladie ordinaire ou en congé de maladie et n° 2025-198 du 27 février 2025 relatif à la rémunération maintenue en congé de maladie pour certains agents publics ;
 
 <br>
 
-•	les impacts du décret n° 2023-1321 du 27 décembre 2023 portant partie réglementaire du code de la recherche ;
+•	du décret n° 2024-1222 du 27 décembre 2024 relatif aux conditions d'octroi et de renouvellement de la disponibilité pour raisons de santé des fonctionnaires civils de l'Etat ;
 
 <br>
 
-•	les impacts du décret du 23 décembre 2024 relatif à la composition du Gouvernement ;
+•	du décret n° 2024-1038 du 6 novembre 2024 relatif aux dispositions réglementaires des livres Ier et II du code général de la fonction publique ;
 
 <br>
 
-•	les impacts de la mise en œuvre de la protection sociale complémentaire (PSC) ;
+•	du décret n° 2024-1263 du 30 décembre 2024 relatif aux conditions requises pour l'accès au temps partiel de certains agents de la fonction publique ;
 
 <br>
 
-•	les besoins de RenoiRH PAIE ;
+•	du décret n°2025-155 du 19 février 2025 portant diverses mesures en matière de retraite ;
 
 <br>
 
-•	la mise en qualité de la modélisation de la bibliothèque des actes (BDA) et de la documentation associée (actes documentaires et guides) ;
+•	du décret n° 2024-49 du 30 janvier 2024 relatif aux taux de cotisations maladie et vieillesse des employeurs des agents affiliés à la Caisse nationale de retraites des agents des collectivités locales ;
 
 <br>
 
-•	la mise à jour règlementaire des tableaux RGRH et du référentiel des évènements ;
+•	du décret n° 2025-340 du 14 avril 2025 modifiant le décret n° 2021-1550 du 1er décembre 2021 portant statut particulier du corps des administrateurs de l'Etat ;
 
 <br>
-•	l’actualisation de la documentation métier dans le répertoire « 8-Informations complémentaires », notamment la documentation des nomenclatures, la matrice des modes de gestion et de rémunération des agents contractuels et la description des compteurs à mettre en œuvre dans les SIRH.
+
+•	du décret n° 2025-402 du 2 mai 2025 modifiant certaines dispositions applicables aux fonctionnaires stagiaires ;
+
 <br>
 
+•	de la modification de l’article D. 3142-1-3 du Code du travail ;
+
+<br>
+
+•	de l'arrêté du 13 janvier 2025 modifiant l'arrêté du 30 décembre 2016 relatif aux règles de recrutement des ouvriers de l'Etat du ministère de la défense.
+
+
+
+<br>
+
+•	la mise à jour des tableaux RGRH et du référentiel des évènements ;
+
+<br>
+
+•	des nomenclatures fichier GEST conformément aux diffusions de la DGFiP ;
+
+
+<br>
+
+•	la création :
+
+<br>
+
+- de la nomenclature RenoiRH Paie « Versement mobilité » dans INGRES ;
+- de 6 nomenclatures des pièces justificatives dans le domaine Nomenclatures Noyau ;
+- de l’ajout du code postal de la commune dans la nomenclature RenoiRH Paie « Indemnité de résidence » ;
+- du statut et d’un motif de cessation de fonction pour les agents sortis percevant une rente ou une allocation de retour à l'emploi ;
+- d'un indicateur booléen PSC prévoyance et de deux dispenses PSC prévoyance.
+  
+<br>
+
+•	la mise en qualité de la modélisation de la bibliothèque des actes (BDA) et de la documentation associée (actes documentaires et guides) ; 
+
+<br>
+
+•	la publication des recueils des fiches du Référentiel de Paye (RdP) ainsi que la publication du barème complet du RIFSEEP et de la cartographie Interministérielle des Impacts Congés Absences (ICA) sur le paiement des indemnités ;
+<br>
+
+•	la mise à jour de la documentation métier dans le répertoire « 8-Informations complémentaires », notamment la documentation des nomenclatures, la matrice des modes de gestion et de rémunération des agents contractuels, la description des compteurs à mettre en œuvre dans les SIRH, la correspondance des indices bruts/des indices majorés juridiques et la description du chaînage des corps et des emplois fonctionnels.
 
