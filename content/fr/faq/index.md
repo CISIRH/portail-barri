@@ -981,13 +981,20 @@ La formule de calcul est la suivante :
 Nb de jours ARTT par durée hebdomadaire et par quotité de service :
  
 | Durée hebdomadaire de travail | 39 H | 38 H | 37 H | 36 H |
+|
 |:--------------------------|:----:|:-----:|:-----:|:-----:|
 | Temps complet       | 23 | 18 | 12 | 6 |
+|
 | Temps partiel 90 % | 20,7 | 16,2 | 10,8 | 5,4 |
+|
 | Temps partiel 80 % | 18,4 | 14,4 | 9,6 | 4,8 |
+|
 | Temps partiel 70 % | 16,1 | 12,6 | 8,4 | 4,2 |
+|
 | Temps partiel 60 % | 13,8 | 10,8 | 7,2 | 3,6 |
+|
 | Temps partiel 50 % | 11,5 | 9 | 6 | 3 |
+|
 
 
 **2 - Dans un cadre hebdomadaire :**
@@ -1191,8 +1198,10 @@ Soit N2 le nombre maximum de journées ARTT générées annuellement en régime 
 Pour rappel, nombre de jours ARTT par durée hebdomadaire :
 
 | Durée hebdomadaire de travail | 39 H | 38 H | 37 H | 36 H |
+|
 |:--------------------------|:----:|:-----:|:-----:|:-----:|
 | Temps complet       | 23 | 18 | 12 | 6 |
+|
 
 <br>
 
