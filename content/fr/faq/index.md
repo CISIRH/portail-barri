@@ -158,9 +158,9 @@ Les directeurs dans les ARS membres du comité exécutif (COMEX), lorsqu'ils son
 Par conséquent ils doivent être placés en position de :
 
 - Pour les agents issus des ministères chargés des affaires sociales :
-- DES04 - Détachement entrant/sortant auprès d'une administration de l'Etat ou dans un établissement public de l'Etat dans un emploi ne conduisant pas à pension
+ - DES04 - Détachement entrant/sortant auprès d'une administration de l'Etat ou dans un établissement public de l'Etat dans un emploi ne conduisant pas à pension
 - Pour les agents issus de la Fonction Publique Territoriale ou Fonction Publique Hospitalière:
-- DEE04 - Détachement entrant auprès d'une administration de l'Etat ou dans un établissement public de l'Etat dans un emploi ne conduisant pas à pension
+ - DEE04 - Détachement entrant auprès d'une administration de l'Etat ou dans un établissement public de l'Etat dans un emploi ne conduisant pas à pension
 
 <br>
 
