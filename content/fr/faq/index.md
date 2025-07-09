@@ -860,3 +860,174 @@ La nomenclature étant semi-ouverte, les ministères peuvent la compléter pour 
 
 <br>
 
+##### Suspension
+
+??? La suspension et l'exclusion temporaire de fonctions peuvent-elles être saisies en tant qu'absences (code CX001 pour la suspension et CX003 pour l'exclusion temporaire) ?
+
+La suspension de fonction n’est pas une sanction d'un point de vue règlementaire. Elle se traduit par un motif de congés/absences, alors que l'exclusion temporaire est prise dans le cadre d'une sanction.
+
+<br>
+
+La saisie de l'absence pour exclusion temporaire est la conséquence de la sanction disciplinaire (la sanction prévoit une exclusion de date à date et le congé trace cette absence).
+
+<br>
+
+L'exclusion temporaire est donc à la fois saisie comme sanction et comme absence. Néanmoins, si l'acte est bien alimenté à partir des données liées à la sanction, ce sont les données du congé qui ont un impact sur la paye de l’agent. Les dates du congé et de la sanction doivent être identiques.
+
+<br>
+
+La situation est différente en cas de sursis : la sanction est enregistrée dans le dossier agent avec un sursis. Cependant celle-ci n'a pas d'impact sur la rémunération si l'agent n'est pas à nouveau sanctionné pendant son sursis. Dans ce cas il convient de ne pas saisir de congé.
+
+???
+??? Quelle est la rémunération d’un agent titulaire suspendu de ses fonctions au-delà de quatre mois ?
+
+L’article L531-1 du CGFP dispose que : « _Le fonctionnaire, auteur d'une faute grave, qu'il s'agisse d'un manquement à ses obligations professionnelles ou d'une infraction de droit commun, peut être suspendu par l'autorité ayant pouvoir disciplinaire qui saisit, sans délai, le conseil de discipline.
+**Le fonctionnaire suspendu conserve son traitement, l'indemnité de résidence, le supplément familial de traitement. Sa situation doit être définitivement réglée dans le délai de quatre mois.**_ »
+
+<br>
+
+L’article L531-2 du CGFP ajoute que : « _Si, à l'expiration du délai mentionné à l'article L. 531-1, aucune décision n'a été prise par l'autorité ayant le pouvoir disciplinaire, le fonctionnaire qui ne fait pas l'objet de poursuites pénales est rétabli dans ses fonctions. Le fonctionnaire qui fait l'objet de poursuites pénales est également rétabli dans ses fonctions à l'expiration du même délai sauf si les mesures décidées par l'autorité judiciaire ou l'intérêt du service y font obstacle._ »
+
+<br>
+
+L’article L531-4 du CGFP prévoit que :
+
+« _Le fonctionnaire qui, en raison de poursuites pénales, n'est pas rétabli dans ses fonctions, affecté provisoirement ou détaché provisoirement dans un autre emploi **peut subir une retenue, qui ne peut être supérieure à la moitié de la rémunération mentionnée au second alinéa de l'article L. 531-1**.
+Il continue, néanmoins, à percevoir la totalité des suppléments pour charges de famille._ »
+
+<br>
+
+**En conséquence :**
+
+- En gestion administrative, l'agent qui fait l'objet d'une suspension reste en position d'activité. Il convient alors de le placer en congé :
+-- Soit « CX001 – Suspension en cas d'infraction de droit commun 
+-- Soit « CX000 - Suspension en cas de manquement aux obligations professionnelles »,
+- Si à l'échéance des 4 mois de suspension, le fonctionnaire qui, en raison de poursuites pénales, n'est pas rétabli dans ses fonctions peut subir une retenue. Celle-ci ne peut pas être supérieure à la moitié de sa rémunération. L’agent reste placé sur le motif de congé CX001 ou CX000. Le gestionnaire RH doit adresser soit un mouvement 2 avec un code régime de rémunération REM 13 « demi-traitement agent suspendu », soit de moduler manuellement son traitement dans la limite du demi-traitement.
+- En DSN pré-liquidation, c’est le motif S1 suspension (annexe 11B) qui doit être mobilisé dans la zone code de fin future lorsqu’il est associé au code régime de rémunération 13.
+
+???
+??? Quels sont les droits à congés et à rémunération lors d'une suspension de fonction ?
+
+**Lors d’une suspension de fonction, l’agent n’acquiert pas de droit à congés annuels. Il peut toutefois, au cours de la période de suspension, poser des jours de congés acquis avant cette période. Durant la suspension, Le fonctionnaire suspendu conserve son traitement, l'indemnité de résidence et le supplément familial de traitement.**
+
+<br>
+
+La suspension de fonctions prévue par les articles L531-1 à L531-5 du CGFP est une mesure administrative conservatoire et non une sanction disciplinaire. Le fonctionnaire suspendu conserve son traitement, l'indemnité de résidence, le supplément familial de traitement. Sa situation doit être définitivement réglée dans le délai de quatre mois. Toutefois, le fonctionnaire qui, en raison de poursuites pénales, n'est pas rétabli dans ses fonctions, affecté provisoirement ou détaché provisoirement dans un autre emploi peut subir une retenue, qui ne peut être supérieure à la moitié de la rémunération mentionnée au second alinéa de l'article L. 531-1. Il continue, néanmoins, à percevoir la totalité des suppléments pour charges de famille.
+
+<br>
+
+En outre, il existe une mesure spécifique de suspension de fonctions applicable aux personnels enseignants et hospitaliers (« hospitalo-universitaires ») prévu par l’art. 26 du décret 2021-1645. Cette mesure prévoit également soit le versement intégral du traitement universitaire et des émoluments hospitaliers, soit le versement de la moitié (a minima) du traitement et des émoluments.
+
+<br>
+
+Par conséquent, une mesure de suspension de fonctions ne peut donner lieu à une privation totale de la rémunération.
+
+<br>
+
+Le droit au congé annuel étant subordonné à l’exercice effectif des fonctions au cours de l’année de référence, la Cour administrative d’appel de Marseille a jugé dans son arrêt du 3 avril 2007 (n° 04MA01459) qu’un agent suspendu de ses fonctions n’acquiert pas de droit à congés au cours de la période de suspension (et donc de jours d’ARTT)
+
+<br>
+
+Toutefois, dans son arrêt du 28 mars 2019 (n°16VE02916), la Cour administrative d’appel de Versailles a jugé que « le fonctionnaire qui fait l’objet d’une mesure de suspension est maintenu en position d’activité et n’est pas en conséquence privé de la possibilité d’épuiser ses droits à congés ».
+
+<br>
+
+En conclusion, il n’acquiert pas de droit à congés annuels mais peut, au cours de la période de suspension, poser des jours de congés acquis avant cette période. Quand bien même cette suspension ne serait pas suivie de sanction (ou d’une sanction autre que l’exclusion qui conduirait au rétablissement de l’agent dans ces fonctions), la période de suspension n’ouvre pas droit à des congés annuels et il n’y a pas lieu de revenir sur l’application de cette disposition.
+???
+????
+
+<br>
+
+#### Annuels et similaires
+????accordionsgroup
+##### Congé annuel
+????accordionsgroup
+
+??? Quels sont les droits à congés et les règles de proratisation pour un agent à temps partiel : dans un cadre quotidien ? dans un cadre hebdomadaire ? dans un cadre annuel ? lorsque l’agent est à temps incomplet ?
+
+Quand un agent est à temps partiel :
+
+**1 - Dans un cadre quotidien :**
+
+Les règles de calcul applicables aux agents exerçant leurs fonctions à temps partiel sont identiques à celles prises pour les agents à temps plein. Ainsi, sur la période de référence qui s'étend du 1er janvier au 31 décembre, la durée des congés annuels (CA) des agents à temps partiel est fixée à cinq fois les obligations hebdomadaires de service, appréciées en jours effectivement ouvrés.
+
+<br>
+
+Un agent à temps plein bénéficiant de 25 jours de congés annuels, un agent à 90% travaillant 4,5 jours par semaine bénéficiera de 22,5 jours de congés annuels et un agent à 80% travaillant 4 jours par semaine bénéficiera de 20 jours de congés annuels.
+
+<br>
+
+Toutefois, si l'agent à temps partiel est présent 5 jours par semaine, il acquiert des droits de CA proratisés mais qui sont des droits en jours de congé à temps plein. Autrement dit, un agent travaillant 5 jours par semaine à 80%, acquiert 20 jours de congés à temps plein. Chaque fois que l'agent pose une journée de congé, il convient de lui retirer 0,8 jour de son droit à congé. Dans ce cas, il peut être plus simple d'attribuer à l'agent 25 jours de congés à 80%. Toutefois, si l'agent transfère ses droits dans un CET, il convient de proratiser le nombre de jours transférés. Dans cet exemple, l'agent qui travaille 5 jours par semaine à 80%, acquiert 25 jours à 80%. Lorsqu'il verse 5 de ces jours dans son CET, il ne faut en comptabiliser que 5 x 0,8 = 4 jours, afin de respecter une égalité de traitement avec l'agent bénéficiant d'une autorisation de travail à temps partiel mais qui travaille sur une semaine de 4 jours.
+
+<br>
+
+Les jours acquis au titre de l'aménagement et la réduction du temps de travail font l'objet d'une proratisation. Le calcul est réalisé par rapport à la durée de travail et au nombre de jours de RTT acquis par un agent travaillant à temps plein.
+
+<br>
+
+Exemple : Lorsque le cycle de travail est de 37 heures hebdomadaires sur 5 jours, un agent à temps plein bénéficie de 25 jours de congés annuels et 12 jours de RTT. Un agent à 80% bénéficiera de 20 jours de congés annuels et 10 jours de RTT.
+
+<br>
+
+La formule de calcul est la suivante :
+
+• Congés annuels : 25 x 0,8 = 20 jours
+
+• Jours RTT : 12 x 0,8 = 10 jours
+
+<br>
+
+Nb de jours ARTT par durée hebdomadaire et par quotité de service :
+ 
+| Durée hebdomadaire de travail | 39 H | 38 H | 37 H | 36 H |
+|:--------------------------|:----:|:-----:|:-----:|:-----:|
+| Temps complet       | 23 | 18 | 12 | 6 |
+| Temps partiel 90 % | 20,7 | 16,2 | 10,8 | 5,4 |
+| Temps partiel 80 % | 18,4 | 14,4 | 9,6 | 4,8 |
+| Temps partiel 70 % | 16,1 | 12,6 | 8,4 | 4,2 |
+| Temps partiel 60 % | 13,8 | 10,8 | 7,2 | 3,6 |
+| Temps partiel 50 % | 11,5 | 9 | 6 | 3 |
+
+
+**2 - Dans un cadre hebdomadaire :**
+
+Un agent à 70% travaille l'équivalent de 3,5 jours par semaine. Il a donc droit à 17,5 jours de CA. Pour les RTT voir réponse ci-dessus.
+
+**3 - Dans un cadre mensuel en combinant le cadre quotidien et hebdomadaire :**
+
+Voir réponses ci-dessus
+
+**4 - Dans un cadre annuel :**
+
+Voir réponses ci-dessus
+
+**5 - Contractuel à temps incomplet**
+
+Pour un contractuel à temps incomplet, ce sont les mêmes règles que pour le temps partiel qui s'appliquent.
+???
+????
+
+<br>
+
+##### Congé bonifié
+????accordionsgroup
+
+??? Quelle est la règle d'attribution des jours supplémentaires hors période (fractionnement) pour un congé bonifié ? Pour le congé bonifié pris en hiver (fin d'année ou à cheval sur 2 années), l'agent a-t-il droit aux jours supplémentaires dits de fractionnement ? Quel est le texte réglementaire de la fonction publique d’Etat qu’il convient de viser dans l’acte d’attribution ?
+
+Le décret n° 84-972 du 26 octobre 1984 relatif aux congés annuels des fonctionnaires de l'Etat qui fixe les conditions d'attribution des jours de fractionnement ne prévoit pas de dispositions particulières en ce qui concerne le congé bonifié.
+
+<br>
+
+Le décret n° 78-399 du 20 mars 1978 relatif au congé bonifié ne fait pas mention non plus de dispositions concernant le calcul des jours de fractionnement au titre du congé annuel.
+
+<br>
+
+Il est rappelé à l'article 6 de ce décret que le congé bonifié est constitué d'une bonification de congé d'une durée maximale de trente-et-un jours consécutifs qui s'ajoute au congé annuel. La durée du congé et celle de la bonification sont consécutives.
+
+<br>
+
+Ce congé n’étant pas fractionné et étant déjà gratifié, comme son nom l’indique, d’une bonification, il ne peut bénéficier d’une bonification supplémentaire même s’il est pris hors de la période estivale.
+???
+????
+
+<br>
