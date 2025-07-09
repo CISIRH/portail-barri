@@ -934,7 +934,6 @@ Toutefois, dans son arrêt du 28 mars 2019 (n°16VE02916), la Cour administrativ
 
 En conclusion, il n’acquiert pas de droit à congés annuels mais peut, au cours de la période de suspension, poser des jours de congés acquis avant cette période. Quand bien même cette suspension ne serait pas suivie de sanction (ou d’une sanction autre que l’exclusion qui conduirait au rétablissement de l’agent dans ces fonctions), la période de suspension n’ouvre pas droit à des congés annuels et il n’y a pas lieu de revenir sur l’application de cette disposition.
 ???
-
 ????
 
 <br>
@@ -1028,7 +1027,184 @@ Il est rappelé à l'article 6 de ce décret que le congé bonifié est constitu
 <br>
 
 Ce congé n’étant pas fractionné et étant déjà gratifié, comme son nom l’indique, d’une bonification, il ne peut bénéficier d’une bonification supplémentaire même s’il est pris hors de la période estivale.
+
+???
+??? Un agent titulaire peut-il bénéficier d’un congé bonifié sur la base de la durée des services effectués antérieurement chez son précédent employeur ? 
+
+**Oui, dans la mesure où, pour les magistrats et fonctionnaires, il y a continuité des services, même lorsque l’agent est muté d’un établissement à un autre ou d’un versant de la fonction publique à un autre. Le début de la comptabilisation de la durée des services débute avec l’acquisition du statut de fonctionnaire ou de magistrat (dès qu’il est nommé dans un corps, même en qualité de stagiaire). Toutefois la comptabilisation de la durée de service est suspendue lorsque l’agent est placé en CLD, suit une formation initiale, est exclu temporairement du service ou est placé dans une position autre que la position d’activité ou de détachement.**
+
+<br>
+
+Réponse détaillée :
+
+<br>
+
+Le droit de bénéficier d’un congé bonifié est ouvert aux agents après une durée minimale de service ininterrompue de 24 mois (nouvelle rédaction de l’article 9 du décret du 20 mars 1978).
+
+<br>
+
+Pour les fonctionnaires ou les magistrats, l’article 9 du décret du 20 mars 1978 indique que cette durée de service ininterrompue de deux années n’est pas interrompue du fait des différents congés prévus à l’ancien article 34 de la loi n° 84-16 du 11 janvier 1984, désormais fixés dans le code général de la fonction publique (CGFP) excepté ceux mentionnés aux 4° de cet article (désormais les articles L.822-12 et suivants du CGFP) à savoir les congés de longue durée.
+
+<br>
+
+Il précise également que les périodes de stages d’enseignement ou de perfectionnement n’interrompent pas cette durée.  Cependant, la circulaire du 16 août 1978 précise à son article 7.2 que « les périodes passées au titre de la formation initiale, notamment dans une école administrative (IRA, ENA, ENNA, ENI, …) suspendent l’acquisition des droits à congés. »
+
+<br>
+
+Les positions, autres que les positions d’activité et de détachement, qui peuvent être occupées par les fonctionnaires ou magistrats, suspendent l’ancienneté de service. Ainsi, le placement en position de disponibilité ou de congé parental suspend l’ancienneté de services donnant droit au congé bonifié. La comptabilisation de l’ancienneté de service est donc suspendue jusqu’ au retour de l’agent en position d’activité ou de détachement. C’est également le cas lorsque l’agent est exclu temporairement du service à la suite d’une sanction disciplinaire.
+
+<br>
+
+Il convient donc de considérer que pour les magistrats et fonctionnaires il y a continuité des services, même lorsque l’agent est muté d’un établissement à un autre ou d’un versant de la fonction publique à un autre.
+
+<br>
+
+Pour aller plus loin, vous pouvez consulter le guide dédié « aux congés bonifiés ».
+
+???
+??? Les agents ayant bénéficié d’un congé bonifié ont-ils droit, sur la même année, de placer des jours ARTT sur leur CET ? 
+
+**Rien ne s’oppose à l’alimentation de jours RTT sur le CET d’un agent ayant bénéficié d’un congé bonifié dans la limite de dépôt de jours autorisés.**
+
+<br>
+
+Un agent ayant bénéficié d’un congé bonifié peut alimenter son CET avec des jours de congés annuels et des jours d’ARTT dès lors que les congés posés l’ont été dans le respect du seuil de 20 jours de congés pris dans l'année prévu par le décret 2002-634 du 29 avril 2002 portant création du compte épargne-temps dans la fonction publique de l'Etat et dans la magistrature.
+
+<br>
+
+En conséquence, dès lors que l’agent a pris 20 jours de congés, jours de fractionnement compris, un ministère ne peut pas s’opposer au dépôt de jours sur un CET.
+
+<br>
+
+A contrario, si l’agent a pris des jours de RTT mais n’a pas atteint 20 jours de congés, jours de fractionnement compris, alors le ministère doit rejeter la demande de l’agent.
 ???
 ????
 
 <br>
+
+##### Compte épargne temps
+????accordionsgroup
+
+??? Les périodes de stage sont-elles prises en compte dans le calcul de l'ancienneté pour ouvrir un CET ?
+
+**Non**, les périodes de stage ne sont pas prises en compte dans le calcul de l’ancienneté pour ouvrir un CET. Exemple d’un agent recruté comme stagiaire au 1er janvier N dont le stage se déroule sur 2 ans.
+
+<br>
+
+**L'agent sera titularisé au 1er janvier N+2 et devra attendre le 1er janvier N+3 pour ouvrir et alimenter un compte épargne temps. En effet, le fonctionnaire stagiaire ne peut ni ouvrir ni alimenter de CET pendant sa période de stage.**
+
+<br>
+
+S’il disposait d’un CET avant sa nomination en qualité de stagiaire, il pourrait toutefois utiliser les jours déposés dès sa titularisation. En revanche, il devra attendre une année supplémentaire pour alimenter son CET des droits à congés acquis lors de sa 1ère année en qualité de titulaire entre le 01/01/N+2 et le 01/01/N+3.
+
+<br>
+
+En effet, même si rien n'est écrit explicitement dans les textes, le fait qu'il soit nécessaire d'attendre une année d'activité en qualité de fonctionnaire titulaire pour pouvoir ouvrir un compte épargne temps découle de la rédaction de l'article 2 du décret n° 2002-634 du 29 avril 2002.
+
+<br>
+
+D'une part, le premier alinéa indique que « _les dispositions de ce décret sont applicables aux agents titulaires (…) qui, (…), sont employés de manière continue et ont accompli au moins une année de service ».
+D'autre part, le troisième alinéa indique que « les fonctionnaires stagiaires (…) ne peuvent bénéficier d'un CET, et que ceux qui avaient acquis antérieurement des droits ne peuvent ni les utiliser ni en accumuler de nouveaux pendant la période de stage_ ».
+
+<br>
+
+Si un fonctionnaire stagiaire alimentait un compte épargne temps après son année de service ou ouvrait un compte épargne temps à l'issue de la première année de fonctions en qualité de stagiaire, cela ne respecterait ni les dispositions du premier alinéa qui n'évoque qu'une année de service de fonctionnaire titulaire, ni celles du troisième qui ne permet pas aux agents stagiaires d'accumuler des droits à congé sur leur compte épargne temps pendant la période de stage.
+
+???
+??? Un agent peut-il maintenir des jours de congés au-delà de 60 jours ? 
+
+**Oui. Dans le cadre des dispositions dérogatoires temporaires, le solde de CET peut dépasser les 60 jours réglementaires.**
+
+<br>
+
+Dans le cadre du droit commun (hors dispositions dérogatoires temporaires), l’agent ne peut pas abonder de plus de 10 jours le CET chaque année et le nombre maximal de jours pouvant être épargnés sur le CET est de 60 jours. 
+Cette limite de 60 jours est appréciée après exercice du droit d’option. L’agent a donc le droit de dépasser temporairement le plafond avant d’avoir exercé son droit d’option. Ainsi, un agent qui a 58 jours sur son CET pourra l’abonder de 6 jours, mais il devra monétiser ou verser la différence au RAFP soit 4 jours.
+
+<br>
+
+Par exception, la réglementation a prévu des dérogations à ces règles.
+
+<br>
+
+_1/ Dérogations au titre du COVID_
+
+Pour l’année 2020, en raison de l’épidémie de COVID, l'article 2 de l'arrêté du 11 mai 2020 relatif à la mise en œuvre de dispositions temporaires en matière de compte épargne-temps dans la fonction publique de l'Etat et dans la magistrature afin de faire face aux conséquences de l'épidémie de covid-19 a prévu que : « Au titre de l'année 2020, le plafond global de jours pouvant être maintenus sur un compte épargne-temps mentionné à l'article 6-3 du décret du 29 avril 2002 susvisé est fixé à soixante-dix jours ».
+
+<br>
+
+En 2020, le maximum de jours épargnés dans l'année pouvant alimenter le CET a été porté à 20 et le nombre maximum de jours pouvant être capitalisés à 70.
+
+<br>
+
+Cette dérogation n’a pas été reconduite les années suivantes. Cependant, les jours épargnés au-delà de 60 jours au 31/12/2020 ont pu être conservés sans obligation de ramener le nombre total de jours épargnés à 60.
+
+<br>
+
+_2/ Dérogations liées aux Jeux olympiques 2024_ 
+
+Un arrêté du 22 février 2024 prévoit la création de dispositions temporaires en matière de compte épargne-temps dans la fonction publique de l'Etat et dans la magistrature en raison de l'organisation des jeux Olympiques et Paralympiques au titre de 2024.
+
+<br>
+
+L’article 2 de cet arrêté prévoit notamment que le plafond global de jours pouvant être maintenus sur un compte épargne-temps au terme de l'année 2024 est fixé :
+- à soixante-dix jours
+- ou, pour l'agent dont le nombre de jours épargnés au terme de l'année 2023 excède soixante jours, au nombre de jours épargnés augmenté de dix jours.
+
+<br>
+
+Ainsi, comme en 2020, le nombre maximum de jours épargnés pour 2024 pouvant alimenter le CET pourra être porté à 20 et le nombre maximum de jours pouvant être capitalisés à 70 ou, pour l'agent dont le nombre de jours épargnés au terme de l'année 2023 excède 60 jours, au nombre de jours épargnés augmenté de dix jours. Les années suivantes, les jours ainsi épargnés excédant le plafond global de jours pourront être maintenus sur le CET ou être consommés selon les modalités définies à l'article 6 du décret du 29 avril 2002.
+
+<br>
+
+Ainsi, l’agent qui détenait un solde de 62 jours épargnés à la fin de l’année 2020 ne pouvait pas abonder son CET au 31 décembre 2021. Il ne pouvait prendre les jours non consommés au titre de 2021 que sous forme de congés (avant la date limite pour les prendre) ou opter pour une indemnisation ou un abondement du RAFP. Si l'agent ne choisissait aucune option, les jours non consommés abondaient automatiquement sa RAFP. Il pouvait toutefois maintenir son solde à 62 jours. 
+
+<br>
+
+Si le nombre de jours épargnés par cet agent demeure à 62 jours en 2023, il pourra, au titre des dispositions temporaires liées aux JO en 2024, abonder son CET à hauteur de 10 jours maximum, portant son CET à 72 jours. Dans cette hypothèse en application de l’article 2 de l’arrêté de 2024, les années suivantes, les jours ainsi épargnés excédant le plafond global de jours prévu par l'arrêté du 28 août 2009, soit 10 jours, peuvent être maintenus sur le compte épargne-temps ou être consommés (jours de congés ou choix d’option).
+???
+????
+
+<br>
+
+##### Jours ARTT
+????accordionsgroup
+
+??? Comment décompte-t-on les jours de congés de maladie pour pratiquer l'abattement de jours ARTT ?
+
+La modulation des jours de RTT en cas de congé de maladie ordinaire est calculée de la manière suivante :
+
+<br>
+
+En régime hebdomadaire, le décompte du temps de travail annuel s’exprime en nombre de jours **ouvrés**, au nombre de 228, après exclusion de 104 jours de repos hebdomadaires, de 25 jours de congés annuels et de 8 jours fériés. Ce nombre de jours s’applique quelle que soit l’année.
+
+<br>
+
+Soit N1 le nombre de jours ouvrés en régime hebdomadaire (N1 = 228).
+
+<br>
+
+Soit N2 le nombre maximum de journées ARTT générées annuellement en régime hebdomadaire pour un agent à temps complet.
+
+<br>
+
+Pour rappel, nombre de jours ARTT par durée hebdomadaire :
+
+| Durée hebdomadaire de travail | 39 H | 38 H | 37 H | 36 H |
+|:--------------------------|:----:|:-----:|:-----:|:-----:|
+| Temps complet       | 23 | 18 | 12 | 6 |
+
+<br>
+
+Il faut ensuite calculer le quotient de réduction Q résultant de l’opération arithmétique N1/N2 qui correspond au nombre de jours ouvrés à partir duquel une journée  de RTT est acquise. En conséquence, dès lors qu’un agent, en cours d’année, atteint en une seule fois ou cumulativement, un nombre de jours d’absence pour raisons de santé égal à Q, il convient d’amputer son crédit annuel de jours de RTT d’une journée.
+
+<br>
+
+Par exemple, pour 37 H hebdomadaires Q = N1/N2 = 228 / 12 = 19 jours
+
+<br>
+
+Le quotient Q ne doit pas être arrondi. Le cumul des absences s’apprécie au 31/12. Seuls les jours ouvrés doivent être comptabilisés (et non pas le nombre de jours calendaires), du fait que le numérateur du quotient Q ne comptabilise que des jours ouvrés.
+
+<br>
+
+Par exemple si l'agent, avec un régime de 37 H hebdomadaires, cumule 37 jours ouvrés de CMO au 31/12, alors son crédit annuel de jours de RTT est débité de 37 / 19 = 1,9 soit une journée. Le reste 0,9 étant inférieur à 1, n'est pas décompté.
