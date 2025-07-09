@@ -44,6 +44,8 @@ Le stage peut être prorogé au maximum pour une durée équivalente à la duré
 ???
 ????
 
+<br>
+
 #### Transfert de gestion
 ????accordionsgroup
 
