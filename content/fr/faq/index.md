@@ -42,7 +42,6 @@ Ainsi, à la différence d’une prolongation, la prorogation n’est jamais pri
 
 Le stage peut être prorogé au maximum pour une durée équivalente à la durée statutaire du stage considéré.
 ???
-
 #### Transfert de gestion
 ????accordionsgroup
 
@@ -62,16 +61,6 @@ Ainsi, ces agents ne sont pas mis à disposition mais affectés au sein des secr
 
 Cette situation n'existant pas dans le noyau RH FPE, un nouveau code position a été créé pour gérer ces agents : ACI0I - Affecté hors de l'administration d'origine via une délégation de gestion sur le budget de l'administration d'accueil.
 ???
-
-??? Question 2
-	Réponse 2
-???
-
-??? Question 3
-	Réponse 3
-???
-
-????
 
 ### Catégorie 2
 ??? Question 1
