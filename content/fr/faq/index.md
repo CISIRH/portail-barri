@@ -157,9 +157,9 @@ Les directeurs dans les ARS membres du comité exécutif (COMEX), lorsqu'ils son
 
 Par conséquent ils doivent être placés en position de :
 
-- Pour les agents issus des ministères chargés des affaires sociales :
+=> Pour les agents issus des ministères chargés des affaires sociales :
  - DES04 - Détachement entrant/sortant auprès d'une administration de l'Etat ou dans un établissement public de l'Etat dans un emploi ne conduisant pas à pension
-- Pour les agents issus de la Fonction Publique Territoriale ou Fonction Publique Hospitalière:
+=> Pour les agents issus de la Fonction Publique Territoriale ou Fonction Publique Hospitalière:
  - DEE04 - Détachement entrant auprès d'une administration de l'Etat ou dans un établissement public de l'Etat dans un emploi ne conduisant pas à pension
 
 <br>
@@ -205,13 +205,15 @@ Toutefois, pour la RAFP, il cotise sur son dossier d'accueil. Le gestionnaire de
 
  
 
-Quelles sont les modalités déclaratives au SRE des agents titulaires détachés sur emploi de Directeur (Emploi fonctionnel de Comité exécutif) dans les Agences régionales de santé (ARS) et détachés en même temps sur contrat ?
+??? Quelles sont les modalités déclaratives au SRE des agents titulaires détachés sur emploi de Directeur (Emploi fonctionnel de Comité exécutif) dans les Agences régionales de santé (ARS) et détachés en même temps sur contrat ?
  
+<br>
 
-Pour un agent issu de la Fonction publique d’Etat (FPE)
+_Pour un agent issu de la Fonction publique d’Etat (FPE)_
 
 Ce cas très particulier ne peut pas être traité dans le cadre de la déclaration FIP. Cette période de contractuel en agence régionale de santé (ARS) avec une cotisation à la pension sur la base d'un indice fixé par décret, ne devra être déclarée que si elle intervient dans les 6 derniers mois avant le départ à la retraite de l'agent.
 
+<br>
 
 Dans ce cas, une saisie manuelle dans Tosca par l'employeur lors de "la saisie et notification des éléments de fin de carrière" permet, d'une part la prise en compte du grade ADAGE et, d'autre, part de renseigner l’indice spécifique fixé par décret) pour la pension. Un champ libre permet aussi de justifier la situation en mentionnant le décret applicable.
 
@@ -220,8 +222,9 @@ Les deux grades ADAGE à utiliser sont les suivants :
 1-0949 DIRECTEUR GENERAL D'UNE AGENCE REGIONALE DE SANTE
 1-0950 DIRECTEUR D'UNE AGENCE REGIONALE DE SANTE
  
+<br>
 
-Pour un agent issu de la FPT ou la FPH
+_Pour un agent issu de la FPT ou la FPH_
 
 Il n'y a pas de déclaration à transmettre au SRE (fonctionnement standard).
 
