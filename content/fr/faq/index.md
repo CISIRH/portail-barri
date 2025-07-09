@@ -934,7 +934,7 @@ Toutefois, dans son arrêt du 28 mars 2019 (n°16VE02916), la Cour administrativ
 
 En conclusion, il n’acquiert pas de droit à congés annuels mais peut, au cours de la période de suspension, poser des jours de congés acquis avant cette période. Quand bien même cette suspension ne serait pas suivie de sanction (ou d’une sanction autre que l’exclusion qui conduirait au rétablissement de l’agent dans ces fonctions), la période de suspension n’ouvre pas droit à des congés annuels et il n’y a pas lieu de revenir sur l’application de cette disposition.
 ???
-????
+???
 ????
 
 <br>
