@@ -159,6 +159,7 @@ Par conséquent ils doivent être placés en position de :
 
 => Pour les agents issus des ministères chargés des affaires sociales :
  - DES04 - Détachement entrant/sortant auprès d'une administration de l'Etat ou dans un établissement public de l'Etat dans un emploi ne conduisant pas à pension
+
 => Pour les agents issus de la Fonction Publique Territoriale ou Fonction Publique Hospitalière:
  - DEE04 - Détachement entrant auprès d'une administration de l'Etat ou dans un établissement public de l'Etat dans un emploi ne conduisant pas à pension
 
@@ -175,7 +176,7 @@ Leur statut de régime social applicable est « Titulaire ».
 <br>
 
 Toutefois, il y a bien une spécificité en paye et dans le déclaratif du fait que l'administration d'accueil (Service Liaison Rémunérations) précompte les cotisations sur une base différente de la rémunération, alors que l'agent est sur un emploi ne conduisant pas à pension (ENCPP). **Le SRE calcule les droits à pension sur la base de la carrière d'origine.**
-???
+
 
 ??? Quels sont les mouvements à adresser à PAYSAGE pour payer les titulaires détachés sur emploi de Directeur (Emplois Fonctionnels de Comités exécutifs) dans les Agences Régionales de Santé (ARS) et détachés en même temps sur contrat ?
  
