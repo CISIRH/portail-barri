@@ -7,7 +7,9 @@ eleventyNavigation:
   order: 7
 ---
 
-### Transfert de gestion
+### Affectation
+????accordionsgroup
+#### Transfert de gestion
 ????accordionsgroup
 
 ??? Dans le cadre du transfert de certains personnels vers les secrétariats généraux communs (SGCD), une convention de gestion doit être signée avec le ministère de l’intérieur pour le transfert de personnels non titulaires (Berkani) ainsi que d’ouvriers des Parcs et Ateliers (OPA). Quelle est la position à utiliser dans ce cas de figure ?
