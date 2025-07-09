@@ -798,5 +798,65 @@ https://retraitesdeletat.gouv.fr/professionnels/linformation-des-employeurs/les-
 
 <br>
 
+### Congés
+????accordionsgroup
+#### Absences
+????accordionsgroup
+##### Absence irrégulière
+????accordionsgroup
 
+??? Comment est géré le droit de retrait ?  Le motif « CA100 - Cessation concertée de travail » peut-il être utilisé pour gérer, par défaut, le droit de retrait ? Un code dédié pour gérer le droit de retrait pourrait-il être créé dans le Noyau RH FPE ?
+
+A ce jour aucune demande n’a été formulée pour modéliser le droit de retrait dans le Noyau RH FPE, celui-ci étant peu utilisé dans la fonction publique. Il n’est donc pas prévu, à ce jour, de créer un code dédié.
+
+<br>
+
+Comme le droit de retrait n’a pas d’impact en gestion administrative, il est proposé de le traiter via les codes déjà existants. L’utilisation du code « CA100 - Cessation concertée de travail » (qui a pour conséquence de réduire la paye) n’est pas adapté à cette situation qui en principe n’a pas d’impact sur la rémunération si l’administration valide le caractère justifié de l’absence. Les administrations peuvent donc utiliser le motif « CA009 - Autorisation d’absence diverse ».
+
+<br>
+
+Si le droit de retrait n’était pas justifié, il conviendrait de le traiter en absence irrégulière (CA400).
+
+???
+??? Une absence injustifiée peut-elle être prise en compte dans l'ancienneté de service ?
+
+Une absence injustifiée, même si elle peut, en l’absence de régularisation, entraîner une retenue sur salaire, n’interrompt pas l’ancienneté de service (cas d’un agent qui ne veut pas rejoindre son nouveau poste, mais se présente à son ancien poste par exemple).
+
+<br>
+
+Si l’agent persiste :
+
+- soit il est considéré en abandon de poste (le Conseil d'État estime qu'en abandonnant son poste un fonctionnaire rompt de sa propre initiative le lien qui l'unit à l'administration et se place « en dehors du champ d'application des lois et règlements édictés en vue de garantir l'exercice des droits inhérents à son emploi » (Conseil d’Etat, 10 février 1950, Sieur Gicquel, requête numéro 1743, rec. p. 100), l'agent est radié des cadre) ;
+- soit il encourt une sanction disciplinaire qui entraînera ou non une interruption de l’ancienneté.
+???
+????
+
+<br>
+
+##### Autorisations d'absence
+????accordionsgroup
+
+??? Tous les agents peuvent-ils bénéficier d'une autorisation d'absence pour passer un concours ? Quel est le motif d’autorisation d’absence à utiliser dans le cas d’un agent qui passe un concours ?
+
+Les autorisations spéciales d’absence (ASA) ne relèvent d’aucune disposition législative ou réglementaire à l’exception de celles relatives au mandat syndical ou à la représentation dans les instances de concertation (article 13 du décret n° 82-447 du 28 mai 1982), aux mandats électoraux (articles L. 2123-1, L. 3123-1 et L. 4135-1 du code général des collectivités territoriales) ou dans certaines associations de parents d’élèves (article R. 236-1 du code de l'éducation).
+
+La loi de transformation de la fonction publique du 6 août 2019 a introduit en son article 45 les ASA pour motif familial qui seront définies par décret.
+
+Si certaines ASA sont définies par des circulaires soit interministérielles (comme celles pour les fêtes religieuses ou les gardes d’enfant malade) les autres ASA sont organisées au niveau de chaque ministère en vertu de leur pouvoir d’organisation.
+
+<br>
+
+Le code CA041 « autorisation d’absence pour être membre de jury « n’est ouvert qu’aux contractuels de droit privé, la base juridique de cette autorisation d’absence étant le code du travail (article L3142-3-1). De plus, ce code ne concerne que les membres des jurys et non les candidats aux concours ou examens professionnels.
+
+Pour les autres agents, notamment les titulaires, il n’existe pas de dispositions réglementaires interministérielles ni d’instruction permettant d’accorder des autorisations spéciales d’absence pour se présenter à un concours ou passer les épreuves d’un examen professionnel.
+
+C’est donc à juste titre que le Noyau RH FPE n’a pas modélisé ce motif d’absence.
+
+<br>
+
+La nomenclature étant semi-ouverte, les ministères peuvent la compléter pour leurs besoins avec leurs propres codes tout en respectant la plage d’allocation NISO fournie par le noyau (Répertoire « Informations complémentaires »).
+???
+????
+
+<br>
 
