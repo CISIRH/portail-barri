@@ -642,8 +642,7 @@ Quoiqu’il en soit, l’administration d’origine est libre de saisir les date
 #### Temps partiel pour raison thérapeutique
 ????accordionsgroup
 
-??? Quelle est la durée autorisée pour une demande de temps partiel thérapeutique initial ou son renouvellement ?
-Peut-on procéder à plus d’un renouvellement dans la limite d’un an ?
+??? Quelle est la durée autorisée pour une demande de temps partiel thérapeutique initial ou son renouvellement ? Peut-on procéder à plus d’un renouvellement dans la limite d’un an ?
 
 Les modalités d’octroi et de renouvellement du temps partiels thérapeutique ont fait l’objet d’une révision par décret n° 2021-997 du 28 juillet 2021 entré en vigueur au 31 juillet 2021 (modifiant le décret n°86-442 du 14 mars 1986).
 
@@ -680,3 +679,124 @@ Enfin, au terme de ses droits à exercer un service à temps partiel pour raison
 <br>
 
 <br>
+
+### Rémunération
+????accordionsgroup
+#### Indemnités
+????accordionsgroup
+
+??? Quelle est la base de rémunération à prendre en compte pour le SFT des agents détachés ?
+
+**Pour les agents détachés le mode de rémunération est à prendre en considération. Seule la rémunération d’un agent basée sur un indice majoré peut ouvrir droit au SFT.**
+
+<br>
+
+Si le fonctionnaire est détaché sur contrat et si la rémunération est fixée sur un indice majoré alors il perçoit le SFT correspondant à cet indice selon les règles s’appliquant aux fonctionnaires non détachés.
+
+<br>
+
+**Réponse détaillée**
+
+<br>
+
+En application de l’article 10 du décret n°85-1148 du 24 octobre 1985, le droit au SFT est ouvert aux magistrats, aux fonctionnaires civils, aux militaires à solde mensuelle ainsi qu'aux agents de la fonction publique de l'Etat, de la fonction publique territoriale et de la fonction publique hospitalière dont la rémunération est fixée par référence aux traitements des fonctionnaires ou évolue en fonction des variations de ces traitements, à l'exclusion des agents rétribués sur un taux horaire ou à la vacation.
+
+<br>
+
+Par conséquent :
+
+- Si le fonctionnaire est détaché dans un corps ou cadre d’emplois de l’une des trois fonctions publiques, il perçoit le SFT calculé sur la base de son indice de rémunération ;
+- Si le fonctionnaire est détaché sur contrat et si sa rémunération est calculée en référence à un indice alors il perçoit le SFT correspondant à son indice de rémunération selon les mêmes modalités que celles appliquées à un fonctionnaire non détaché ou détaché dans un corps ou cadre d’emplois ;
+- Si l’agent est détaché sur contrat et si sa rémunération forfaitaire n’est fixée ni en fonction d’un indice ni sur la base des salaires pratiqués dans le commerce et l’industrie mais évolue en fonction des variations des rémunérations de la fonction publique ;
+- Si l’agent est détaché sur contrat et si sa rémunération forfaitaire n’est fixée ni en fonction d’un indice ni sur la base des salaires pratiqués dans le commerce et l’industrie et n’évolue pas en fonction des variations des rémunérations de la fonction publique, il ne peut pas percevoir le SFT.
+ 
+<br>
+
+Ainsi, par exemple un titulaire détaché sur contrat percevant une rémunération fixée à 5 000 euros brut par mois dont l’évolution n’est pas basée sur celle du point d’indice n’ouvre pas le droit au SFT.
+
+<br>
+
+Selon ce même raisonnement, les OPA ouvrent droit au SFT (conseil d’Etat de 1979) alors que les Ouvriers de la Défense ne peuvent y prétendre.
+
+<br>
+
+Pour les ouvriers des parcs et ateliers (OPA) ou les agents contractuels dont la rémunération n’est pas fixée par référence à un indice de la fonction publique, **l’élément proportionnel du SFT est calculé en pourcentage du traitement afférent à l’indice brut 524** (soit à l’IM 454 à compter du 1er janvier 2024) conformément à l’article 10 bis du décret du 24 octobre 1985 précité.
+
+<br>
+
+SFT = élément fixe + IM 454 x taux proportionnel
+|:---------------:|
+
+<br>
+
+L’élément fixe varie en fonction du nombre d’enfants à charge et l’élément proportionnel est un pourcentage calculé sur le traitement soumis à cotisation pour pension civile (indice, complété le cas échéant de la bonification indiciaire (BI) et de la nouvelle bonification indiciaire (NBI)) dans la limite d’un traitement n’excédant pas l’indice brut 879 (indice majoré (IM) : 722). Les agents dont l’indice, complété le cas échéant d’une BI ou d’une NBI, est inférieur à l’indice brut 524 (IM 454), perçoivent le SFT correspondant à cet indice pour le nombre d’enfants qu’ils ont à charge.
+
+<br>
+
+Par conséquent, le traitement brut servant de calcul à l’élément proportionnel est :
+- au moins égal à un plancher correspondant à l’indice brut 524 (IM 454),
+- au plus égal à un plafond correspondant à l’indice brut 879 (IM 722).
+
+<br>
+
+Pour aller plus loin : Vous pouvez consulter le guide du SFT
+???
+????
+
+<br>
+
+#### Traitement
+????accordionsgroup
+
+??? Quelle est la définition des différents indices : "Indice brut" ; "Indice majoré" ; "Indice de rémunération" ; "Indice de pension civile" ?
+
+L’**indice brut** correspond à l’**indice de carrière** déterminé par les textes indiciaires, en fonction du texte statutaire correspondant. **A chaque indice brut correspond un indice majoré permettant de calculer le traitement brut**, conformément à l’article 3 du décret n° 85-1148 du 24 octobre 1985.
+
+<br>
+
+L’**indice majoré** sert à calculer le salaire brut d'un agent de l’Etat. Son traitement mensuel est ainsi calculé en multipliant la valeur du point d'indice par l’indice majoré propre à chaque fonctionnaire et défini en fonction de son échelon, son grade, son cadre d'emploi et son ancienneté. L’indice majoré est donc l’indice sur lequel l’agent public est rémunéré.
+
+<br>
+
+Il existe des situations où l’agent n’est pas rémunéré sur l’indice majoré issu de son classement, mais **sur un indice de rémunération** différent (il est par exemple repris dans les actes de la bibliothèque des actes). Dans cette hypothèse, l’indice de rémunération apparait souvent sous le nom d’indice forcé dans les SIRH. L’agent détient ainsi un indice de rémunération différent de son indice majoré, généralement :
+- dans le cadre d'un détachement si sa carrière d'origine est plus favorable que sa carrière d'accueil ;
+- dans le cas où un reclassement générant une situation défavorable à l'agent, celui-ci conserve à titre personnel son indice de rémunération précédent plus élevé  ;
+- dans le cas où la date d'effet en paye d'un avancement est postérieure à la date d'effet en gestion administrative ;
+- dans les cas où un agent est en mode de gestion MG10 (il s’agit des agents contractuels en situation de handicap payés sur la base du classement sur lequel ils ont vocation à être titularisés).
+
+<br>
+
+L’**indice de pension civile** est l’indice sur lequel sont assises les cotisations afférentes à la pension de retraite (militaire ou civile) que l’agent public titulaire percevra. Dans le cas général, le calcul de la pension est déterminé par l’indice détenu par l’agent durant les six derniers mois de sa carrière.
+
+<br>
+
+La plupart du temps l’indice de pension civile correspond à l’indice majoré.
+
+Toutefois, l’indice de pension civile est différent de l’indice majoré dans les cas suivants :
+- Agent occupant des emplois de catégorie active : dans ce cas, l’agent cotise à un taux plus élevé que le taux salarial normal et détient un indice de pension civile supérieur à l’indice majoré sur la base duquel l’agent est rémunéré ; : voir tableau des taux de cotisation sur le site retraitesdeletat.gouv.fr
+- Agent détaché sur un emploi ne conduisant pas à pension (l’agent continue alors de cotiser sur l’indice afférent à son grade d’origine) qu’il soit rémunéré, dans son emploi de détachement, sur la base d’un indice majoré ou non ;
+- Agent surindicié pour la cotisation pension civile par rapport à son indice majoré de traitement initial (par application de l’article L.15 du code des pensions civiles et militaires de retraite (CPCMR)) : c’est le cas par exemple des agents comptables de la DGFiP.
+
+<br>
+
+NB : S’agissant de l’agent détaché sur un emploi ne conduisant pas à pension, l’agent est détaché au sein de la FPT/FPTH sur un contrat FPE, il ne cotise pas en paie à la CNRACL. L’agent est sollicité via une lettre d’appel de cotisation. Seule la RAFP est à précompter.
+
+<br>
+
+S’agissant de l’agent surindicié, pour que les cotisations afférentes à la pension de retraite de l’agent soient précomptées directement en paye par PAYSAGE, le code « CSTAT03 » doit être saisi dans l’outil.
+
+<br>
+
+Pour rappel, les différents taux de cotisation actualisés sont disponibles avec le lien suivant :
+
+https://retraitesdeletat.gouv.fr/professionnels/linformation-des-employeurs/les-taux-de-contributions
+???
+
+????
+
+<br>
+
+<br>
+
+
+
