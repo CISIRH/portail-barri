@@ -345,7 +345,7 @@ OUI. Les fonctionnaires étant désormais classés lors de leur nomination dans 
 
 <br>
 
-#### Disponibilité
+#### Changement de grade
 ????accordionsgroup
 
 ??? Quel est l’effectif à retenir pour déterminer le nombre de postes à ouvrir sur le tableau d’avancement des attachés hors classe : faut-il prendre pour base de calcul l'effectif complet au 31/12 de l'année précédente ou bien ne retenir que les agents en position d'activité ou de détachement en excluant les agents en disponibilité ou en congé parental ?
@@ -418,6 +418,147 @@ En l’absence de précisions dans le texte réglementaire, la position de la DG
 
 <br>
 
+### Ancienneté
+????accordionsgroup
+#### Ancienneté prise en compte pour l'avancement
+????accordionsgroup
+
+??? Quelles sont les conditions d’ancienneté dans la fonction publique et plus particulièrement dans les corps de recherche, parfois exigée pour les listes d’aptitude, s’agissant notamment des services accomplis en qualité d’agent contractuel ?
+
+S’agissant de la question relative à la prise en compte de l’ancienneté acquise en qualité d’agent contractuel en vue d’une promotion au corps de niveau supérieur, il n’y a pas de règle générale applicable.
+
+<br>
+
+Il convient d’abord d’examiner les dispositions statutaires du corps supérieur pour vérifier les conditions d’éligibilité au recrutement dans le corps considéré par voie de promotion.
+
+<br>
+
+Par exemple, pour l’accès au corps des ingénieurs d’études de recherche et de formation, il convient donc de se référer aux dispositions prévues à l’article 25 du décret n° 85-1534 du 31 décembre 1985 (s’il s’agit du corps des ingénieurs d’études des EPST il convient de se référer au décret n° 83-1260 du 30 décembre 1983, qui, pour la circonstance, sont identiques).
+
+<br>
+
+Ces dispositions indiquent : _un ingénieur d'études de classe normale est nommé parmi les fonctionnaires appartenant au corps des assistants ingénieurs régis par les dispositions de la section III ci-après, justifiant de neuf années de services publics, dont trois au moins en catégorie A._
+
+<br>
+
+Donc, s’il convient, pour être éligible, d’être titulaire du corps d’assistant ingénieur, l’ancienneté exigée a pu être accomplie en qualité de titulaire ou d’agent contractuel et il n’est pas nécessaire que les trois années dans des fonctions de catégorie A aient été accomplies dans un corps de fonctionnaires, le texte statutaire ne le spécifiant pas.
+
+<br>
+
+De plus, pour comptabiliser les années d’ancienneté il n’est pas nécessaire que les fonctions accomplies l’aient été en continu. L’agent a pu connaître des périodes d’interruption et ne pas être en fonction au moment où il est devenu titulaire.
+
+<br>
+
+S’il a exercé des fonctions du niveau de la catégorie A puis du niveau de la catégorie B voire C, ou réciproquement, toutes ces périodes sont bien retenues pour comptabiliser les années de service public. En revanche, seules les périodes où l’agent a exercé des fonctions du niveau de la catégorie A que ce soit dans un corps de fonctionnaires ou en qualité d’agent contractuel, que celles-ci l’aient été en continu ou pas, peuvent être prises en compte pour calculer les trois années exigées en catégorie A.
+
+???
+??? Dans le cadre d’une mutation en quartier prioritaire de la politique de la ville (QPPV), l’agent conserve-t-il l’ancienneté acquise durant son affectation dans le QPPV précédent ? Quelles sont les règles de cumul d'ancienneté pour l'attribution de bonifications d’anciennetés ? 
+
+**Non, sauf si le changement d'affectation résulte d'une mutation prononcée dans l'intérêt du service ou si la liste des quartiers difficiles a été modifiée par arrêté.**
+
+<br>
+
+Le décret n°95-313 du 21 mars 1995 prévoit que « _lorsqu'ils justifient de trois ans au moins de services continus accomplis dans un quartier urbain désigné en application de l'article 1er ci-dessus, les fonctionnaires de l'Etat ont droit, pour l'avancement, à une bonification d'ancienneté d'un mois pour chacune de ces trois années et à une bonification d'ancienneté de deux mois par année de service continu accomplie au-delà de la troisième année_ ».
+
+<br>
+
+La circulaire du 10 décembre 1996 relative à la priorité de mutation et avantage spécifique d'ancienneté accordés à certains agents de l'Etat affectés dans les quartiers urbains particulièrement difficiles donne les précisions suivantes concernant la condition de services continus dans un quartier urbain : « _L'avantage ne peut être accordé qu'aux agents affectés dans un même quartier. Toute mutation dans une autre circonscription ou quartier annule la constitution des droits, et ce même si la nouvelle affectation intervient dans un secteur éligible à l'avantage spécifique d'ancienneté ou la priorité de mutation_ ».
+
+<br>
+
+Néanmoins, si le changement d'affectation résulte d'une mutation prononcée dans l'intérêt du service dès lors que cette mutation ne s'appuie pas sur une demande de l'agent, le cumul des droits est suspendu jusqu'au moment où une nouvelle affectation dans un quartier éligible intervient. Dans ce cas, les droits constitués initialement sont pris en compte pour l'attribution de l'avantage spécifique d'ancienneté ou de la priorité de mutation.
+
+<br>
+
+Il en va de même si l'interruption de l'affectation en quartier difficile résulte d'une modification par arrêté de la liste des quartiers éligibles.
+
+???
+??? L’ancienneté conservée dans l'échelon est-elle prise en compte dans le calcul d'ancienneté requise pour un avancement ?
+
+**La conservation de l’ancienneté d’échelon est à considérer au cas par cas.**
+
+<br>
+
+Dans le cadre d’un classement (suite à un recrutement dans un corps ou à un changement de grade au sein du même corps), les statuts (communs ou particuliers) peuvent prévoir la conservation de tout ou partie de l’ancienneté acquise dans l’échelon précédent.
+
+L’ancienneté d’échelon conservée, en cas de classement, est considérée comme de l’ancienneté acquise (donc effectuée) dans l’échelon cible (=échelon de classement).
+
+<br>
+
+Exemple d’un agent de cat. C (11ème échelon du grade C2) recruté en catégorie B au 01/01/2024. Dans le cadre de ce recrutement, il sera classé au 8ème échelon du 1er grade de cat. B avec conservation d’ancienneté de ¾.  Or, à cette date, il justifiait de 8 mois d’ancienneté dans le 11ème échelon du grade C2. Il conserve donc une ancienneté de 6 mois dans l’échelon 8 de la cat B (1er grade) ;
+
+Cela signifie qu’au 01/01/2024, lors de sa nomination en cat. B, il justifie déjà de 6 mois d’ancienneté dans le 8ème échelon du 1er grade de catégorie B (ces 6 mois sont considérés comme des services effectifs dans cet échelon de la cat. B).
+
+<br>
+
+Par conséquent, il pourra prétendre à une promotion dans la classe supérieure (2ème grade) par TA au choix de la catégorie B au 01/07/2024 (date à laquelle il justifiera de la condition de 1 an d’ancienneté dans le 8ème échelon du 1er grade de cat. B pour y accéder).
+
+En l’absence de promotion, il avancera automatiquement au 9ème échelon du 1er grade de catégorie B au 01/07/2026 (compte tenu de la durée de 3 ans du 8ème échelon et de la prise en compte d’une ancienneté conservée de 6 mois).  
+???
+????
+
+<br>
+
+#### Ancienneté historique prise en compte pour les classements/reclassements
+????accordionsgroup
+
+??? Lorsqu’une ancienneté dans la catégorie A, B ou C est demandée pour obtenir une promotion par liste d’aptitude ou par inscription sur un tableau d’avancement, faut-il considérer que les services assimilés valent appartenance et prendre en compte la période de la carrière militaire dans l'ancienneté dans une catégorie de la fonction publique ?
 
 
+**Réponse résumée :**
+
+Les services publics comprennent les services militaires si la réglementation ne prévoit pas qu’ils aient été effectués dans un corps ou un service précis.
+
+<br>
+
+De plus, les services militaires ne peuvent être pris en compte dans la carrière des fonctionnaires que s’ils ont fait l’objet d’une assimilation. Dans ce cas, elle peut dépendre, sauf disposition particulière, du statut particulier du corps, de la manière dont le militaire a accédé au corps.
+
+<br>
+
+<br>
+
+**Réponse détaillée :**
+
+Les services militaires sont considérés comme des services publics au sens large mais non pas comme des services de fonctionnaires voire d’agents contractuels.
+
+<br>
+
+A cet effet, il convient de distinguer la prise en compte des services militaires pour un avancement d’échelon voire de grade ou  pour une promotion interne.
+
+<br>
+
+Tout d’abord il convient de rappeler que le décret permettant le détachement « ordinaire » des militaires dans des corps ou cadres d’emplois d’un des trois versants de la fonction publique prévu à l’ancien article 13 ter de la loi n° 83-634 du 13 juillet 1983 n’a jamais été publié et qu’aucune équivalence entre les grades et corps des militaires et grades des corps ou cadres d’emplois civils n’a donc été règlementairement établie. Lorsqu’est mentionnée la prise en compte de services publics, il n’est donc réglementairement pas possible d’assimiler des services militaires à des services en catégorie A, B ou C s’il n’y a pas de précision supplémentaire dans les dispositions applicables.
+
+<br>
+
+Lorsqu’un militaire accède à un corps de la fonction publique il est classé en fonction de décrets spécifiques suivant le mode d’accès à ce corps :
+
+- S’il accède par la voie de concours externe ou interne (L.4139-1 du code de la défense), il sera classé en fonction des dispositions de l’article R. 4139-1 à 9 de ce même code. Ces dispositions ne précisent que les règles de classement mais ne contiennent aucune précision sur la prise en compte des services militaires pour l’avancement dans le corps d’accueil.
+
+<br>
+
+- S’il accède à un corps de fonctionnaires par la voie des emplois pourvus après examen par la Commission Nationale d’Orientation et d’Intégration (CNOI) en application de l’article L. 4139-2 du code de la défense, le militaire sera classé en application des dispositions prévues aux articles R. 4139-14 à 22, qui, de plus, prévoient une assimilation des services militaires à l’article R. 4139-20-1 : les services militaires sont alors assimilés à des services effectifs accomplis dans le corps et le grade d'intégration pour l'avancement dans le corps d'accueil, dans la limite de la durée maximale d'ancienneté nécessaire pour atteindre l'échelon du grade dans lequel le militaire a été classé à partir du premier échelon du premier grade du corps d'accueil.
+
+<br>
+
+- Enfin, s’il accède à un corps de fonctionnaires par la voie des emplois réservés prévue à l’article L. 4139-3 son ancienneté sera conservée dans le corps dans les conditions suivantes : en cas d'intégration ou de titularisation, la durée des services effectifs du militaire est reprise en totalité dans la limite de dix ans pour l'ancienneté dans le corps ou le cadre d'emploi d'accueil de catégorie C. Elle est reprise pour la moitié de la durée des services effectifs dans la limite de cinq ans pour l'ancienneté dans le corps ou le cadre d'emploi de catégorie A ou B
+ 
+<br>
+
+Pour la promotion interne, en général, il est exigé des membres des corps susceptibles d’accéder par liste d’aptitude au corps supérieur une certaine ancienneté de services dont une partie au moins doit avoir été effectuée dans un corps ou des services spécifiques. Pour cette partie, les services accomplis en qualité de militaire ne peuvent pas être pris en compte s’ils n’ont pas été assimilés.
+
+<br>
+
+En revanche, quand il est exigé, par exemple, pour l’accès à un corps de catégorie B, une ancienneté de 9 années de services publics, les services militaires (à l’exception des services d’appelé qui eux sont assimilés) sont comptabilisés dans ces 9 années.
+
+<br>
+
+De même, par exemple, pour l’accès au corps interministériel des attachés, lorsque les agents de catégorie B doivent justifier d'au moins neuf années de services publics, dont cinq au moins de services effectifs dans ce corps (secrétaire administratif), les services militaires peuvent venir compléter les 4 années où il n’est exigé que des services publics sans autre précision.
+???
+
+????
+
+<br>
+
+<br>
 
