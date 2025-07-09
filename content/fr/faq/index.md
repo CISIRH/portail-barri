@@ -1204,7 +1204,7 @@ Par exemple, pour 37 H hebdomadaires Q = N1/N2 = 228 / 12 = 19 jours
 
 <br>
 
-Le quotient Q ne doit pas être arrondi. Le cumul des absences s’apprécie au 31/12. Seuls les jours ouvrés doivent être comptabilisés (et non pas le nombre de jours calendaires), du fait que le numérateur du quotient Q ne comptabilise que des jours ouvrés.
+Le quotient Q ne doit pas être arrondi. Le cumul des absences s’apprécie au 31/12. **Seuls les jours ouvrés** doivent être comptabilisés (et non pas le nombre de jours calendaires), du fait que le numérateur du quotient Q ne comptabilise que des jours ouvrés.
 
 <br>
 
