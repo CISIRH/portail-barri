@@ -68,6 +68,8 @@ Cette situation n'existant pas dans le noyau RH FPE, un nouveau code position a 
 
 ????
 
+<br>
+
 ### Positions administratives
 ????accordionsgroup
 #### Détachement
@@ -207,8 +209,6 @@ Toutefois, pour la RAFP, il cotise sur son dossier d'accueil. Le gestionnaire de
  
 
 ??? Quelles sont les modalités déclaratives au SRE des agents titulaires détachés sur emploi de Directeur (Emploi fonctionnel de Comité exécutif) dans les Agences régionales de santé (ARS) et détachés en même temps sur contrat ?
- 
-<br>
 
 _Pour un agent issu de la Fonction publique d’Etat (FPE)_
 
@@ -230,5 +230,94 @@ _Pour un agent issu de la FPT ou la FPH_
 Il n'y a pas de déclaration à transmettre au SRE (fonctionnement standard).
 
 ???
+??? Comment doivent être gérés les agents titulaires, détachés, sur un corps en qualité de stagiaire le temps d'effectuer leur stage ? 
 
-????
+**Il s'agit d'une situation classique de détachement d'un titulaire sur un corps en qualité de stagiaire avant titularisation. L'agent est en double carrière : en détachement sortant sur sa carrière d'origine et en détachement entrant dans sa carrière d'accueil.**
+
+<br>
+
+Les positions à utiliser dans chacune des carrières sont respectivement :
+
+- DET14 - Détachement sortant pour stage ou scolarité avant titularisation dans un emploi de l'État ou d'un établissement public administratif, ou pour préparation à un concours
+- DEE06 - Détachement entrant pour stage ou scolarité avant titularisation dans un emploi de l'État, d'une collectivité territoriale ou d'un établissement public administratif ou préparation à un concours
+
+<br>
+
+Toutefois si le détachement a lieu au sein d'un même SIRH avec un dossier unique, il conviendra d'utiliser le code DES06 - Détachement entrant/sortant pour stage ou scolarité avant titularisation dans un emploi de l'État, d'une collectivité territoriale ou d'un établissement public administratif ou préparation à un concours. L’agent aura le statut de stagiaire.
+
+<br>
+
+La position de détachement sortant est une position non payée. La position de détachement entrant est une position d'activité payée. Dans cette situation, l'agent continue à avancer dans chacune de ses carrières.
+
+<br>
+
+L'acte à produire pour accueillir le stagiaire est l'acte INTCAR0011 « Arrêté portant nomination d'un fonctionnaire stagiaire » issu de la bibliothèque des actes du Noyau RH FPE.
+
+<br>
+
+Pour le FIP, il est attendu deux déclarations simultanées pour chacune des carrières.
+
+<br>
+
+#### Disponibilité
+????accordionsgroup
+
+??? Le décret du 27 mars 2019 institue pour certaines disponibilités la conservation des droits à avancement, sous réserve d’exercice d’une activité professionnelle, pour une durée de 5 ans.
+La période de 5 ans court-elle sur toute la carrière ou s’applique-t-elle à la seule période de disponibilité concernée ?
+
+Oui, la période de 5 ans court sur toute la carrière de l'agent.
+
+<br>
+
+En application de l’article L514-1 du CGFP, « La disponibilité est la position du fonctionnaire qui, placé hors de son administration ou service d'origine, cesse de bénéficier, dans cette position, de ses droits à l'avancement et à la retraite. »
+
+<br>
+
+Par dérogation, l’article L514-2 du CGFP prévoit notamment qu’ : «  un fonctionnaire bénéficiant d'une disponibilité au cours de laquelle il exerce une activité professionnelle ou d'une disponibilité pour élever un enfant, conserve, pendant une durée maximale de cinq ans, ses droits à l'avancement. »
+
+<br>
+
+La conservation des droits à avancement au cours d’une ou plusieurs disponibilités est bien de cinq ans pour la totalité de la carrière. Dès lors que ces disponibilités ont été accordées pour exercer une activité professionnelle et/ou élever un enfant.
+
+<br>
+
+En effet, si les dispositions des articles L514-1 et L514-2 du CGFP s’appliquent à la disponibilité en général, c’est le décret du 16 septembre 1985 qui introduit les divers cas au titre desquels une disponibilité peut être accordée soit de droit soit en fonction des nécessités du service.
+
+<br>
+
+La durée de 5 ans est indiquée au titre des positions cumulées de disponibilité sur l’ensemble de la carrière et non au titre de chaque disponibilité.
+
+<br>
+
+Il en résulte que l’agent ne peut bénéficier de la conservation de ses droits à avancement au titre des disponibilités pour exercer une activité professionnelle ou d'une disponibilité pour élever un enfant   que pendant une durée maximale de cinq ans (et non pendant 10 ans).
+
+???
+??? Un agent titulaire peut-il être à la fois en position de "disponibilité" et recruté en qualité de contractuel de droit public dans un établissement public ? Dans quelle position administrative doit être placé l’agent ?
+
+Il ressort de la jurisprudence qu’« il n’existe aucune disposition législative ou réglementaire interdisant à un agent public titulaire en disponibilité d’exercer, dans un cadre contractuel, des fonctions dans une autre collectivité publique que celle dont il relève » (TA de Rouen, 7 novembre 2017, req. n° 1503992).
+
+<br>
+
+Un agent en disponibilité peut dès lors être recruté par voie contractuelle si ce recrutement intervient dans une autre administration que celle de son affectation d’origine. Par conséquent, un recrutement en qualité d'agent contractuel auprès de la même administration dans laquelle l’agent est en disponibilité et sur contrat n’est pas possible (Conseil d'État, 13 novembre 1981, requête n° 11564 ; 23 février 1966, demoiselle Brillé, requête n° 6425).
+
+<br>
+
+Si le détachement envisagé a vocation à intervenir au sein de la même administration alors l’agent peut être placé en position de détachement sur contrat (cette position étant toutefois incompatible avec la disponibilité).
+
+???
+??? Lorsqu’un agent est placé en disponibilité pour donner des soins soit à un enfant, soit à un ascendant, l'activité d'aidant peut-elle être assimilée à une activité professionnelle et justifier la conservation des droits à l'avancement ?
+
+Non.
+
+<br>
+
+Si la nécessité d'exercer une activité professionnelle a été supprimée de la disponibilité pour élever un enfant à la suite de la publication de la loi de transformation de la fonction publique, elle ne l'a pas été pour les autres disponibilités mentionnées à l'article 47 du décret n° 85-986 du 16 septembre 1986, quel que soit le motif.
+
+<br>
+
+Or, l'activité professionnelle est définie au deuxième alinéa de l'article 48-1 du même décret comme une activité lucrative qu'elle soit exercée en qualité de salarié ou d'indépendant. Elle nécessite donc pour être validée de fournir des attestations de salaires ou de rémunération.
+
+<br>
+
+L'activité d'aidant n'étant pas une activité lucrative et n'étant pas rémunérée, elle ne peut pas servir à justifier le maintien des droits à l'avancement.
+
