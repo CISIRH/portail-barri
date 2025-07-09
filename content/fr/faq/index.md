@@ -578,8 +578,14 @@ Dès lors, contrairement au temps partiel qui ne peut être inférieur à 50%, l
 <br>
 
 Toutes les quotités inférieures à 70% sont donc possibles, y compris celles, par exemple, de 15% ou de 30%. 
-
 ???
+????
+
+<br>
+
+#### Temps partiel
+????accordionsgroup
+
 ??? Quelles sont les conditions d’ancienneté pour qu’un agent contractuel soit autorisé à travailler à temps partiel ?
 
 Une condition d'un an d'ancienneté est requise de façon continue ou discontinue. 
