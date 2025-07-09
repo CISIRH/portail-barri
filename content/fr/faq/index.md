@@ -256,6 +256,8 @@ L'acte à produire pour accueillir le stagiaire est l'acte INTCAR0011 « Arrêt�
 <br>
 
 Pour le FIP, il est attendu deux déclarations simultanées pour chacune des carrières.
+???
+????
 
 <br>
 
