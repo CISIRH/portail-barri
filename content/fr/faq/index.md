@@ -9,6 +9,40 @@ eleventyNavigation:
 
 ### Affectation
 ????accordionsgroup
+#### Titulaires/Stagiaires
+????accordionsgroup
+
+??? Quelle est la différence entre la prolongation et la prorogation de stage ?
+
+**La prorogation est une période accordée au fonctionnaire stagiaire afin de lui laisser plus de temps pour faire ses preuves. La prolongation de stage permet l’accomplissement de la durée statutaire de stage interrompue par un évènement.**
+
+<br>
+
+Si la distinction n’est pas explicitée dans le décret 94-874 du 7 octobre 1994, il convient toutefois d’appliquer la prorogation dans la situation où les aptitudes professionnelles du stagiaire ne sont pas jugées suffisantes pour prononcer sa titularisation à l’issue du stage. Cette distinction entre prolongation et prorogation de stage a été confirmée par la DGAFP.
+
+<br>
+
+*La prolongation permet l’accomplissement de la durée statutaire de stage, nonobstant certains événements ayant perturbé ou modifié le déroulement normal du stage. Il y a deux types de prolongation :
+- prolongation dans les cas de stage accompli à temps partiel ou dans le cadre d’un temps partiel thérapeutique (il convient de pouvoir apprécier les qualités professionnelles des fonctionnaires stagiaires considérés sur une période de travail effectif suffisante, égale à celle des fonctionnaires stagiaires exerçant à temps plein) ;
+- prolongation suite à l’interruption du stage du fait de congés successifs autres que le congé annuel. La période statutaire de stage est alors prolongée selon un ratio qui diffère selon les types de congés concernés (en totalité, pour moitié, à hauteur d’un dixième).
+  
+<br>
+
+Il en résulte que la prolongation est une période complémentaire, qui s’ajoute à la durée initiale et doit donc être comptabilisée dans les conditions prévues par le décret n°94-874 du 7 octobre 1994.
+
+<br>
+
+*La prorogation est une période accordée au fonctionnaire stagiaire afin de lui laisser plus de temps pour faire ses preuves et s’adapter à ses fonctions. La période prorogée renvoie, à une date ultérieure, la décision de titularisation le temps d’apprécier les aptitudes professionnelles du stagiaire. Elle interrompt un délai, une période, elle suspend l’application d’un statut et s’entend donc comme une forme d’ajournement.
+
+<br>
+
+Ainsi, à la différence d’une prolongation, la prorogation n’est jamais prise en compte dans le calcul de l’ancienneté à retenir lors de la titularisation (comme le précise le décret du 7 octobre 1994).
+
+<br>
+
+Le stage peut être prorogé au maximum pour une durée équivalente à la durée statutaire du stage considéré.
+???
+
 #### Transfert de gestion
 ????accordionsgroup
 
