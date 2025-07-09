@@ -70,6 +70,8 @@ Cette situation n'existant pas dans le noyau RH FPE, un nouveau code position a 
 
 <br>
 
+<br>
+
 ### Positions administratives
 ????accordionsgroup
 #### Détachement
@@ -97,13 +99,13 @@ Le détachement de longue durée prononcé au titre de l'article 14 (7°, b) pou
 
 <br>
 
-L’article 26 dispose que « Dans le cas prévu à l'article 14, 9°, ci-dessus, il peut être mis fin au détachement par décision du ministre chargé de la recherche et du ministre dont relève le fonctionnaire dans son corps d'origine.
+L’article 26 dispose que « _Dans le cas prévu à l'article 14, 9°, ci-dessus, il peut être mis fin au détachement par décision du ministre chargé de la recherche et du ministre dont relève le fonctionnaire dans son corps d'origine.
 
-Ce détachement ne peut être renouvelé qu'à titre exceptionnel et pour une seule période de cinq ans. »
+Ce détachement ne peut être renouvelé qu'à titre exceptionnel et pour une seule période de cinq ans._ »
 
 <br>
 
-L’article 14,9° précise que « le détachement auprès d'une entreprise privée, d'un organisme privé ou d'un groupement d'intérêt public pour y exécuter des travaux de recherche d'intérêt national entrant dans le cadre fixé par le comité interministériel de la recherche scientifique et technique institué par le décret n° 75-1002 du 29 octobre 1975, ou pour assurer le développement dans le domaine industriel et commercial, de recherches de même nature ; un tel détachement ne peut être prononcé que si l'intéressé n'a pas eu, au cours des cinq dernières années, soit à exercer un contrôle sur l'entreprise, soit à participer à l'élaboration ou à la passation de marchés avec elle ; »
+L’article 14,9° précise que « _le détachement auprès d'une entreprise privée, d'un organisme privé ou d'un groupement d'intérêt public pour y exécuter des travaux de recherche d'intérêt national entrant dans le cadre fixé par le comité interministériel de la recherche scientifique et technique institué par le décret n° 75-1002 du 29 octobre 1975, ou pour assurer le développement dans le domaine industriel et commercial, de recherches de même nature ; un tel détachement ne peut être prononcé que si l'intéressé n'a pas eu, au cours des cinq dernières années, soit à exercer un contrôle sur l'entreprise, soit à participer à l'élaboration ou à la passation de marchés avec elle ;_ »
 
 <br>
 
@@ -137,7 +139,7 @@ Ces emplois sont répartis en quatre niveaux, auxquels correspondent des échelo
 
 Le décret n° 2011-1420 du 31 octobre 2011 portant application de l'article R. 1432-68 du code de la santé publique, en son article 1, dispose :
 
-« Pour l'application des dispositions de l'article R. 1432-68 du code de la santé publique, les traitements indiciaires des emplois de direction des agences régionales de santé sont définis selon le tableau annexé au présent décret. »
+« _Pour l'application des dispositions de l'article R. 1432-68 du code de la santé publique, les traitements indiciaires des emplois de direction des agences régionales de santé sont définis selon le tableau annexé au présent décret._ »
 
 <br>
 
@@ -275,7 +277,7 @@ En application de l’article L514-1 du CGFP, « La disponibilité est la positi
 
 <br>
 
-Par dérogation, l’article L514-2 du CGFP prévoit notamment qu’ : «  un fonctionnaire bénéficiant d'une disponibilité au cours de laquelle il exerce une activité professionnelle ou d'une disponibilité pour élever un enfant, conserve, pendant une durée maximale de cinq ans, ses droits à l'avancement. »
+Par dérogation, l’article L514-2 du CGFP prévoit notamment qu’ : «  _un fonctionnaire bénéficiant d'une disponibilité au cours de laquelle il exerce une activité professionnelle ou d'une disponibilité pour élever un enfant, conserve, pendant une durée maximale de cinq ans, ses droits à l'avancement._ »
 
 <br>
 
@@ -322,4 +324,100 @@ Or, l'activité professionnelle est définie au deuxième alinéa de l'article 4
 <br>
 
 L'activité d'aidant n'étant pas une activité lucrative et n'étant pas rémunérée, elle ne peut pas servir à justifier le maintien des droits à l'avancement.
+???
+
+????
+
+<br>
+
+<br>
+
+### Avancement
+????accordionsgroup
+#### Changement d'échelon
+????accordionsgroup
+
+??? Un stagiaire peut-il prétendre à un avancement d’échelon pendant son stage, y compris s’il est placé en PNA (position normale d’activité) hors de son administration de gestion ?
+
+OUI. Les fonctionnaires étant désormais classés lors de leur nomination dans le grade dans lequel ils ont été recrutés, sauf exception, ils peuvent donc bénéficier d’un avancement d’échelon pendant leur stage en fonction de leur classement, de la durée de l’échelon et de celle du stage. Cette situation statutaire est indépendante de l’affectation, qu’elle soit dans l’administration de gestion ou en dehors. Le stagiaire est affecté dans un emploi que les fonctionnaires du corps d’appartenance du stagiaire ont vocation à occuper. En conséquence, l'avancement d'échelon que ce soit pour un fonctionnaire titulaire ou stagiaire en position administrative d’activité suit les mêmes règles.
+???
+????
+
+<br>
+
+#### Disponibilité
+????accordionsgroup
+
+??? Quel est l’effectif à retenir pour déterminer le nombre de postes à ouvrir sur le tableau d’avancement des attachés hors classe : faut-il prendre pour base de calcul l'effectif complet au 31/12 de l'année précédente ou bien ne retenir que les agents en position d'activité ou de détachement en excluant les agents en disponibilité ou en congé parental ?
+
+Le statut des attachés d’administration de l’Etat, prévoit pour l’avancement au grade d’attaché hors classe de prendre en compte l’effectif complet des attachés gérés par l’autorité de rattachement quelle que soit leur position conformément aux dispositions suivantes :
+
+<br>
+
+• Article 26 du décret du 17 octobre 2011 modifié par l’article 14 du décret n° 2013-876 du 30 septembre 2013 
+
+« _Par dérogation aux dispositions du décret du 1er septembre 2005 susvisé, le nombre de promotions au grade d'attaché d'administration hors classe n'est pas calculé en fonction d'un taux d'avancement appliqué à l'effectif des attachés principaux et des directeurs de service remplissant les conditions d'avancement._ »
+
+« _Le nombre d'attachés d'administration hors classe ne peut excéder celui résultant d'un pourcentage des effectifs des attachés d'administration de l'Etat considérés au 31 décembre de l'année précédant celle au titre de laquelle sont prononcées les promotions. Ce pourcentage, qui s'applique à l'ensemble des administrations concernées, est fixé par arrêté conjoint du ministre chargé de la fonction publique et du ministre chargé du budget._ »
+
+<br>
+
+Avant le décret du 30 septembre 2013, le deuxième alinéa de cet article était ainsi rédigé :
+
+« _Le nombre d'attachés d'administration hors classe ne peut excéder celui résultant d'un pourcentage des effectifs des attachés d'administration de l'Etat en position d'activité ou de détachement. Ce pourcentage, qui s'applique à l'ensemble des administrations concernées, est fixé par arrêté conjoint du ministre chargé de la fonction publique et du ministre chargé du budget._ »
+
+<br>
+
+Lors de l’intégration des différents corps d’attachés d’administration dans le corps interministériel, la précision portant sur les positions dans lesquelles devait se trouver l’effectif auquel était appliqué le pourcentage permettant de calculer le nombre d’attachés d’administration hors classe a été volontairement supprimée.
+
+<br>
+
+La suppression de cette mention permet donc de prendre en compte dans cet effectif l’ensemble des attachés gérés par l’autorité de rattachement quelle que soit la position des attachés gérés par cette autorité : activité, détachement, congé parental et disponibilité.
+
+???
+??? Quelles sont les modalités de classement/reclassement à appliquer en cas d’avancement de grade par tableau d’avancement et avancement d’échelon dans le grade antérieur le même jour ?
+
+**Il n’y a pas de réglementation commune sur les règles à appliquer concernant l’avancement de grade.**
+
+<br>
+
+L’avancement de grade repose sur les dispositions législatives suivantes :
+
+<br>
+
+L’article L411-7 du CGFP prévoit que « _les grades de chaque corps […] sont accessibles par voie de concours, de promotion interne ou d’avancement, dans les conditions fixées par les statuts particuliers._ »
+
+L’article L411-6 du CGFP indique que les règles de promotion au grade supérieur sont fixées par les statuts particuliers.
+
+L’article L522-4 du CGFP prévoit les règles générales régissant l’avancement de grade des corps de la fonction publique de l’État.
+
+L’article L522-18 du CGFP prévoit que l’avancement de grade a lieu selon des proportions prévues par les statuts particuliers, il est donc contingenté (III.1). Il renvoie également aux dispositions du statut particulier le soin de définir les conditions d’avancement au grade supérieur.
+
+Ces conditions comprennent l’éligibilité (III.2) et les modalités d’accès à chacun des grades (III.3) ainsi que celles de classement lors de la nomination au grade supérieur (III.4).
+
+<br>
+
+**Par principe**, il convient donc de procéder au classement/reclassement en deux temps :
+
+1 / Prise en compte de l’avancement d’échelon dans le corps/grade antérieur ;
+
+2 / Classement/reclassement dans le nouveau corps/grade prenant en compte la situation antérieure après avancement d’échelon.
+
+<br>
+
+**Toutefois**, il convient de se référer systématiquement aux statuts particuliers pour ce faire, lesquels peuvent prévoir des procédures différentes.
+
+<br>
+
+En l’absence de précisions dans le texte réglementaire, la position de la DGAFP est bien d’observer la situation au jour J de l’évènement de gestion, ce jour devant intégrer potentiellement le changement d’échelon initialement prévu.
+???
+
+????
+
+<br>
+
+<br>
+
+
+
 
