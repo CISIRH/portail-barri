@@ -1209,3 +1209,514 @@ Le quotient Q ne doit pas être arrondi. Le cumul des absences s’apprécie au 
 <br>
 
 Par exemple si l'agent, avec un régime de 37 H hebdomadaires, cumule 37 jours ouvrés de CMO au 31/12, alors son crédit annuel de jours de RTT est débité de 37 / 19 = 1,9 soit une journée. Le reste 0,9 étant inférieur à 1, n'est pas décompté.
+
+???
+??? Quels sont les droits à ARTT pouvant être accordés aux apprentis ?
+
+Le temps consacré par l'apprenti à la formation dispensée dans les centres de formation d'apprentis est compris dans l'horaire de travail et, pour le temps restant, l'apprenti accomplit le travail qui lui est confié par l'employeur dans la limite de l'horaire de travail applicable dans l'entreprise (cf. article L6222-24 du code du travail).
+
+<br>
+
+Le temps de travail des apprentis est donc variable selon la durée du travail en vigueur dans l’entreprise concernée.
+
+<br>
+
+Pour les apprentis de moins de dix-huit ans, le temps de travail est limité à 35 heures par semaine (cf. article L6222-25 du code du travail) sauf dérogation prévue à l’article L3162-1. Dès lors, il ne peut y avoir attribution de jours ARTT pour un apprenti de moins de 18 ans.
+
+<br>
+
+Pour calculer les droits RTT de l’apprenti de plus de 18 ans, il convient de prendre en compte les heures hebdomadaires réellement effectuées dans le centre de formation et chez l’employeur en distinguant deux cas :
+
+1. Le centre de formation est soumis à la limite des 35 heures hebdomadaires :
+
+Dans ce cas, la durée de la formation ne donne pas de droit à RTT et seule la durée hebdomadaire du travail chez l’employeur peut, le cas échéant, ouvrir des droits à RTT.
+
+<br>
+
+Exemple : L’apprenti suit une formation en alternance de 35H hebdomadaires, et travaille 38H par semaine chez son employeur. La base de 38H hebdomadaires sur un mois ouvre un droit annuel à 18 jours de RTT. Toutefois, si l’apprenti ne travaille qu’une semaine sur deux, le droit annuel est réduit de moitié, soit 9 jours de RTT. Dans le cas où l’apprentissage s’interrompt en cours d’année, ce nombre de jours doit être proratisé. De la même manière, il est proratisé aussi en fonction des congés de maladie, comme pour les autres agents de Fonction Publique.
+
+<br>
+
+2. La durée de la formation est organisée sur une base hebdomadaire supérieure à 35H :
+
+Dans ce cas, la durée de la formation et la durée du travail chez l’employeur sont à prendre en compte pour le calcul des droits à RTT.
+
+<br>
+
+Exemple : L’apprenti suit une formation en alternance de 36H hebdomadaires et travaille 38H par semaine chez son employeur. La base de 36H hebdomadaires sur un mois ouvre un droit annuel de 6 jours de RTT, soit 3 jours de RTT annuels pour 2 semaines/mois. La base de 38H hebdomadaires sur un mois ouvre un droit annuel de 18 jours de RTT, soit 9 jours de RTT pour 2 semaines /mois. Dans ce cas l’apprenti a donc droit à 3 + 9 = 12 jours de RTT annuels.
+
+<br>
+
+Dans le cas où l’apprentissage s’interrompt en cours d’année, ce nombre doit être proratisé. Il est également proratisé en fonction des congés de maladie, comme pour les autres agents de la Fonction Publique.
+
+<br>
+
+Dans le cas où la durée de la formation ou la durée du travail chez l’employeur ne sont pas alignées sur des semaines complètes, il convient de ramener les durées sur des bases hebdomadaires pour procéder au calcul du droit à RTT.
+
+<br>
+
+Exemple : Sur le mois, l’apprenti effectue 72 heures de formation en 10 jours et 152 heures de travail sur 20 jours. La durée de formation correspond à : (72 / 10) x 5 = 36 heures hebdomadaires et la durée du travail à : (152 / 20) x 5 = 38 heures hebdomadaires.
+???
+????
+????
+
+<br>
+
+#### Enfants et proches
+????accordionsgroup
+##### Congé maternité
+????accordionsgroup
+
+??? Quelle est la durée du congé de maternité dans le cas d'un accouchement prématuré de plus de 6 semaines sans hospitalisation de l'enfant ?
+
+**Une période supplémentaire de congé de maternité est accordée en cas de naissance prématurée exigeant une hospitalisation de l’enfant (article L1225-23 du code du travail).**
+
+<br> 
+
+Le CGFP prévoit les 2 cas.
+
+<br>
+
+En l’absence d’hospitalisation, les dispositions de l’article L631-3 du CGFP s’appliquent (ce dernier renvoyant aux articles L. 1225-17 à L. 1225-21 du code du travail).
+
+<br>
+
+A cette fin, en application de l’article L1225-20 du code du travail : « _Lorsque l'accouchement intervient avant la date présumée, le congé de maternité peut être prolongé jusqu'au terme, selon le cas, des seize, vingt-six, trente-quatre ou quarante-six semaines de suspension du contrat auxquelles la salariée a droit, en application des articles L. 1225-17 à L. 1225-19._ »
+
+<br>
+
+En cas d’hospitalisation, l’article L331-3 du code de sécurité sociale précise :
+
+« _(…) Quand l'accouchement a lieu avant la date présumée, la période d'indemnisation de seize ou de trente-quatre semaines, quarante-six semaines en cas de naissance de plus de deux enfants n'est pas réduite de ce fait.
+Quand l'accouchement intervient plus de six semaines avant la date initialement prévue et exige l'hospitalisation postnatale de l'enfant, la période pendant laquelle la mère perçoit l'indemnité journalière de repos est augmentée du nombre de jours courant de la date effective de l'accouchement au début de la période de repos mentionnée aux alinéas précédents et à l'article L. 331-4._ »
+
+<br>
+
+Par conséquent, en cas de naissance prématurée n’exigeant pas l’hospitalisation de l’enfant, la période de congé de 16 ou 26 semaines (ou 34 ou 46 semaines en cas de naissances multiples) n'est pas réduite de ce fait. En conséquence, le repos prénatal non utilisé s'ajoute au congé postnatal dans la limite d'un repos total de 16 ou 26 semaines (ou de 34 ou 46 semaines en cas de naissances multiples).
+???
+????
+
+<br>
+
+##### Congé de paternité
+
+??? Quelles sont les règles applicables au congé de paternité en cas d’hospitalisation d’un enfant ?
+
+**Lorsque l'état de santé de l'enfant nécessite son hospitalisation, le congé de paternité est pris au-delà de la période des 6 mois suivant la naissance de l’enfant, dans la limite de six mois suivant la fin de l'hospitalisation.**
+
+<br>
+
+En application du CGFP, des articles L1225-35 et L3142-4 du code du travail et du décret n° 2021-871 du 30 juin 2021, l’agent (père ou conjoint de la mère ou lié à elle par un pacte civil de solidarité ou vivant maritalement avec elle) bénéficie, lors de la naissance d’un enfant :
+- d’un congé de naissance de 3 jours ouvrables pris de manière continue à partir du jour de la naissance de l'enfant ou du 1er jour ouvrable qui suit ;
+- d’un congé de paternité d’une durée de 25 jours calendaires fractionnable en 2 périodes prises dans les 6 mois suivant la naissance de l’enfant dont les 4 premiers jours doivent obligatoirement être pris consécutivement et immédiatement après le congé de naissance de 3 jours (soit 2 périodes dont la 1ère de 4 jours immédiatement après le congé de naissance et la suivante de 21 jours prises dans les 6 mois suivant la naissance ou 28 jours en cas de naissances multiples). La seconde période de 21 (ou 28 jours) peut être prise de manière continue ou fractionnée en deux périodes d'une durée minimale de cinq jours chacune.
+
+<br>
+
+Lorsque l'état de santé de l'enfant nécessite son hospitalisation, le congé de paternité est pris au-delà de la période des 6 mois suivant la naissance de l’enfant, dans la limite de six mois suivant la fin de l'hospitalisation. En outre, la période de congé de quatre jours consécutifs est prolongée de droit, à la demande du salarié, pendant la période d'hospitalisation, dans la limite de 30 jours consécutifs (en application de l’article D331-6 du code de la sécurité sociale)
+
+<br>
+
+En résumé, le congé initial de 4 jours est prolongé pendant toute la période d’hospitalisation (dans la limite de 30 jours consécutifs) puis l’agent dispose de 6 mois après la fin de l’hospitalisation pour bénéficier de la deuxième période de 21 jours (ou 28 jours) de congé de paternité.
+???
+????
+
+<br>
+
+##### Présence parentale
+
+??? Un agent peut-il renouveler un congé de présence parentale après consommation des 310 jours réglementaires et avant le terme de la période de référence réglementaire de 36 mois ?
+
+**L’agent peut faire une demande de renouvellement en présentant un nouveau certificat médical.**
+
+<br>
+
+En effet, le décret n° 2023-825 du 25 août 2023 portant diverses dispositions relatives au congé de présence parentale et au congé de proche aidant dans la fonction publique en vigueur à compter du 28/08/2023 ouvre la possibilité de renouveler les droits à congé de présence parentale pour un même enfant et pour la même pathologie (hors rechute), lorsque 310 jours ont été consommés avant un terme des 36 mois.
+
+<br>
+
+Ainsi l’agent peut faire une demande de renouvellement en présentant un nouveau certificat médical et un justificatif de l'avis favorable rendu par le service du contrôle médical selon les modalités prévues au deuxième alinéa de l'article L. 544-3 du code de la sécurité sociale et par les dispositions règlementaires prises pour son application.
+
+<br>
+
+Les conditions et modalités du renouvellement sont prévues à l’article 1 du décret n°2006-536 du 11 mai 2006 relatif aux modalités d'attribution aux fonctionnaires et aux agents non titulaires de l'Etat du congé de présence parentale pour les fonctionnaires et à l’article 2 du même décret (article 20 bis du décret 86-83 du 17 janvier 1986) s’agissant des agents contractuels. 
+
+<br>
+
+Le renouvellement du congé est accordé pour la durée définie dans les justificatifs (un nouveau droit de 310 jours de congé de présence parentale dans la limite de 36 mois est alors ouvert), sans qu’il y ait lieu d’attendre la fin de la durée initiale des 36 mois.
+???
+????
+????
+
+<br>
+
+#### Maladie
+????accordionsgroup
+##### Congé de maladie ordinaire
+????accordionsgroup
+
+??? Les agents à temps incomplet sont-ils soumis au jour de carence lors d’un congé de maladie ordinaire (CMO) ? Si oui, doit-il être décompté à 100% ou proratisé selon la quotité de travail du temps incomplet ?
+
+Les agents contractuels à temps incomplet sont bien soumis au jour de carence. L'équivalent d’un trentième de leur rémunération mensuelle doit leur être retenu.
+
+???
+??? Selon la Jurisprudence ROUX de 2017 (CE n° 388109, 31 mars 2017; Mr ROUX/Centre national de gestion des praticiens hospitaliers) lorsqu'une décision de suspension est prise pour un agent en cours de congé de maladie ordinaire (CMO), alors la date de début de cette mesure est la date de signature de l'autorité compétente et non la date de notification à l'agent. Comment se gère cette situation dans les SIRH ?
+
+En situation de CMO (ou autre motif de congé, ex : maternité…), c'est le congé qui prime sur la suspension. Au niveau des congés dans le SIRH, il convient de s’en tenir au CMO. En effet, il n’est pas possible que deux congés différents pour un même agent se recouvrent ou se chevauchent.
+
+<br>
+
+La finalité de la suspension étant d'éloigner l'agent de son service à titre préventif, cet objectif est atteint de fait si un CMO ou un autre congé a déjà été saisi pour l’agent. Dans cet objectif d'éloignement, comme indiqué, la date d'effet de la suspension doit être immédiate et non décalée dans le temps. C’est donc bien la date de signature de la décision qui est prise en compte.
+
+<br>
+
+A l'issue du CMO (ou autre), le congé « Suspension » peut être saisi s'il est toujours d'actualité pour la durée restante de la suspension.
+
+???
+??? Comment gérer une affection de longue durée (ALD) ? Quels sont les motifs d’absence maladie du Noyau RH-FPE à utiliser pour gérer une ALD et leurs impacts sur le jour de carence ? 
+
+**Il n’existe pas de code dédié à l’ALD dans la nomenclature du Noyau RH FPE.**
+
+<br>
+
+L’affection de longue durée (ALD) au sens de l’article L.324-1 du code de la sécurité sociale concerne des cas d'affection de longue durée ou de soins continus supérieurs à une durée déterminée par la règlementation supposant des soins déterminés par protocole. Il s’agit d’une notion propre à la sécurité sociale.
+
+<br>
+
+En cas d’arrêts de travail successifs de congé maladie ordinaire (CMO - code noyau CM001) liés à une même ALD (déclarée par le médecin dans l’arrêt de travail transmis par l’agent), le délai de carence ne s’applique qu’une seule fois au cours d’une même période de 3 ans à partir du 1er congé de maladie ordinaire. Cette période débute à compter du premier arrêt de travail au titre de cette ALD. La période est calculée de date à date.
+
+<br>
+
+Lorsque l’agent souffre d’ALD différentes, le délai de carence s’applique par période de trois ans, pour chaque premier congé pris respectivement au titre de chaque ALD. Dans cette hypothèse, le code Noyau à utiliser demeure CM001.
+
+<br>
+
+Exemple d’un fonctionnaire souffrant de 2 ALD différentes :
+- CMO du 01/01/2024 au 15/01/2024 au titre de l’ALD 1 : délai de carence appliqué
+- CMO du 01/02/2024 au 12/02/2024 au titre de l’ALD 1 : pas de délai de carence appliqué (aucun délai de carence pour tout CMO au titre de l’ALD 1 sur une période de 3 ans à compter du 1er congé lié à cette ALD soit à compter du 01/01/2024)
+- CMO du 01/03/2024 au 04/03/2024 au titre de l’ALD 2 : délai de carence appliqué
+- CMO du 12/03/2024 au 16/03/2024 au titre de l’ALD 1 : pas de délai de carence appliqué
+- CMO du 22/03/2024 au 24/03/2024 au titre l’ALD 2 : pas de délai de carence appliqué (aucun délai de carence pour tout CMO au titre de l’ALD 2 sur une période de 3 ans à compter du 1er congé lié à cette ALD soit à compter du 01/03/2024).
+
+<br>
+
+Par ailleurs, un agent souffrant d’une ALD peut être amené, en lien avec son médecin, à solliciter un congé de longue maladie (CLM – code noyau CM100) si sa pathologie entre dans le cadre de l’arrêté du 14 mars 1986 relatif à la liste des maladies donnant droit à l'octroi de congés de longue maladie. Les dispositions relatives au CLM s’appliquent alors (notamment l’absence de délai de carence si le CLM est accordé). La notion d’ALD n’impacte pas la procédure d’octroi du CLM ni les dispositions appliquées.
+
+<br>
+
+De même, un agent souffrant d’une ALD peut être amené à solliciter un congé de longue durée (CLD – code noyau CM200) si sa pathologie entre dans le cadre de l’article 29 du décret n°86-442 du 14 mars 1986. Comme pour le CLM, la notion d’ALD n’impacte pas la procédure d’octroi du CLD ni les dispositions appliquées.
+???
+????
+
+<br>
+
+##### Jour de carence
+
+??? Quels sont les principes applicables au jour de carence ?
+
+Le jour de carence pour les agents publics a été instauré à compter du 1er janvier 2018. Il reprend les dispositions de l’article 115 de la loi n° 2017-1837 du 30 décembre 2017 de finances pour 2018 et de la circulaire (NOR : CPAF1802864C) du 15 février 2018 relative au non versement de la rémunération au titre du premier jour de congé de maladie des agents publics civils et militaires.
+
+<br>
+
+Ce dispositif concerne tous les agents publics.
+
+<br>
+
+Le jour de carence conduit à procéder à une retenue intégrale à hauteur d’1/30ème du traitement ou de la rémunération le premier jour de congé maladie. Cette retenue est calculée sur la base du traitement ou de la rémunération perçu le jour du congé maladie et ne peut pas l’être sur la base d’un traitement/rémunération majoré suite à un avancement d’échelon ou une augmentation postérieure au jour de grève.
+
+<br>
+
+Ainsi, s’il est procédé à une retenue à la suite d’une journée d’absence donnant lieu à délai de carence, cette retenue de 1/30e est calculée sur la base de la rémunération qui aurait dû être effectivement perçue le jour de l’absence et ne peut tenir compte d’une éventuelle augmentation intervenue postérieurement à l'absence.
+
+<br>
+
+La donnée du noyau RH-FPE à utiliser dans le SIRH pour saisir le jour de carence correspond à l’occurrence de congé de maladie ordinaire (CM001) avec une tranche de rémunération IR 07 Jour de carence-arrêt du traitement pour le premier jour de maladie.
+
+<br>
+ 
+Pour aller plus loin : Vous pouvez consulter le guide dédié au jour de carence.
+???
+????
+
+<br>
+
+##### Longue maladie
+
+??? Comment gérer le CLM/CLD d’un agent détaché sur contrat et quel conseil médical doit être saisi ?
+
+**Un fonctionnaire détaché sur contrat reste soumis au régime spécial de sécurité sociale des fonctionnaires et peut bénéficier à ce titre d’un CLM ou CLD. Les conseils médicaux compétents sont ceux compétents pour l'administration centrale dont relève le corps d'origine de l’agent.**
+
+<br>
+
+En application de l’article D. 712-2 du code de la sécurité sociale : « _Dans les cas prévus aux 1°, 8° et 11° de l'article 14 du décret n° 85-986 du 16 septembre 1985, ainsi que dans le cas de détachement auprès d'une administration d'Etat bien que dans un emploi ne conduisant pas à pension du régime général des retraites, le fonctionnaire détaché reste soumis au régime spécial de sécurité sociale des fonctionnaires institué par le présent chapitre_ ».
+
+<br>
+
+Par conséquent, le fonctionnaire détaché sur contrat reste soumis au régime spécial de sécurité sociale des fonctionnaires et peut bénéficier à ce titre d’un CLM ou CLD.
+
+<br>
+
+=> En outre, conformément à l’article 5-4 du décret n°86-442 du 14 mars 1986 :
+
+« _A l'égard des fonctionnaires en service à l'étranger ou dans un territoire d'outre-mer ou détachés auprès d'une administration ou entreprise publique dans un emploi ne conduisant pas à pension du code des pensions civiles et militaires de retraite ou auprès d'une entreprise privée ou d'un organisme privé, ou détachés pour participer à une mission de coopération, pour exercer un enseignement à l'étranger, pour remplir une mission publique à l'étranger ou auprès d'organismes internationaux, pour exercer les fonctions de membres du Gouvernement ou une fonction publique élective, les conseils médicaux compétents sont ceux compétents pour l'administration centrale dont relève leur corps d'origine._ »
+
+<br>
+
+Une fois l’avis du conseil médical émis, l’administration d’accueil conserve dans son SIRH la gestion administrative des congés maladie qui doivent être traités selon les dispositions applicables aux fonctionnaires (soit la saisie d’une CLM soit d’un CLD).
+
+<br>
+
+Enfin, le fait qu’un agent détaché soit placé en CLD, bien qu’il libère son poste dans son administration d’origine, ne met pas fin automatiquement au détachement qui continue de courir jusqu’à son terme. Les dispositions de droit commun prévues par le décret n°85-986 du 16 septembre 1985 continuent ainsi de s’appliquer notamment à la fin de détachement avant le terme fixé et lors de son renouvellement ou non-renouvellement.
+???
+????
+
+<br>
+
+##### Maladie professionnelle
+
+??? Les agents en cessation anticipée d’activité après avoir été reconnus atteints d’une maladie professionnelle provoquée par l’amiante, dit C3A : bénéficient-ils des avancements d'échelon ?  peuvent-ils bénéficier des avancements de grade ?
+
+Le décret n° 2017-435 du 28 mars 2017 relatif à la cessation anticipée d'activité des agents de la fonction publique reconnus atteints d'une maladie professionnelle provoquée par l'amiante étend aux fonctionnaires ( P0001 et P0004 ) et agents contractuels de droit public de la fonction publique d’État (P0003) qui en font la demande le bénéfice d'une cessation anticipée d'activité et de l'allocation spécifique de cessation anticipée d'activité afférente, dès lors qu'ils ont été reconnus atteints d'une maladie professionnelle provoquée par l'amiante.
+
+<br>
+
+**L’article 10 du décret n°2017-435 prévoit que « … le fonctionnaire relevant du régime de la cessation anticipée d'activité ne peut bénéficier d'un avancement de grade ».**
+
+<br>
+
+S’agissant des ouvriers d’Etat (P0005), l’article 16 du décret n° 2017-435 du 28 mars 2017, dispose que « Les agents contractuels qui, en leur qualité d'ouvrier de l'Etat lors de leur recrutement, ont opté pour le maintien de leur affiliation au fonds spécial des pensions des ouvriers des établissements industriels de l'Etat en application des dispositions réglementaires qui les régissent peuvent renoncer à cette affiliation lors de leur admission au bénéfice de la cessation anticipée d'activité. ». De ce fait, il convient de faire bénéficier les ouvriers de l’Etat des deux dispositifs. Le décret n°2013-435 du 27 mai 2013 est appliqué aux ouvriers de l’Etat aux ouvriers d’Etat affiliés au FSPOEI et le décret n° 2017-435 du 28 mars 2017 à ceux qui ne le sont pas.
+
+<br>
+
+En application de l’article 4 du décret n°2001-1269 du 21 décembre 2001 les ouvriers d’Etat ne peuvent pas acquérir de droit à avancement.  Concernant les militaires (P0002), le décret n° 2018-546 du 28 juin 2018 relatif à la cessation anticipée d'activité des militaires reconnus atteints d'une maladie professionnelle provoquée par l'amiante leur accorde, dès l’âge de 50 ans, dès lors qu’ils en font la demande et qu'ils ont été reconnus atteints d'une maladie professionnelle provoquée par l'amiante, le bénéfice d'une cessation anticipée d'activité et de l'allocation spécifique de cessation anticipée d'activité afférente.
+
+<br>
+
+**Conformément à l’article 4 du décret susvisé « le militaire relevant du régime de cessation anticipée d’activité ne peut bénéficier d’un avancement de grade ».**
+
+<br>
+
+Enfin, **l’ensemble des agents évoqués plus haut, percevant une allocation spécifique de cessation anticipée d’activité calculée sur la base du dernier échelon acquis, ne peuvent pas bénéficier de la prise en compte de l’avancement d’échelon pour le calcul de l’allocation, durant cette période de cessation d’activité.**
+
+<br>
+
+De fait, la rémunération de référence, servant de base à la détermination du montant de l'allocation spécifique, est la moyenne des rémunérations brutes perçues par l'agent pendant les douze derniers mois de son activité, sous réserve qu'elles présentent un caractère régulier et habituel, à l'exclusion de tout élément de rémunération lié à une affectation outre-mer ou à l'étranger et des indemnités ayant le caractère de remboursement de frais, en application de l’article 2 du décret 2017-435.
+
+<br>
+
+Toutefois, le calcul de la rémunération n’est pas de nature à empêcher la prise en compte des cotisations et des contributions pour pension dues par l’employeur qui elles, sont calculées sur la base des éléments de rémunération afférent à l’échelon détenu par le fonctionnaire bénéficiaire conformément à l’article 11 du décret n°2017-435. Autrement dit ce calcul peut s’appuyer sur un avancement d’échelon (Conseil d'État, 3ème - 8ème chambres réunies, 14/10/2019, 422092, Inédit au recueil Lebon)
+???
+
+????
+
+<br>
+
+<br>
+
+### Contrats
+????accordionsgroup
+#### CDI
+????accordionsgroup
+
+??? Une durée de 6 ans est nécessaire pour passer en contrat à durée indéterminée. Cette période peut prendre en compte « les services accomplis de manière discontinue…, sous réserve que la durée des interruptions entre deux contrats n'excède pas quatre mois. » conformément à l’article L332-4 du Code général de la fonction publique (CGFP). Comment doivent être calculés les 4 mois d'interruption évoqués dans cet article ?
+
+**L’article L332-4 du CGFP dispose que : "Les services accomplis de manière discontinue sont pris en compte, sous réserve que la durée des interruptions entre deux contrats n'excède pas quatre mois."
+Il s'agit d'une durée calendaire, calculée de date à date.**
+
+<br>
+
+**Pour le calcul de cette durée d'interruption** de 4 mois maximum entre 2 contrats, la période de l'état d'urgence sanitaire n'est pas prise en compte en application de l’article 19 de la loi n° 2020-734 du 17 juin 2020 repris dans l’article L332-4 du CGFP. Cette mesure prend effet au 12 mars 2020 et ne concerne que les interruptions survenues au cours d’une période d’état d’urgence sanitaire déclaré sur le fondement des dispositions du code de la santé publique.
+
+<br>
+
+**S’agissant de la crise sanitaire** liée au COVID19, sont concernées les périodes suivantes.
+
+<br>
+
+En France métropolitaine :
+- du 24 mars 2020 au 10 juillet 2020 (première période d’état d’urgence sanitaire) ;
+- du 17 octobre 2020 au 1er juin 2021 inclus (seconde période d’état d’urgence sanitaire)
+
+<br>
+
+Les territoires d’outre-mer ont été soumis à des dispositions spécifiques :
+- Guyane : du 24 mars 2020 au 16 septembre 2020 puis du 17 octobre 2020 au 31 décembre 2021 et enfin du 06 janvier 2022 au 03 mars 2022 ;
+- Mayotte : du 24 mars 2020 au 16 septembre 2020 puis du 17 octobre 2020 au 1er juin 2021;
+- La Réunion : du 24 mars 2020 au 10 juillet 2020 puis du 17 octobre 2020 au 1er juin 2021 puis du 14 juillet 2021 au 15 octobre 2021 et enfin du 28 décembre 2021 au 31 mars 2022 ;
+- Martinique : du 24 mars 2020 au 10 juillet 2020 puis du 17 octobre 2020 au 1er juin 2021 puis du 14 juillet 2021 au 15 octobre 2021 et enfin du 1er janvier 2022 au 31 mars 2022 ;
+- Guadeloupe, Saint- Barthélémy et Saint-Martin : du 24 mars 2020 au 10 juillet 2020 puis du 17 octobre 2020 au 1er juin 2021 puis du 29 juillet 2021 au 15 novembre 2021 et enfin du 06 janvier 2022 au 31 mars 2022 ;
+- Polynésie française : du 24 mars 2020 au 10 juillet 2020 puis du 17 octobre 2020 au 1er juin 2021 puis du 12 août 2021 au 15 novembre 2021 ;
+Nouvelle-Calédonie : du 24 mars 2020 au 10 juillet 2020 puis du 17 octobre 2020 au 1er juin 2021 puis du 09 septembre 2021 au 15 novembre 2021 et enfin du 03 février 2022 au 31 mars 2022.
+
+<br>
+
+Les régimes transitoires de sortie de crise sanitaire n’entrent pas dans le champ de l’article L332-4 du CGFP.
+???
+
+????
+
+<br>
+
+<br>
+
+### Cessation de fonction
+????accordionsgroup
+#### Retraite
+????accordionsgroup
+
+??? La notion de catégorie de retraite (Actif / Sédentaire) est-elle réglementairement liée au grade, au poste ou aux deux ? Si celle-ci est liée au grade, pourquoi cette information n'est-elle pas présente au niveau du référentiel des grades ? Si chaque ministère doit compléter cette information, cela ne risque-t-il pas d’introduire des incohérences ?
+
+Les emplois de la fonction publique sont classés en deux catégories (article L.24 du code des pensions civiles et militaire) :
+- catégorie active : ce sont des emplois qui présentent un risque particulier ou des fatigues exceptionnelles justifiant un départ anticipé à la retraite.
+- catégorie sédentaire : ce sont tous les emplois qui ne sont pas classés en catégorie active
+
+<br>
+
+Seuls les agents titulaires et stagiaires peuvent appartenir à l’une de ces catégories.
+
+<br>
+
+L'appartenance à la catégorie active ne dépend pas uniquement du grade détenu par le fonctionnaire, mais aussi et surtout des fonctions qu'il exerce.
+
+<br>
+
+Le fait d'occuper pendant une certaine durée un emploi de catégorie active ouvre droit, pour le fonctionnaire :
+- à un départ anticipé à la retraite par rapport à l'âge normal,
+- pour certains emplois, à des bonifications et majorations pour la retraite. Par exemple, les policiers de la police nationale bénéficient, sous certaines conditions, d’un droit à la liquidation de pension à un âge minoré.
+
+<br>
+
+La catégorie de service ne peut pas être déduite du grade car certains grades permettent ou pas le classement en catégorie active en fonction d’autres conditions.
+
+<br>
+
+Ainsi, les contrôleurs des douanes et droits indirects bénéficient d'un classement en catégorie active uniquement lorsqu'ils sont affectés à la branche de la surveillance.
+
+<br>
+
+Autre exemple, les ingénieurs des travaux géographiques et cartographiques de l'Etat bénéficient du classement en catégorie active uniquement lorsqu’ils exercent sur le terrain des activités relevant des techniques géodésiques, topographiques et photogrammétriques. Seules les périodes durant lesquelles les intéressés sont effectivement en opération sur le terrain, c’est-à-dire pour lesquelles ils perçoivent des frais de mission ou de tournée, sont décomptées comme services actifs.
+
+???
+??? Existe-t-il un lien entre la résidence administrative et les Bonifications de Services Hors Europe (BSHE) prises en compte dans le calcul de la pension de retraite ?
+
+Il n’existe pas de lien entre la résidence administrative et les BSHE.
+
+<br>
+
+Les BHSE sont accordées au titre des services civils effectués dans certains conditions ou effectués de manière permanente hors d’Europe conformément à l’article R12 du code des pensions civiles et militaires de l’Etat. Ces périodes doivent être transmises dans le FIP dans l’article 05-BO, pour permettre au SRE de calculer correctement les droits à retraite de l’agent. Par conséquent, les BSHE sont gérées de manière spécifique dans le dossier pension de l’agent et non pas dans son dossier administratif. La gestion des BSHE est décrite pages 66 et 67 du Guide d’alimentation CIR - campagne 2023, pour ce qui concerne le service national et pages 56 et 57 pour ce qui concerne les cas courants.
+
+<br>
+
+Pour chaque période de services accomplie hors d'Europe support de bonification, il convient de renseigner :
+- les dates de début et de fin de périodes de services,
+- les dates de début et de fin des congés passés hors du territoire d'exercice, les congés en cause n'ouvrant pas droit à BSHE. Ces congés sont à déclarer dans l'article 05-BO et non dans l'article 03-CA,
+- le territoire d'exercice issu du catalogue 33.
+???
+
+????
+
+<br>
+
+<br>
+
+### Données personnelles
+????accordionsgroup
+#### Adresses
+????accordionsgroup
+
+??? Est-il possible, avec le profil gestionnaire des référentiels, d’ajouter une valeur (par exemple « Mail ») dans le référentiel "Nature de la voie" au niveau des adresses ?
+
+Le référentiel "Nature de voie" du Noyau RH-FPE est aligné sur la norme AFNOR. S'il peut paraître plus restrictif que d'autres référentiels sur le sujet, il est le seul à être compatible avec les normes de la DSN et permet d'éviter des rejets éventuels liés aux adresses au titre de la DSN.
+
+<br>
+
+Dans le SIRH, il est possible d'ajouter la mention "Mail" via la zone de saisie "Désignation de la voie". En revanche, la nature de voie sera par convention "Rue"
+
+<br>
+
+Le rôle du gestionnaire de référentiels ne permet pas d’ajouter des codes dans le référentiel "Nature de la voie".
+???
+????
+
+<br>
+
+#### Etat civil
+????accordionsgroup
+
+??? Y-a-t-il une différence entre le prénom usuel et le prénom d'usage ? 
+
+Question détaillée
+
+La lecture de l’article 57 du Code civil concernant le prénom usuel appelle plusieurs questions :
+
+- Y-a-t-il une différence entre le prénom usuel et le prénom d'usage ?
+- Lorsque le prénom usuel d’un agent est différent de son premier prénom, le prénom usuel peut-il être seul repris sur la base des documents transmis (arrêtés, contrats, ...) ou doit-on reprendre le premier prénom et le prénom usuel sur ces derniers ?
+- Lors de la saisie des prénoms (lorsqu'il y en a plusieurs), seul le prénom usuel doit-il être saisi ou bien tous les prénoms ? Lequel doit-être saisi en premier ?
+ 
+<br>
+
+Réponse : 
+
+Dans le dictionnaire des données du Noyau RH FPE, qui a pour vocation d’être le langage commun des SIRH ministériels, seule la notion de prénom usuel est définie. Le prénom usuel est saisi dans le "dossier personnel", groupe de données "Etat civil", donnée P_CIV_PRENOM. Il s'agit du prénom usuel de l'agent au sens de l'état civil tel qu'attendu dans le FIP. La notion de prénom d'usage n'est pas définie.
+
+<br>
+
+Seul le prénom usuel est utilisé dans les actes administratifs (arrêtés, contrats ...) de la bibliothèque des actes (BDA).
+
+<br>
+
+Dans le groupe de données "Autre(s) prénom(s) de l'agent", donnée P_CIV_PRNOMX, les autres prénoms de l'agent sont saisis dans l'ordre de l'état civil (voir nomenclature "Types de prénom"). Ils peuvent servir notamment dans les échanges avec le Service des retraites de l’Etat (SRE) pour identifier les agents en cas d'homonymie avec des dates de naissance identiques lors de la certification du NIR.
+???
+
+????
+
+<br>
+
+<br>
+
+### Actes administratifs / Bibliothèque des actes
+????accordionsgroup
+#### Absence d'actes
+????accordionsgroup
+
+??? Pourquoi n’existe-t-il pas d’acte pour la radiation des cadres pour intégration (ou titularisation)  auprès d'une autre administration (dans la FPE) ?
+
+Cet acte ne paraît pas utile, la radiation des cadres étant la conséquence d'une démission, d’un licenciement, etc…
+
+<br>
+
+Seul l'acte d'intégration ou de titularisation doit être produit.
+???
+????
+
+<br>
+
+#### Congés
+????accordionsgroup
+
+??? Le modèle d’acte INTABS0091 - "Reprise fonctions suite congé hors CLD (T)" peut-il être utilisé dans les cas où la reprise fait suite à une absence irrégulière (du type service non fait) 
+
+Pour une absence irrégulière, par exemple un abandon de poste, un acte est sans doute requis pour constater l'absence irrégulière du … au ...  (avec impact en paye)
+
+<br>
+
+Le CISIRH n'a pas décrit cet acte, qui ne fait pas partie des évènements de gestion à enjeu ou à forte volumétrie.
+
+<br>
+
+L'acte INTABS0091 (portant reprise anticipée des fonctions avec impact sur rémunération suite à congé / absence) ne convient pas pour traduire une absence irrégulière (pour laquelle il ne saurait exister une notion de retour anticipé).
+???
+????
+
+<br>
+
+#### Emploi du NIR
+????accordionsgroup
+
+??? Les SLR demandent d'ajouter le NIR (N° INSEE) des agents sur les actes joints en justification du fichier GEST. Le NIR doit-il être ajouté dans les actes de la BDA ?
+
+Le NIR est enregistré dans une métadonnée lors du stockage de l’acte dématérialisé dans GAUdDI, il n’est donc pas utile de le rajouter dans la bibliothèque des actes.
+
+???
+????
+
+<br>
