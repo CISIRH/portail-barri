@@ -1227,7 +1227,7 @@ Pour les apprentis de moins de dix-huit ans, le temps de travail est limité à 
 
 Pour calculer les droits RTT de l’apprenti de plus de 18 ans, il convient de prendre en compte les heures hebdomadaires réellement effectuées dans le centre de formation et chez l’employeur en distinguant deux cas :
 
-1. Le centre de formation est soumis à la limite des 35 heures hebdomadaires :
+_**Le centre de formation est soumis à la limite des 35 heures hebdomadaires :**_
 
 Dans ce cas, la durée de la formation ne donne pas de droit à RTT et seule la durée hebdomadaire du travail chez l’employeur peut, le cas échéant, ouvrir des droits à RTT.
 
@@ -1237,7 +1237,7 @@ Exemple : L’apprenti suit une formation en alternance de 35H hebdomadaires, et
 
 <br>
 
-2. La durée de la formation est organisée sur une base hebdomadaire supérieure à 35H :
+_**La durée de la formation est organisée sur une base hebdomadaire supérieure à 35H :**_
 
 Dans ce cas, la durée de la formation et la durée du travail chez l’employeur sont à prendre en compte pour le calcul des droits à RTT.
 
