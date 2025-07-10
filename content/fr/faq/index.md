@@ -1299,6 +1299,7 @@ Par conséquent, en cas de naissance prématurée n’exigeant pas l’hospitali
 <br>
 
 ##### Congé de paternité
+????accordionsgroup
 
 ??? Quelles sont les règles applicables au congé de paternité en cas d’hospitalisation d’un enfant ?
 
@@ -1323,6 +1324,7 @@ En résumé, le congé initial de 4 jours est prolongé pendant toute la périod
 <br>
 
 ##### Présence parentale
+????accordionsgroup
 
 ??? Un agent peut-il renouveler un congé de présence parentale après consommation des 310 jours réglementaires et avant le terme de la période de référence réglementaire de 36 mois ?
 
@@ -1410,6 +1412,7 @@ De même, un agent souffrant d’une ALD peut être amené à solliciter un cong
 <br>
 
 ##### Jour de carence
+????accordionsgroup
 
 ??? Quels sont les principes applicables au jour de carence ?
 
@@ -1440,6 +1443,7 @@ Pour aller plus loin : Vous pouvez consulter le guide dédié au jour de carence
 <br>
 
 ##### Longue maladie
+????accordionsgroup
 
 ??? Comment gérer le CLM/CLD d’un agent détaché sur contrat et quel conseil médical doit être saisi ?
 
@@ -1472,6 +1476,7 @@ Enfin, le fait qu’un agent détaché soit placé en CLD, bien qu’il libère 
 <br>
 
 ##### Maladie professionnelle
+????accordionsgroup
 
 ??? Les agents en cessation anticipée d’activité après avoir été reconnus atteints d’une maladie professionnelle provoquée par l’amiante, dit C3A : bénéficient-ils des avancements d'échelon ?  peuvent-ils bénéficier des avancements de grade ?
 
