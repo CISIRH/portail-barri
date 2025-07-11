@@ -9,7 +9,7 @@ eleventyNavigation:
 
 ### Affectation
 ????accordionsgroup
-#### Titulaires/Stagiaires
+#### >Titulaires/Stagiaires
 ????accordionsgroup
 
 ??? Quelle est la différence entre la prolongation et la prorogation de stage ?
@@ -46,7 +46,7 @@ Le stage peut être prorogé au maximum pour une durée équivalente à la duré
 
 <br>
 
-#### Transfert de gestion
+#### >Transfert de gestion
 ????accordionsgroup
 
 ??? Dans le cadre du transfert de certains personnels vers les secrétariats généraux communs (SGCD), une convention de gestion doit être signée avec le ministère de l’intérieur pour le transfert de personnels non titulaires (Berkani) ainsi que d’ouvriers des Parcs et Ateliers (OPA). Quelle est la position à utiliser dans ce cas de figure ?
@@ -74,7 +74,7 @@ Cette situation n'existant pas dans le noyau RH FPE, un nouveau code position a 
 
 ### Positions administratives
 ????accordionsgroup
-#### Détachement
+#### >Détachement
 ????accordionsgroup
 
 ??? Le nombre de renouvellements de détachements sur contrat est-il désormais limité ? Quelle est à présent la durée maximale, de ce type de détachement ?
@@ -263,7 +263,7 @@ Pour le FIP, il est attendu deux déclarations simultanées pour chacune des car
 
 <br>
 
-#### Disponibilité
+#### >Disponibilité
 ????accordionsgroup
 
 ??? Le décret du 27 mars 2019 institue pour certaines disponibilités la conservation des droits à avancement, sous réserve d’exercice d’une activité professionnelle, pour une durée de 5 ans.
@@ -334,7 +334,7 @@ L'activité d'aidant n'étant pas une activité lucrative et n'étant pas rémun
 
 ### Avancement
 ????accordionsgroup
-#### Changement d'échelon
+#### >Changement d'échelon
 ????accordionsgroup
 
 ??? Un stagiaire peut-il prétendre à un avancement d’échelon pendant son stage, y compris s’il est placé en PNA (position normale d’activité) hors de son administration de gestion ?
@@ -420,7 +420,7 @@ En l’absence de précisions dans le texte réglementaire, la position de la DG
 
 ### Ancienneté
 ????accordionsgroup
-#### Ancienneté prise en compte pour l'avancement
+#### >Ancienneté prise en compte pour l'avancement
 ????accordionsgroup
 
 ??? Quelles sont les conditions d’ancienneté dans la fonction publique et plus particulièrement dans les corps de recherche, parfois exigée pour les listes d’aptitude, s’agissant notamment des services accomplis en qualité d’agent contractuel ?
@@ -499,7 +499,7 @@ En l’absence de promotion, il avancera automatiquement au 9ème échelon du 1e
 
 <br>
 
-#### Ancienneté historique prise en compte pour les classements/reclassements
+#### >Ancienneté historique prise en compte pour les classements/reclassements
 ????accordionsgroup
 
 ??? Lorsqu’une ancienneté dans la catégorie A, B ou C est demandée pour obtenir une promotion par liste d’aptitude ou par inscription sur un tableau d’avancement, faut-il considérer que les services assimilés valent appartenance et prendre en compte la période de la carrière militaire dans l'ancienneté dans une catégorie de la fonction publique ?
@@ -564,7 +564,7 @@ De même, par exemple, pour l’accès au corps interministériel des attachés,
 
 ### Modalités de service
 ????accordionsgroup
-#### Temps incomplet
+#### >Temps incomplet
 ????accordionsgroup
 
 ??? Peut-on autoriser le recrutement à temps incomplet (TI) de 10% à 70%, par tranche de 10 % voire de 5 % (ex : 15%) ?
@@ -583,7 +583,7 @@ Toutes les quotités inférieures à 70% sont donc possibles, y compris celles, 
 
 <br>
 
-#### Temps partiel
+#### >Temps partiel
 ????accordionsgroup
 
 ??? Quelles sont les conditions d’ancienneté pour qu’un agent contractuel soit autorisé à travailler à temps partiel ?
@@ -639,7 +639,7 @@ Quoiqu’il en soit, l’administration d’origine est libre de saisir les date
 
 <br>
 
-#### Temps partiel pour raison thérapeutique
+#### >Temps partiel pour raison thérapeutique
 ????accordionsgroup
 
 ??? Quelle est la durée autorisée pour une demande de temps partiel thérapeutique initial ou son renouvellement ? Peut-on procéder à plus d’un renouvellement dans la limite d’un an ?
@@ -673,7 +673,6 @@ Par conséquent, en cas de prolongation du temps partiel thérapeutique après u
 
 Enfin, au terme de ses droits à exercer un service à temps partiel pour raison thérapeutique, le fonctionnaire peut bénéficier d'une nouvelle autorisation, au même titre, à l'issue d'un délai minimal d'un an. Conformément à l’article 23-14 du décret du 14 mars 1986, « _pour le calcul du délai d'un an permettant de bénéficier d'une nouvelle autorisation (…) seules sont prises en compte les périodes effectués par le fonctionnaire dans les positions d'activité et de détachement._ »
 ???
-
 ????
 
 <br>
@@ -682,7 +681,7 @@ Enfin, au terme de ses droits à exercer un service à temps partiel pour raison
 
 ### Rémunération
 ????accordionsgroup
-#### Indemnités
+#### >Indemnités
 ????accordionsgroup
 
 ??? Quelle est la base de rémunération à prendre en compte pour le SFT des agents détachés ?
@@ -745,7 +744,7 @@ Pour aller plus loin : Vous pouvez consulter le guide du SFT
 
 <br>
 
-#### Traitement
+#### >Traitement
 ????accordionsgroup
 
 ??? Quelle est la définition des différents indices : "Indice brut" ; "Indice majoré" ; "Indice de rémunération" ; "Indice de pension civile" ?
@@ -800,9 +799,9 @@ https://retraitesdeletat.gouv.fr/professionnels/linformation-des-employeurs/les-
 
 ### Congés
 ????accordionsgroup
-#### Absences
+#### >Absences
 ????accordionsgroup
-##### Absence irrégulière
+##### >>Absence irrégulière
 ????accordionsgroup
 
 ??? Comment est géré le droit de retrait ?  Le motif « CA100 - Cessation concertée de travail » peut-il être utilisé pour gérer, par défaut, le droit de retrait ? Un code dédié pour gérer le droit de retrait pourrait-il être créé dans le Noyau RH FPE ?
@@ -833,7 +832,7 @@ Si l’agent persiste :
 
 <br>
 
-##### Autorisations d'absence
+##### >>Autorisations d'absence
 ????accordionsgroup
 
 ??? Tous les agents peuvent-ils bénéficier d'une autorisation d'absence pour passer un concours ? Quel est le motif d’autorisation d’absence à utiliser dans le cas d’un agent qui passe un concours ?
@@ -860,7 +859,7 @@ La nomenclature étant semi-ouverte, les ministères peuvent la compléter pour 
 
 <br>
 
-##### Suspension
+##### >>Suspension
 
 ??? La suspension et l'exclusion temporaire de fonctions peuvent-elles être saisies en tant qu'absences (code CX001 pour la suspension et CX003 pour l'exclusion temporaire) ?
 
@@ -934,14 +933,15 @@ Toutefois, dans son arrêt du 28 mars 2019 (n°16VE02916), la Cour administrativ
 
 En conclusion, il n’acquiert pas de droit à congés annuels mais peut, au cours de la période de suspension, poser des jours de congés acquis avant cette période. Quand bien même cette suspension ne serait pas suivie de sanction (ou d’une sanction autre que l’exclusion qui conduirait au rétablissement de l’agent dans ces fonctions), la période de suspension n’ouvre pas droit à des congés annuels et il n’y a pas lieu de revenir sur l’application de cette disposition.
 ???
+
 ????
 ????
 
 <br>
 
-#### Annuels et similaires
+#### >Annuels et similaires
 ????accordionsgroup
-##### Congé annuel
+##### >>Congé annuel
 ????accordionsgroup
 
 ??? Quels sont les droits à congés et les règles de proratisation pour un agent à temps partiel : dans un cadre quotidien ? dans un cadre hebdomadaire ? dans un cadre annuel ? lorsque l’agent est à temps incomplet ?
@@ -1010,7 +1010,7 @@ Pour un contractuel à temps incomplet, ce sont les mêmes règles que pour le t
 
 <br>
 
-##### Congé bonifié
+##### >>Congé bonifié
 ????accordionsgroup
 
 ??? Quelle est la règle d'attribution des jours supplémentaires hors période (fractionnement) pour un congé bonifié ? Pour le congé bonifié pris en hiver (fin d'année ou à cheval sur 2 années), l'agent a-t-il droit aux jours supplémentaires dits de fractionnement ? Quel est le texte réglementaire de la fonction publique d’Etat qu’il convient de viser dans l’acte d’attribution ?
@@ -1083,7 +1083,7 @@ A contrario, si l’agent a pris des jours de RTT mais n’a pas atteint 20 jour
 
 <br>
 
-##### Compte épargne temps
+##### >>Compte épargne temps
 ????accordionsgroup
 
 ??? Les périodes de stage sont-elles prises en compte dans le calcul de l'ancienneté pour ouvrir un CET ?
@@ -1167,7 +1167,7 @@ Si le nombre de jours épargnés par cet agent demeure à 62 jours en 2023, il p
 
 <br>
 
-##### Jours ARTT
+##### >>Jours ARTT
 ????accordionsgroup
 
 ??? Comment décompte-t-on les jours de congés de maladie pour pratiquer l'abattement de jours ARTT ?
@@ -1257,14 +1257,15 @@ Dans le cas où la durée de la formation ou la durée du travail chez l’emplo
 
 Exemple : Sur le mois, l’apprenti effectue 72 heures de formation en 10 jours et 152 heures de travail sur 20 jours. La durée de formation correspond à : (72 / 10) x 5 = 36 heures hebdomadaires et la durée du travail à : (152 / 20) x 5 = 38 heures hebdomadaires.
 ???
+
 ????
 ????
 
 <br>
 
-#### Enfants et proches
+#### >Enfants et proches
 ????accordionsgroup
-##### Congé maternité
+##### >>Congé maternité
 ????accordionsgroup
 
 ??? Quelle est la durée du congé de maternité dans le cas d'un accouchement prématuré de plus de 6 semaines sans hospitalisation de l'enfant ?
@@ -1298,7 +1299,7 @@ Par conséquent, en cas de naissance prématurée n’exigeant pas l’hospitali
 
 <br>
 
-##### Congé de paternité
+##### >>Congé de paternité
 ????accordionsgroup
 
 ??? Quelles sont les règles applicables au congé de paternité en cas d’hospitalisation d’un enfant ?
@@ -1323,7 +1324,7 @@ En résumé, le congé initial de 4 jours est prolongé pendant toute la périod
 
 <br>
 
-##### Présence parentale
+##### >>Présence parentale
 ????accordionsgroup
 
 ??? Un agent peut-il renouveler un congé de présence parentale après consommation des 310 jours réglementaires et avant le terme de la période de référence réglementaire de 36 mois ?
@@ -1346,14 +1347,15 @@ Les conditions et modalités du renouvellement sont prévues à l’article 1 du
 
 Le renouvellement du congé est accordé pour la durée définie dans les justificatifs (un nouveau droit de 310 jours de congé de présence parentale dans la limite de 36 mois est alors ouvert), sans qu’il y ait lieu d’attendre la fin de la durée initiale des 36 mois.
 ???
+
 ????
 ????
 
 <br>
 
-#### Maladie
+#### >Maladie
 ????accordionsgroup
-##### Congé de maladie ordinaire
+##### >>Congé de maladie ordinaire
 ????accordionsgroup
 
 ??? Les agents à temps incomplet sont-ils soumis au jour de carence lors d’un congé de maladie ordinaire (CMO) ? Si oui, doit-il être décompté à 100% ou proratisé selon la quotité de travail du temps incomplet ?
@@ -1411,7 +1413,7 @@ De même, un agent souffrant d’une ALD peut être amené à solliciter un cong
 
 <br>
 
-##### Jour de carence
+##### >>Jour de carence
 ????accordionsgroup
 
 ??? Quels sont les principes applicables au jour de carence ?
@@ -1442,7 +1444,7 @@ Pour aller plus loin : Vous pouvez consulter le guide dédié au jour de carence
 
 <br>
 
-##### Longue maladie
+##### >>Longue maladie
 ????accordionsgroup
 
 ??? Comment gérer le CLM/CLD d’un agent détaché sur contrat et quel conseil médical doit être saisi ?
@@ -1475,7 +1477,7 @@ Enfin, le fait qu’un agent détaché soit placé en CLD, bien qu’il libère 
 
 <br>
 
-##### Maladie professionnelle
+##### >>Maladie professionnelle
 ????accordionsgroup
 
 ??? Les agents en cessation anticipée d’activité après avoir été reconnus atteints d’une maladie professionnelle provoquée par l’amiante, dit C3A : bénéficient-ils des avancements d'échelon ?  peuvent-ils bénéficier des avancements de grade ?
@@ -1519,7 +1521,7 @@ Toutefois, le calcul de la rémunération n’est pas de nature à empêcher la 
 
 ### Contrats
 ????accordionsgroup
-#### CDI
+#### >CDI
 ????accordionsgroup
 
 ??? Une durée de 6 ans est nécessaire pour passer en contrat à durée indéterminée. Cette période peut prendre en compte « les services accomplis de manière discontinue…, sous réserve que la durée des interruptions entre deux contrats n'excède pas quatre mois. » conformément à l’article L332-4 du Code général de la fonction publique (CGFP). Comment doivent être calculés les 4 mois d'interruption évoqués dans cet article ?
@@ -1565,7 +1567,7 @@ Les régimes transitoires de sortie de crise sanitaire n’entrent pas dans le c
 
 ### Cessation de fonction
 ????accordionsgroup
-#### Retraite
+#### >Retraite
 ????accordionsgroup
 
 ??? La notion de catégorie de retraite (Actif / Sédentaire) est-elle réglementairement liée au grade, au poste ou aux deux ? Si celle-ci est liée au grade, pourquoi cette information n'est-elle pas présente au niveau du référentiel des grades ? Si chaque ministère doit compléter cette information, cela ne risque-t-il pas d’introduire des incohérences ?
@@ -1625,7 +1627,7 @@ Pour chaque période de services accomplie hors d'Europe support de bonification
 
 ### Données personnelles
 ????accordionsgroup
-#### Adresses
+#### >Adresses
 ????accordionsgroup
 
 ??? Est-il possible, avec le profil gestionnaire des référentiels, d’ajouter une valeur (par exemple « Mail ») dans le référentiel "Nature de la voie" au niveau des adresses ?
@@ -1644,7 +1646,7 @@ Le rôle du gestionnaire de référentiels ne permet pas d’ajouter des codes d
 
 <br>
 
-#### Etat civil
+#### >Etat civil
 ????accordionsgroup
 
 ??? Y-a-t-il une différence entre le prénom usuel et le prénom d'usage ? 
@@ -1680,7 +1682,7 @@ Dans le groupe de données "Autre(s) prénom(s) de l'agent", donnée P_CIV_PRNOM
 
 ### Actes administratifs / Bibliothèque des actes
 ????accordionsgroup
-#### Absence d'actes
+#### >Absence d'actes
 ????accordionsgroup
 
 ??? Pourquoi n’existe-t-il pas d’acte pour la radiation des cadres pour intégration (ou titularisation)  auprès d'une autre administration (dans la FPE) ?
@@ -1695,7 +1697,7 @@ Seul l'acte d'intégration ou de titularisation doit être produit.
 
 <br>
 
-#### Congés
+#### >Congés
 ????accordionsgroup
 
 ??? Le modèle d’acte INTABS0091 - "Reprise fonctions suite congé hors CLD (T)" peut-il être utilisé dans les cas où la reprise fait suite à une absence irrégulière (du type service non fait) 
@@ -1714,7 +1716,7 @@ L'acte INTABS0091 (portant reprise anticipée des fonctions avec impact sur rém
 
 <br>
 
-#### Emploi du NIR
+#### >Emploi du NIR
 ????accordionsgroup
 
 ??? Les SLR demandent d'ajouter le NIR (N° INSEE) des agents sur les actes joints en justification du fichier GEST. Le NIR doit-il être ajouté dans les actes de la BDA ?
