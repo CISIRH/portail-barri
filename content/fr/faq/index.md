@@ -1255,9 +1255,6 @@ Dans le cas où la durée de la formation ou la durée du travail chez l’emplo
 Exemple : Sur le mois, l’apprenti effectue 72 heures de formation en 10 jours et 152 heures de travail sur 20 jours. La durée de formation correspond à : (72 / 10) x 5 = 36 heures hebdomadaires et la durée du travail à : (152 / 20) x 5 = 38 heures hebdomadaires.
 ???
 
-????
-????
-
 <br>
 
 #### >Enfants et proches
@@ -1344,9 +1341,6 @@ Les conditions et modalités du renouvellement sont prévues à l’article 1 du
 
 Le renouvellement du congé est accordé pour la durée définie dans les justificatifs (un nouveau droit de 310 jours de congé de présence parentale dans la limite de 36 mois est alors ouvert), sans qu’il y ait lieu d’attendre la fin de la durée initiale des 36 mois.
 ???
-
-????
-????
 
 <br>
 
