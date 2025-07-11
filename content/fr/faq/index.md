@@ -18,7 +18,7 @@ eleventyNavigation:
 
 <br>
 
-Si la distinction n’est pas explicitée dans le décret 94-874 du 7 octobre 1994, il convient toutefois d’appliquer la prorogation dans la situation où les aptitudes professionnelles du stagiaire ne sont pas jugées suffisantes pour prononcer sa titularisation à l’issue du stage. Cette distinction entre prolongation et prorogation de stage a été confirmée par la DGAFP.
+<span style="color:red">Si</span> la distinction n’est pas explicitée dans le décret 94-874 du 7 octobre 1994, il convient toutefois d’appliquer la prorogation dans la situation où les aptitudes professionnelles du stagiaire ne sont pas jugées suffisantes pour prononcer sa titularisation à l’issue du stage. Cette distinction entre prolongation et prorogation de stage a été confirmée par la DGAFP.
 
 <br>
 
