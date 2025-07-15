@@ -7,9 +7,9 @@ eleventyNavigation:
   order: 7
 ---
 
-### <span style="color:#27a658">Affectation</span>
+### <span style="color:#273961">Affectation</span>
 ????accordionsgroup
-#### <span style="color:blue">Titulaires/Stagiaires</span>
+#### <span style="color:#0078f3">Titulaires/Stagiaires</span>
 ????accordionsgroup
 
 ??? Quelle est la différence entre la prolongation et la prorogation de stage ?
@@ -797,11 +797,11 @@ https://retraitesdeletat.gouv.fr/professionnels/linformation-des-employeurs/les-
 
 <br>
 
-### Congés
+### <span style="color:#27a658">Congés</span>
 ????accordionsgroup
-#### >Absences
+#### <span style="color:#0078f3">Absences</span>
 ????accordionsgroup
-##### >>Absence irrégulière
+##### <span style="color:#518fff">Absence irrégulière</span>
 ????accordionsgroup
 
 ??? Comment est géré le droit de retrait ?  Le motif « CA100 - Cessation concertée de travail » peut-il être utilisé pour gérer, par défaut, le droit de retrait ? Un code dédié pour gérer le droit de retrait pourrait-il être créé dans le Noyau RH FPE ?
