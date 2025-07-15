@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 7
 ---
 
-### <span style="color:green">Affectation</span>
+### <span style="color:#27a658">Affectation</span>
 ????accordionsgroup
 #### <span style="color:blue">Titulaires/Stagiaires</span>
 ????accordionsgroup
