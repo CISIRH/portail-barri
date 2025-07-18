@@ -7,9 +7,9 @@ eleventyNavigation:
   order: 7
 ---
 
-### <span style="color:#273961">Affectation</span>
+### <span style="color:#1f8d49">Affectation</span>
 ????accordionsgroup
-#### <span style="color:#0078f3">Titulaires/Stagiaires</span>
+#### <span style="color:#36db75">Titulaires/Stagiaires</span>
 ????accordionsgroup
 
 ??? Quelle est la différence entre la prolongation et la prorogation de stage ?
@@ -46,7 +46,7 @@ Le stage peut être prorogé au maximum pour une durée équivalente à la duré
 
 <br>
 
-#### >Transfert de gestion
+#### <span style="color:#36db75">Transfert de gestion</span>
 ????accordionsgroup
 
 ??? Dans le cadre du transfert de certains personnels vers les secrétariats généraux communs (SGCD), une convention de gestion doit être signée avec le ministère de l’intérieur pour le transfert de personnels non titulaires (Berkani) ainsi que d’ouvriers des Parcs et Ateliers (OPA). Quelle est la position à utiliser dans ce cas de figure ?
@@ -72,9 +72,9 @@ Cette situation n'existant pas dans le noyau RH FPE, un nouveau code position a 
 
 <br>
 
-### Positions administratives
+### <span style="color:#1f8d49">Positions administratives</span>
 ????accordionsgroup
-#### >Détachement
+#### <span style="color:#36db75">Détachement</span>
 ????accordionsgroup
 
 ??? Le nombre de renouvellements de détachements sur contrat est-il désormais limité ? Quelle est à présent la durée maximale, de ce type de détachement ?
@@ -797,11 +797,11 @@ https://retraitesdeletat.gouv.fr/professionnels/linformation-des-employeurs/les-
 
 <br>
 
-### <span style="color:#27a658">Congés</span>
+### <span style="color:#1f8d49">Congés</span>
 ????accordionsgroup
-#### <span style="color:#0078f3">Absences</span>
+#### <span style="color:#36db75">Absences</span>
 ????accordionsgroup
-##### <span style="color:#518fff">Absence irrégulière</span>
+##### <span style="color:#88fdaa">Absence irrégulière</span>
 ????accordionsgroup
 
 ??? Comment est géré le droit de retrait ?  Le motif « CA100 - Cessation concertée de travail » peut-il être utilisé pour gérer, par défaut, le droit de retrait ? Un code dédié pour gérer le droit de retrait pourrait-il être créé dans le Noyau RH FPE ?
@@ -832,7 +832,7 @@ Si l’agent persiste :
 
 <br>
 
-##### >>Autorisations d'absence
+##### <span style="color:#88fdaa">Autorisations d'absence</span>
 ????accordionsgroup
 
 ??? Tous les agents peuvent-ils bénéficier d'une autorisation d'absence pour passer un concours ? Quel est le motif d’autorisation d’absence à utiliser dans le cas d’un agent qui passe un concours ?
@@ -859,7 +859,7 @@ La nomenclature étant semi-ouverte, les ministères peuvent la compléter pour 
 
 <br>
 
-##### >>Suspension
+##### <span style="color:#88fdaa">Suspension</span>
 
 ??? La suspension et l'exclusion temporaire de fonctions peuvent-elles être saisies en tant qu'absences (code CX001 pour la suspension et CX003 pour l'exclusion temporaire) ?
 
@@ -936,9 +936,9 @@ En conclusion, il n’acquiert pas de droit à congés annuels mais peut, au cou
 
 <br>
 
-#### >Annuels et similaires
+#### <span style="color:#36db75">Annuels et similaires</span>
 ????accordionsgroup
-##### >>Congé annuel
+##### <span style="color:#88fdaa">Congé annuel</span>
 ????accordionsgroup
 
 ??? Quels sont les droits à congés et les règles de proratisation pour un agent à temps partiel : dans un cadre quotidien ? dans un cadre hebdomadaire ? dans un cadre annuel ? lorsque l’agent est à temps incomplet ?
