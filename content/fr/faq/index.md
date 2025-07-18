@@ -801,7 +801,7 @@ https://retraitesdeletat.gouv.fr/professionnels/linformation-des-employeurs/les-
 ????accordionsgroup
 #### <span style="color:#36db75">Absences</span>
 ????accordionsgroup
-##### <span style="color:#88fdaa">Absence irrégulière</span>
+##### <span style="color:#3bea7e">Absence irrégulière</span>
 ????accordionsgroup
 
 ??? Comment est géré le droit de retrait ?  Le motif « CA100 - Cessation concertée de travail » peut-il être utilisé pour gérer, par défaut, le droit de retrait ? Un code dédié pour gérer le droit de retrait pourrait-il être créé dans le Noyau RH FPE ?
@@ -832,7 +832,7 @@ Si l’agent persiste :
 
 <br>
 
-##### <span style="color:#88fdaa">Autorisations d'absence</span>
+##### <span style="color:#3bea7e">Autorisations d'absence</span>
 ????accordionsgroup
 
 ??? Tous les agents peuvent-ils bénéficier d'une autorisation d'absence pour passer un concours ? Quel est le motif d’autorisation d’absence à utiliser dans le cas d’un agent qui passe un concours ?
@@ -859,7 +859,7 @@ La nomenclature étant semi-ouverte, les ministères peuvent la compléter pour 
 
 <br>
 
-##### <span style="color:#88fdaa">Suspension</span>
+##### <span style="color:#3bea7e">Suspension</span>
 
 ??? La suspension et l'exclusion temporaire de fonctions peuvent-elles être saisies en tant qu'absences (code CX001 pour la suspension et CX003 pour l'exclusion temporaire) ?
 
@@ -938,7 +938,7 @@ En conclusion, il n’acquiert pas de droit à congés annuels mais peut, au cou
 
 #### <span style="color:#36db75">Annuels et similaires</span>
 ????accordionsgroup
-##### <span style="color:#88fdaa">Congé annuel</span>
+##### <span style="color:#3bea7e">Congé annuel</span>
 ????accordionsgroup
 
 ??? Quels sont les droits à congés et les règles de proratisation pour un agent à temps partiel : dans un cadre quotidien ? dans un cadre hebdomadaire ? dans un cadre annuel ? lorsque l’agent est à temps incomplet ?
