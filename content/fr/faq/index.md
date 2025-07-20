@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-title: FAQ
+title: FAQ REGLEMENTAIRE
 eleventyNavigation:
-  key: FAQ
+  key: FAQ REGLEMENTAIRE
   parent:
   order: 7
 ---
@@ -825,7 +825,7 @@ https://retraitesdeletat.gouv.fr/professionnels/linformation-des-employeurs/les-
 ????accordionsgroup
 #### <span style="color:#27a658">Absences</span>
 ????accordionsgroup
-##### <span style="color:#3df183">Absence irrégulière</span>
+##### <span style="color:#36db75">Absence irrégulière</span>
 ????accordionsgroup
 
 ??? Comment est géré le droit de retrait ?  Le motif « CA100 - Cessation concertée de travail » peut-il être utilisé pour gérer, par défaut, le droit de retrait ? Un code dédié pour gérer le droit de retrait pourrait-il être créé dans le Noyau RH FPE ?
@@ -856,7 +856,7 @@ Si l’agent persiste :
 
 <br>
 
-##### <span style="color:#3df183">Autorisations d'absence</span>
+##### <span style="color:#36db75">Autorisations d'absence</span>
 ????accordionsgroup
 
 ??? Tous les agents peuvent-ils bénéficier d'une autorisation d'absence pour passer un concours ? Quel est le motif d’autorisation d’absence à utiliser dans le cas d’un agent qui passe un concours ?
@@ -883,7 +883,7 @@ La nomenclature étant semi-ouverte, les ministères peuvent la compléter pour 
 
 <br>
 
-##### <span style="color:#3df183">Suspension</span>
+##### <span style="color:#36db75">Suspension</span>
 
 ??? La suspension et l'exclusion temporaire de fonctions peuvent-elles être saisies en tant qu'absences (code CX001 pour la suspension et CX003 pour l'exclusion temporaire) ?
 
@@ -962,7 +962,7 @@ En conclusion, il n’acquiert pas de droit à congés annuels mais peut, au cou
 
 #### <span style="color:#27a658">Annuels et similaires</span>
 ????accordionsgroup
-##### <span style="color:#3df183">Congé annuel</span>
+##### <span style="color:#36db75">Congé annuel</span>
 ????accordionsgroup
 
 ??? Quels sont les droits à congés et les règles de proratisation pour un agent à temps partiel : dans un cadre quotidien ? dans un cadre hebdomadaire ? dans un cadre annuel ? lorsque l’agent est à temps incomplet ?
@@ -1031,7 +1031,7 @@ Pour un contractuel à temps incomplet, ce sont les mêmes règles que pour le t
 
 <br>
 
-##### <span style="color:#3df183">Congé bonifié</span>
+##### <span style="color:#36db75">Congé bonifié</span>
 ????accordionsgroup
 
 ??? Quelle est la règle d'attribution des jours supplémentaires hors période (fractionnement) pour un congé bonifié ? Pour le congé bonifié pris en hiver (fin d'année ou à cheval sur 2 années), l'agent a-t-il droit aux jours supplémentaires dits de fractionnement ? Quel est le texte réglementaire de la fonction publique d’Etat qu’il convient de viser dans l’acte d’attribution ?
@@ -1104,7 +1104,7 @@ A contrario, si l’agent a pris des jours de RTT mais n’a pas atteint 20 jour
 
 <br>
 
-##### <span style="color:#3df183">Compte épargne temps</span>
+##### <span style="color:#36db75">Compte épargne temps</span>
 ????accordionsgroup
 
 ??? Les périodes de stage sont-elles prises en compte dans le calcul de l'ancienneté pour ouvrir un CET ?
@@ -1188,7 +1188,7 @@ Si le nombre de jours épargnés par cet agent demeure à 62 jours en 2023, il p
 
 <br>
 
-##### <span style="color:#3df183">Jours ARTT</span>
+##### <span style="color:#36db75">Jours ARTT</span>
 ????accordionsgroup
 
 ??? Comment décompte-t-on les jours de congés de maladie pour pratiquer l'abattement de jours ARTT ?
@@ -1283,7 +1283,7 @@ Exemple : Sur le mois, l’apprenti effectue 72 heures de formation en 10 jours 
 
 #### <span style="color:#27a658">Enfants et proches</span>
 ????accordionsgroup
-##### <span style="color:#3df183">Congé maternité</span>
+##### <span style="color:#36db75">Congé maternité</span>
 ????accordionsgroup
 
 ??? Quelle est la durée du congé de maternité dans le cas d'un accouchement prématuré de plus de 6 semaines sans hospitalisation de l'enfant ?
@@ -1317,7 +1317,7 @@ Par conséquent, en cas de naissance prématurée n’exigeant pas l’hospitali
 
 <br>
 
-##### <span style="color:#3df183">Congé de paternité</span>
+##### <span style="color:#36db75">Congé de paternité</span>
 ????accordionsgroup
 
 ??? Quelles sont les règles applicables au congé de paternité en cas d’hospitalisation d’un enfant ?
@@ -1342,7 +1342,7 @@ En résumé, le congé initial de 4 jours est prolongé pendant toute la périod
 
 <br>
 
-##### <span style="color:#3df183">Présence parentale</span>
+##### <span style="color:#36db75">Présence parentale</span>
 ????accordionsgroup
 
 ??? Un agent peut-il renouveler un congé de présence parentale après consommation des 310 jours réglementaires et avant le terme de la période de référence réglementaire de 36 mois ?
@@ -1370,7 +1370,7 @@ Le renouvellement du congé est accordé pour la durée définie dans les justif
 
 #### <span style="color:#27a658">Maladie</span>
 ????accordionsgroup
-##### <span style="color:#3df183">Congé de maladie ordinaire</span>
+##### <span style="color:#36db75">Congé de maladie ordinaire</span>
 ????accordionsgroup
 
 ??? Les agents à temps incomplet sont-ils soumis au jour de carence lors d’un congé de maladie ordinaire (CMO) ? Si oui, doit-il être décompté à 100% ou proratisé selon la quotité de travail du temps incomplet ?
@@ -1428,7 +1428,7 @@ De même, un agent souffrant d’une ALD peut être amené à solliciter un cong
 
 <br>
 
-##### <span style="color:#3df183">Jour de carence</span>
+##### <span style="color:#36db75">Jour de carence</span>
 ????accordionsgroup
 
 ??? Quels sont les principes applicables au jour de carence ?
@@ -1459,7 +1459,7 @@ Pour aller plus loin : Vous pouvez consulter le guide dédié au jour de carence
 
 <br>
 
-##### <span style="color:#3df183">Longue maladie</span>
+##### <span style="color:#36db75">Longue maladie</span>
 ????accordionsgroup
 
 ??? Comment gérer le CLM/CLD d’un agent détaché sur contrat et quel conseil médical doit être saisi ?
@@ -1492,7 +1492,7 @@ Enfin, le fait qu’un agent détaché soit placé en CLD, bien qu’il libère 
 
 <br>
 
-##### <span style="color:#3df183">Maladie professionnelle</span>
+##### <span style="color:#36db75">Maladie professionnelle</span>
 ????accordionsgroup
 
 ??? Les agents en cessation anticipée d’activité après avoir été reconnus atteints d’une maladie professionnelle provoquée par l’amiante, dit C3A : bénéficient-ils des avancements d'échelon ?  peuvent-ils bénéficier des avancements de grade ?
