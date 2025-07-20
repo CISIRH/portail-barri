@@ -14,6 +14,10 @@ Le CISIRH en assure l’hébergement, l’exploitation, l'enrichissement et la m
 
 [Flyer de présentation de INGRES](/files/flyer_ingres.pdf)
 
+<br>
+
+<br>
+
 # Fonctionnalités
 **INGRES** est une base de connaissances conforme à la réglementation RH et un outil de référence pour alimenter les SIRH ministériels. Il permet de :
 
