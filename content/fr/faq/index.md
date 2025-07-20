@@ -960,6 +960,8 @@ En conclusion, il n’acquiert pas de droit à congés annuels mais peut, au cou
 
 <br>
 
+<br>
+
 #### <span style="color:#27a658">Annuels et similaires</span>
 ????accordionsgroup
 ##### <span style="color:#36db75">Congé annuel</span>
@@ -1281,6 +1283,8 @@ Exemple : Sur le mois, l’apprenti effectue 72 heures de formation en 10 jours 
 
 <br>
 
+<br>
+
 #### <span style="color:#27a658">Enfants et proches</span>
 ????accordionsgroup
 ##### <span style="color:#36db75">Congé maternité</span>
@@ -1365,6 +1369,8 @@ Les conditions et modalités du renouvellement sont prévues à l’article 1 du
 
 Le renouvellement du congé est accordé pour la durée définie dans les justificatifs (un nouveau droit de 310 jours de congé de présence parentale dans la limite de 36 mois est alors ouvert), sans qu’il y ait lieu d’attendre la fin de la durée initiale des 36 mois.
 ???
+
+<br>
 
 <br>
 
