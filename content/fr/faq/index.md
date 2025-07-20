@@ -12,7 +12,7 @@ eleventyNavigation:
 #### <span style="color:#27a658">Titulaires/Stagiaires</span>
 ????accordionsgroup
 
-??? <span style="color:#000000">Quelle est la différence entre la prolongation et la prorogation de stage ?</span>
+??? <span style="color:#black">Quelle est la différence entre la prolongation et la prorogation de stage ?</span>
 
 **La prorogation est une période accordée au fonctionnaire stagiaire afin de lui laisser plus de temps pour faire ses preuves. La prolongation de stage permet l’accomplissement de la durée statutaire de stage interrompue par un évènement.**
 
