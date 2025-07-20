@@ -122,7 +122,7 @@ Si le contrat est rompu par l’administration d’accueil pendant le détacheme
 ??? Comment gérer les cas d’agents titulaires détachés sur emploi de Directeur (Emploi Fonctionnel de Comité exécutif) dans les Agences Régionales de la Santé (ARS) et détachés en même temps sur contrat ?
 
 
-(Note_gestion_COMEX_avril_2010.pdf)
+[Note_gestion_COMEX_avril_2010.pdf](https://raw.githubusercontent.com/CISIRH/espace-noyau/main/Noyau%20RH%20FPE/8.%20ARCHIVES%20-%20RESTITUTION%20DES%20ATELIERS/Documentation%20FAQ/Note_gestion_COMEX_avril_2010.pdf)
 
 **Les détachements concomitants sur contrat ET sur emploi fonctionnel sont incompatibles. Il s'agit de deux positions distinctes et un agent ne peut occuper qu'une seule position statutaire à la fois.**
 
@@ -743,10 +743,10 @@ Pour les ouvriers des parcs et ateliers (OPA) ou les agents contractuels dont la
 
 <br>
 
-SFT = élément fixe + IM 454 x taux proportionnel
-|:---------------|
+<img width="296" height="34" alt="image" src="https://github.com/user-attachments/assets/ab759217-dd61-4a55-984a-9e5d34cd25b0" />
 
 <br>
+
 
 L’élément fixe varie en fonction du nombre d’enfants à charge et l’élément proportionnel est un pourcentage calculé sur le traitement soumis à cotisation pour pension civile (indice, complété le cas échéant de la bonification indiciaire (BI) et de la nouvelle bonification indiciaire (NBI)) dans la limite d’un traitement n’excédant pas l’indice brut 879 (indice majoré (IM) : 722). Les agents dont l’indice, complété le cas échéant d’une BI ou d’une NBI, est inférieur à l’indice brut 524 (IM 454), perçoivent le SFT correspondant à cet indice pour le nombre d’enfants qu’ils ont à charge.
 
@@ -1002,16 +1002,12 @@ La formule de calcul est la suivante :
 <br>
 
 Nb de jours ARTT par durée hebdomadaire et par quotité de service :
- 
-| Durée hebdomadaire de travail | 39 H | 38 H | 37 H | 36 H |
-|:--------------------------|:----:|:-----:|:-----:|:-----:|
-| Temps complet       | 23 | 18 | 12 | 6 |
-| Temps partiel 90 % | 20,7 | 16,2 | 10,8 | 5,4 |
-| Temps partiel 80 % | 18,4 | 14,4 | 9,6 | 4,8 |
-| Temps partiel 70 % | 16,1 | 12,6 | 8,4 | 4,2 |
-| Temps partiel 60 % | 13,8 | 10,8 | 7,2 | 3,6 |
-| Temps partiel 50 % | 11,5 | 9 | 6 | 3 |
 
+<br>
+
+<img width="378" height="201" alt="image" src="https://github.com/user-attachments/assets/ac967515-1240-4ff3-9b84-66c2d23f097a" />
+
+<br>
 
 **2 - Dans un cadre hebdomadaire :**
 
@@ -1213,9 +1209,7 @@ Soit N2 le nombre maximum de journées ARTT générées annuellement en régime 
 
 Pour rappel, nombre de jours ARTT par durée hebdomadaire :
 
-| Durée hebdomadaire de travail | 39 H | 38 H | 37 H | 36 H | 
-|:--------------------------|:----:|:-----:|:-----:|:-----:|
-| Temps complet       | 23 | 18 | 12 | 6 |
+<img width="378" height="65" alt="image" src="https://github.com/user-attachments/assets/4208cdeb-0224-4a6b-b718-0a085a7952d9" />
 
 <br>
 
