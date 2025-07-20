@@ -29,6 +29,10 @@ Elle présente la réglementation applicable aux indemnités et primes des agent
 - Elle permet aux ministères de mettre à disposition de leurs gestionnaires leur documentation propre.
 - Elle offre désormais ses services à de nombreux partenaires : ministère de la Transition Ecologique et Solidaire, ministère de l’Agriculture et de l’Alimentation, ministère des Armées, ministère de l’Intérieur, Cour des Comptes, Météo France, Direction Générale de l'Aviation Civile, Agence de Mutualisation des Universités et des Etablissements…
 
+<br>
+
+<br>
+
 # Fonctionnalités
 - Fournir des **règles de gestion RH fiables et actualisées** des différentes situations de gestion de la Fonction Publique d’Etat, pour les titulaires, stagiaires, contractuels, ouvriers d’Etat et prochainement les militaires, ainsi que leurs références juridiques;
 - Mettre à disposition les **fiches indemnitaires interministérielles et ministérielles** des partenaires clients de l’offre de service « Référentiel de paye » (RdP);
