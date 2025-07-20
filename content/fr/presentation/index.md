@@ -13,6 +13,10 @@ Dans le cadre du programme de modernisation SIRH-paye de l’Etat, le CISIRH dé
 
 Au cœur de cette offre, le CISIRH gère et met à disposition, via **INGRES** et [**un espace documentaire**](https://cisirh.github.io/espace-noyau/#/), un ensemble de **référentiels** (Noyau RH FPE) et de la **documentation** permettant d’assurer la qualité, la cohérence et l’homogénéité des données, des règles de gestion, et des pratiques sur l’ensemble de la chaîne RH dans son ensemble.
 
+<br>
+
+<br>
+
 # Contenu du Noyau RH FPE
 Cette offre s’articule autour de quatre items :
 - **Une documentation de référence pour les ressources humaines** : description d’éléments réglementaires, de concepts, de pratiques ou de fonctionnalités (ex : guide des PJ, guide d’avancement d’échelon, bibliothèque des actes).
