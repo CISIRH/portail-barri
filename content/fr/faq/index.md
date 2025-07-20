@@ -758,7 +758,7 @@ Par conséquent, le traitement brut servant de calcul à l’élément proportio
 
 <br>
 
-Pour aller plus loin : Vous pouvez consulter le guide du SFT
+Pour aller plus loin : Vous pouvez consulter le [guide du SFT](https://raw.githubusercontent.com/CISIRH/espace-noyau/main/Noyau%20RH%20FPE/1.%20DOCUMENTATION%20RH-PAIE/1.%20Guides/Guide%20suppl%C3%A9ment%20familial%20de%20traitement.pdf)
 ???
 ????
 
