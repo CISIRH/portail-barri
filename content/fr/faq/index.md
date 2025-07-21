@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-title: <span style="color:#000091">FAQ REGLEMENTAIRE</span>
+title: FAQ REGLEMENTAIRE
 eleventyNavigation:
-  key: <span style="color:#000091">FAQ REGLEMENTAIRE</span>
+  key: FAQ REGLEMENTAIRE
   parent:
   order: 7
 ---
