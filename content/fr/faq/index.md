@@ -808,7 +808,7 @@ S’agissant de l’agent surindicié, pour que les cotisations afférentes à l
 
 Pour rappel, les différents taux de cotisation actualisés sont disponibles avec le lien suivant :
 
-https://retraitesdeletat.gouv.fr/professionnels/linformation-des-employeurs/les-taux-de-contributions
+[https://retraitesdeletat.gouv.fr/professionnels/linformation-des-employeurs/les-taux-de-contributions](https://retraitesdeletat.gouv.fr/professionnels/le-versement-des-cotisations/les-etablissements-publics-nationaux-ou-organismes)
 ???
 
 ????
