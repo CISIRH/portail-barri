@@ -1009,6 +1009,8 @@ Nb de jours ARTT par durée hebdomadaire et par quotité de service :
 
 <br>
 
+<br>
+
 **2 - Dans un cadre hebdomadaire :**
 
 Un agent à 70% travaille l'équivalent de 3,5 jours par semaine. Il a donc droit à 17,5 jours de CA. Pour les RTT voir réponse ci-dessus.
@@ -1210,6 +1212,8 @@ Soit N2 le nombre maximum de journées ARTT générées annuellement en régime 
 Pour rappel, nombre de jours ARTT par durée hebdomadaire :
 
 <img width="378" height="65" alt="image" src="https://github.com/user-attachments/assets/4208cdeb-0224-4a6b-b718-0a085a7952d9" />
+
+<br>
 
 <br>
 
