@@ -747,6 +747,7 @@ Pour les ouvriers des parcs et ateliers (OPA) ou les agents contractuels dont la
 
 <br>
 
+<br>
 
 L’élément fixe varie en fonction du nombre d’enfants à charge et l’élément proportionnel est un pourcentage calculé sur le traitement soumis à cotisation pour pension civile (indice, complété le cas échéant de la bonification indiciaire (BI) et de la nouvelle bonification indiciaire (NBI)) dans la limite d’un traitement n’excédant pas l’indice brut 879 (indice majoré (IM) : 722). Les agents dont l’indice, complété le cas échéant d’une BI ou d’une NBI, est inférieur à l’indice brut 524 (IM 454), perçoivent le SFT correspondant à cet indice pour le nombre d’enfants qu’ils ont à charge.
 
