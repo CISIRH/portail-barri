@@ -1456,9 +1456,7 @@ Ainsi, s’il est procédé à une retenue à la suite d’une journée d’abse
 
 La donnée du noyau RH-FPE à utiliser dans le SIRH pour saisir le jour de carence correspond à l’occurrence de congé de maladie ordinaire (CM001) avec une tranche de rémunération IR 07 Jour de carence-arrêt du traitement pour le premier jour de maladie.
 
-<br>
- 
-Pour aller plus loin : Vous pouvez consulter le guide dédié au jour de carence.
+
 ???
 ????
 
