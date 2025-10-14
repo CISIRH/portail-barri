@@ -7,6 +7,34 @@ eleventyNavigation:
   order: 7
 ---
 
+<nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">
+    <h2 class="fr-summary__title" id="fr-summary-title">Sommaire</h2>
+    <ol>
+        <li>
+            <a class="fr-summary__link" id="summary-link-1" href="#affectation">Affectation</a>
+            <ol>
+                <li>
+                    <a class="fr-summary__link" id="summary-link-1-1" href="#titulaires-stagiaires">Titulaires/stagiaires</a>
+                </li>
+                <li>
+                    <a class="fr-summary__link" id="summary-link-1-2" href="#transfert-de-gestion">Transfert de gestion</a>
+                </li>
+            </ol>
+        </li>
+        <li>
+            <a class="fr-summary__link" id="summary-link-2" href="#positions-administratives">Positions administratives</a>
+						<ol>
+                <li>
+                    <a class="fr-summary__link" id="summary-link-1-1" href="#detachement">Détachement</a>
+                </li>
+                <li>
+                    <a class="fr-summary__link" id="summary-link-1-2" href="#disponibilite">Disponibilité</a>
+                </li>
+            </ol>
+        </li>
+    </ol>
+</nav>
+
 ### <span style="color:#3a6d48">Affectation</span>
 ????accordionsgroup
 #### <span style="color:#27a658">Titulaires/Stagiaires</span>
