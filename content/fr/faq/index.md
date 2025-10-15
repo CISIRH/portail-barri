@@ -8,8 +8,7 @@ eleventyNavigation:
 ---
 
 
-<nav class="fr-sidemenu" role="navigation" aria-labelledby="sidemenu-title">
-  <div class="fr-sidemenu__inner">
+<nav class="fr-sidemenu fr-sidemenu--sticky-full-height" role="navigation" aria-labelledby="sidemenu-sticky-full-height-title">  <div class="fr-sidemenu__inner">
     <button aria-expanded="false" aria-controls="sidemenu-collapse-1" type="button" class="fr-sidemenu__btn">Dans cette rubrique</button>
     <div class="fr-collapse" id="sidemenu-collapse-1">
       <p class="fr-sidemenu__title" id="sidemenu-title">Menu FAQ</p>
@@ -42,22 +41,6 @@ eleventyNavigation:
           </div>
         </li>
         </li>
-      </ul>
-    </div>
-  </div>
-</nav>
-
-<nav class="fr-sidemenu fr-sidemenu--sticky-full-height" role="navigation" aria-labelledby="sidemenu-sticky-full-height-title">  <div class="fr-sidemenu__inner">
-    <button class="fr-sidemenu__btn" aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Dans cette rubrique</button>
-    <div class="fr-collapse" id="fr-sidemenu-wrapper">
-      <div class="fr-sidemenu__title" id="fr-sidemenu-title">Menu FAQ</div>
-      <ul class="fr-sidemenu__list">
-        <li class="fr-sidemenu__item">
-            <a class="fr-sidemenu__item fr-sidemenu__item--active" href="#titulaires-stagiaires">Titulaires/stagiaires</a>
-        </li>
-        <li class="fr-sidemenu__item">
-      			<a class="fr-sidemenu__item fr-sidemenu__item--active" href="#transfert-de-gestion">Transfert de gestion</a>
-         </li>
       </ul>
     </div>
   </div>
