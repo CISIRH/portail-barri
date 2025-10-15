@@ -46,6 +46,11 @@ eleventyNavigation:
   </div>
 </nav>
 
+<link href="dist/core/core.min.css" rel="stylesheet">
+<link href="dist/component/sidemenu/sidemenu.min.css" rel="stylesheet">
+<script type="module" src="dist/core/core.module.min.js"></script>
+<script type="module" src="dist/component/sidemenu/sidemenu.module.min.js"></script>
+
 ### <span style="color:#3a6d48">Affectation</span>
 ????accordionsgroup
 #### <span style="color:#27a658">Titulaires/Stagiaires</span>
