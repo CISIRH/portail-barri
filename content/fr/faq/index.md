@@ -7,32 +7,60 @@ eleventyNavigation:
   order: 7
 ---
 
-<nav class="fr-summary" role="navigation" aria-labelledby="fr-summary-title">
-    <h2 class="fr-summary__title" id="fr-summary-title">Sommaire</h2>
-    <ol>
-        <li>
-            <a class="fr-summary__link" id="summary-link-1" href="#affectation">Affectation</a>
-            <ol>
-                <li>
-                    <a class="fr-summary__link" id="summary-link-1-1" href="#titulaires-stagiaires">Titulaires/stagiaires</a>
-                </li>
-                <li>
-                    <a class="fr-summary__link" id="summary-link-1-2" href="#transfert-de-gestion">Transfert de gestion</a>
-                </li>
-            </ol>
+
+<nav class="fr-sidemenu" role="navigation" aria-labelledby="sidemenu-title">
+  <div class="fr-sidemenu__inner">
+    <button aria-expanded="false" aria-controls="sidemenu-collapse-1" type="button" class="fr-sidemenu__btn">Dans cette rubrique</button>
+    <div class="fr-collapse" id="sidemenu-collapse-1">
+      <p class="fr-sidemenu__title" id="sidemenu-title">Menu FAQ</p>
+      <ul class="fr-sidemenu__list">
+        <li class="fr-sidemenu__item">
+          <button aria-current="true" aria-expanded="false" aria-controls="sidemenu-1" type="button" class="fr-sidemenu__btn">Affectation</button>
+          <div class="fr-collapse" id="sidemenu-1">
+            <ul class="fr-sidemenu__list">
+              <li class="fr-sidemenu__item">
+                <a type="link" id="sidemenu-item-1-1" href="#titulaires-stagiaires" class="fr-sidemenu__link">Titulaires/Stagiaires</a>
+              </li>
+              <li class="fr-sidemenu__item">
+                <a aria-current="page" type="link" id="sidemenu-item-1-2" href="#transfert-de-gestion" class="fr-sidemenu__link">Transfert de gestion</a>
+              </li>
+            </ul>
+          </div>
         </li>
-        <li>
-            <a class="fr-summary__link" id="summary-link-2" href="#positions-administratives">Positions administratives</a>
-						<ol>
-                <li>
-                    <a class="fr-summary__link" id="summary-link-1-1" href="#detachement">Détachement</a>
-                </li>
-                <li>
-                    <a class="fr-summary__link" id="summary-link-1-2" href="#disponibilite">Disponibilité</a>
-                </li>
-            </ol>
+        <li class="fr-sidemenu__item">
+					<button aria-expanded="false" aria-controls="sidemenu-2" type="button" class="fr-sidemenu__btn">Positions administratives</button>
+          <a type="link" id="sidemenu-item-2" href="#" class="fr-sidemenu__link">Positions administratives</a>
+					<div class="fr-collapse" id="sidemenu-1">
+            <ul class="fr-sidemenu__list">
+              <li class="fr-sidemenu__item">
+                <a type="link" id="sidemenu-item-2-1" href="#detachement" class="fr-sidemenu__link">Détachement</a>
+              </li>
+              <li class="fr-sidemenu__item">
+                <a aria-current="page" type="link" id="sidemenu-item-2-2" href="#disponibilite" class="fr-sidemenu__link">Disponibilité</a>
+              </li>
+            </ul>
+          </div>
         </li>
-    </ol>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<nav class="fr-sidemenu fr-sidemenu--sticky-full-height" role="navigation" aria-labelledby="sidemenu-sticky-full-height-title">  <div class="fr-sidemenu__inner">
+    <button class="fr-sidemenu__btn" aria-controls="fr-sidemenu-wrapper" aria-expanded="false">Dans cette rubrique</button>
+    <div class="fr-collapse" id="fr-sidemenu-wrapper">
+      <div class="fr-sidemenu__title" id="fr-sidemenu-title">Menu FAQ</div>
+      <ul class="fr-sidemenu__list">
+        <li class="fr-sidemenu__item">
+            <a class="fr-sidemenu__item fr-sidemenu__item--active" href="#titulaires-stagiaires">Titulaires/stagiaires</a>
+        </li>
+        <li class="fr-sidemenu__item">
+      			<a class="fr-sidemenu__item fr-sidemenu__item--active" href="#transfert-de-gestion">Transfert de gestion</a>
+         </li>
+      </ul>
+    </div>
+  </div>
 </nav>
 
 ### <span style="color:#3a6d48">Affectation</span>
