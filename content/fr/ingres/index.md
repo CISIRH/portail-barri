@@ -30,7 +30,7 @@ Le CISIRH en assure l’hébergement, l’exploitation, l'enrichissement et la m
 <br>
 <br>
 
-**API INGRES** : 2 API "Nomenclatures" et "Diffusion" basées sur les référentiels de l’outil Ingres sont référencées sur le [catalogue](https://api.gouv.fr) de la DINUM. Ces API ont pour objectif de fluidifier la diffusion et l’utilisation des nomenclatures réglementaires RH de la FPE.
+**API INGRES** : 2 API "Nomenclatures" et "Diffusion" basées sur les référentiels de l’outil Ingres sont référencées sur le [catalogue](https://www.data.gouv.fr/dataservices/search?q=INGRES) de la DINUM. Ces API ont pour objectif de fluidifier la diffusion et l’utilisation des nomenclatures réglementaires RH de la FPE.
 
 La première **API « Nomenclatures »** permet d’obtenir, au format JSON (JavaScript Objet Notation), via une simple requête, la liste des codes réglementaires de toutes les nomenclatures gérées dans INGRES. Elle peut être utilisée directement dans le développement de vos applications utilisant ces données afin de disposer de référentiels toujours « à jour ». 
 
