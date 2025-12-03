@@ -33,6 +33,28 @@ eleventyNavigation:
                 </li>
             </ol>
         </li>
+			  <li>
+            <a class="fr-summary__link" id="summary-link-2" href="#avancement">Avancement</a>
+						<ol>
+                <li>
+                    <a class="fr-summary__link" id="summary-link-1-1" href="#changement-d-echelon">Changement d'échelon</a>
+                </li>
+                <li>
+                    <a class="fr-summary__link" id="summary-link-1-2" href="#changement-de-grade">Changement de grade</a>
+                </li>
+            </ol>
+        </li>
+				<li>
+            <a class="fr-summary__link" id="summary-link-2" href="#anciennete">Ancienneté</a>
+						<ol>
+                <li>
+									  <a class="fr-summary__link" id="summary-link-1-2" href="#anciennete-prise-en-compte-pour-l-avancement">Ancienneté prise en compte pour l'avancement</a>
+                </li>
+                <li>
+								    <a class="fr-summary__link" id="summary-link-1-1" href="#anciennete-historique-prise-en-compte-pour-les-classements-reclassements">Ancienneté historique prise en compte pour les classements/reclassements</a>
+                </li>
+            </ol>
+        </li>
     </ol>
 </nav>
 
