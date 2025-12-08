@@ -739,6 +739,15 @@ Par conséquent, en cas de prolongation du temps partiel thérapeutique après u
 <br>
 
 Enfin, au terme de ses droits à exercer un service à temps partiel pour raison thérapeutique, le fonctionnaire peut bénéficier d'une nouvelle autorisation, au même titre, à l'issue d'un délai minimal d'un an. Conformément à l’article 23-14 du décret du 14 mars 1986, « _pour le calcul du délai d'un an permettant de bénéficier d'une nouvelle autorisation (…) seules sont prises en compte les périodes effectués par le fonctionnaire dans les positions d'activité et de détachement._ »
+
+???
+??? Un apprenti peut-il bénéficier du temps partiel thérapeutique ?
+
+**Oui**, le contrat d’apprentissage relevant du droit du travail (contrat de droit privé), l’apprenti bénéficie des dispositions relatives au temps partiel thérapeutique prévu par le code de la sécurité sociale (articles L321-1, L323-3 et D622-10).
+
+<br>
+
+L'apprenti doit transmettre à l'administration et à la caisse primaire d'assurance maladie la prescription du médecin traitant préconisant le temps partiel thérapeutique. L'administration diligente une visite médicale de reprise à temps partiel thérapeutique avec le médecin du travail/de prévention afin de prévoir les modalités d'organisation du travail et verse la rémunération au prorata de la quotité de travail de l'apprenti. L'assurance maladie verse, le cas échéant, les indemnités journalières directement à l'apprenti dans les conditions prévues par le code de sécurité sociale.
 ???
 ????
 
@@ -1366,6 +1375,14 @@ Quand l'accouchement intervient plus de six semaines avant la date initialement 
 <br>
 
 Par conséquent, en cas de naissance prématurée n’exigeant pas l’hospitalisation de l’enfant, la période de congé de 16 ou 26 semaines (ou 34 ou 46 semaines en cas de naissances multiples) n'est pas réduite de ce fait. En conséquence, le repos prénatal non utilisé s'ajoute au congé postnatal dans la limite d'un repos total de 16 ou 26 semaines (ou de 34 ou 46 semaines en cas de naissances multiples).
+
+???
+??? Une apprentie peut-elle bénéficier d’un congé de maternité ? 
+
+**Oui**, les apprenties de la fonction publique en application de l’article L 1225-17 du Code du travail, ont le droit de bénéficier d'un congé de maternité pendant une période qui commence six semaines avant la date présumée de l'accouchement et se termine dix semaines après la date de celui-ci pour la naissance d’un enfant.
+
+**Pendant le congé maternité, le contrat d’apprentissage de la salariée est suspendu** (art. L1225-24 du Code du travail) ; il est même interdit à l’employeur de la faire travailler pendant une période de huit semaines au total avant et après son accouchement. 
+
 ???
 ????
 
@@ -1479,6 +1496,17 @@ Par ailleurs, un agent souffrant d’une ALD peut être amené, en lien avec son
 <br>
 
 De même, un agent souffrant d’une ALD peut être amené à solliciter un congé de longue durée (CLD – code noyau CM200) si sa pathologie entre dans le cadre de l’article 29 du décret n°86-442 du 14 mars 1986. Comme pour le CLM, la notion d’ALD n’impacte pas la procédure d’octroi du CLD ni les dispositions appliquées.
+
+???
+??? Les congés de grossesse pathologique (CG002) et de couches pathologiques (CG003) sont-ils pris en compte dans le calcul des 90 jours de CMO ? 
+
+**Non**, le décret n° 2021-871 du 30 juin 2021 relatif aux congés de maternité et liés aux charges parentales dans la fonction publique de l'Etat prévoit la possibilité de bénéficier des périodes supplémentaires de congé de maternité liées à un état pathologique résultant de la grossesse ou de l'accouchement en application de l’article L 1225-21 du Code du travail.
+
+Cet article L1225-21 du Code du travail indique que « _Lorsqu'un état pathologique est attesté par un certificat médical comme résultant de la grossesse ou de l'accouchement, **le congé de maternité est augmenté de la durée de cet état pathologique** dans la limite de deux semaines avant la date présumée de l'accouchement et de quatre semaines après la date de celui-ci_ ».
+
+En conséquence, les congés de grossesse pathologique (CG002) et les congés de couches pathologiques (CG003) **s’ajoutent au congé maternité. Lesdits congés ne sont donc pas pris en compte dans le droit des 90 jours de CMO**. 
+
+
 ???
 ????
 
