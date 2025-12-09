@@ -62,15 +62,94 @@ eleventyNavigation:
 									  <a class="fr-summary__link" id="summary-link-1-1" href="#temps-incomplet">Temps incomplet</a>
                 </li>
                 <li>
-								    <a class="fr-summary__link" id="summary-link-1-2" href="#temps-partiel ">Temps partiel</a>
+								    <a class="fr-summary__link" id="summary-link-1-2" href="#temps-partiel">Temps partiel</a>
                 </li>
                 <li>
-								    <a class="fr-summary__link" id="summary-link-1-3" href="#temps-partiel-pour-raison-therapeutique ">Temps partiel pour raison thérapeutique</a>
+								    <a class="fr-summary__link" id="summary-link-1-3" href="#temps-partiel-pour-raison-therapeutique">Temps partiel pour raison thérapeutique</a>
+                </li>
+            </ol>
+        </li>
+    </ol>
+	<a class="fr-summary__link" id="summary-link-2" href="#remuneration">Rémunération</a>
+						<ol>
+                <li>
+									  <a class="fr-summary__link" id="summary-link-1-1" href="#indemnites">Indemnités</a>
+                </li>
+                <li>
+								    <a class="fr-summary__link" id="summary-link-1-2" href="#traitement">Traitement</a>
+                </li>
+            </ol>
+        </li>
+    </ol>
+<a class="fr-summary__link" id="summary-link-2" href="#conges">Congés</a>
+						<ol>
+                <li>
+									  <a class="fr-summary__link" id="summary-link-1-1" href="#absences">Absences</a>
+                </li>
+                <li>
+								    <a class="fr-summary__link" id="summary-link-1-2" href="#annuels-et-similaires">Annuels et similaires</a>
+                </li>
+                <li>
+						    <a class="fr-summary__link" id="summary-link-1-3" href="#enfants-et-proches">Enfants et proches</a>
+                </li>
+                <li>
+								    <a class="fr-summary__link" id="summary-link-1-4" href="#maladie">Maladie</a>
+                </li>
+            </ol>
+        </li>
+    </ol>
+<a class="fr-summary__link" id="summary-link-2" href="#contrats">Contrats</a>
+						<ol>
+                <li>
+									  <a class="fr-summary__link" id="summary-link-1-1" href="#cdi">CDI</a>
+                </li>
+            </ol>
+        </li>
+    </ol>
+<a class="fr-summary__link" id="summary-link-2" href="#contrats">Contrats</a>
+						<ol>
+                <li>
+									  <a class="fr-summary__link" id="summary-link-1-1" href="#cdi">CDI</a>
+                </li>
+            </ol>
+        </li>
+    </ol>
+<a class="fr-summary__link" id="summary-link-2" href="#cessation-de-fonction">Cessation de fonction</a>
+						<ol>
+                <li>
+									  <a class="fr-summary__link" id="summary-link-1-1" href="#retraite">Retraite</a>
+                </li>
+            </ol>
+        </li>
+    </ol>
+<a class="fr-summary__link" id="summary-link-2" href="#donnees-personnelles">Données personnelles</a>
+						<ol>
+                <li>
+									  <a class="fr-summary__link" id="summary-link-1-1" href="#adresses">Adresses</a>
+                </li>
+                <li>
+								    <a class="fr-summary__link" id="summary-link-1-2" href="#etat-civil">Etat civil</a>
+                </li>
+            </ol>
+        </li>
+    </ol>
+<a class="fr-summary__link" id="summary-link-2" href="#actes-administratifs-bibliotheque-des-actes">Actes administratifs / Bibliothèque des actes</a>
+						<ol>
+                <li>
+									  <a class="fr-summary__link" id="summary-link-1-1" href="#absence-d-actes">Absence d’actes</a>
+                </li>
+                <li>
+								    <a class="fr-summary__link" id="summary-link-1-2" href="#conges">Congés</a>
+                </li>
+                <li>
+								    <a class="fr-summary__link" id="summary-link-1-2" href="#emploi-du-nir">Emploi du NIR</a>
+
                 </li>
             </ol>
         </li>
     </ol>
 </nav>
+
 
 ### <span style="color:#3a6d48">Affectation</span>
 ????accordionsgroup
