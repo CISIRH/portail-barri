@@ -66,10 +66,10 @@ eleventyNavigation:
                 </li>
                 <li>
 								    <a class="fr-summary__link" id="summary-link-1-3" href="#temps-partiel-pour-raison-therapeutique">Temps partiel pour raison thérapeutique</a>
-                </li>
+             		</li>
             </ol>
         </li>
-    </ol>
+			  <li>
 	<a class="fr-summary__link" id="summary-link-2" href="#remuneration">Rémunération</a>
 						<ol>
                 <li>
@@ -77,10 +77,10 @@ eleventyNavigation:
                 </li>
                 <li>
 								    <a class="fr-summary__link" id="summary-link-1-2" href="#traitement">Traitement</a>
-                </li>
+          	</li>
             </ol>
         </li>
-    </ol>
+			  <li>
 <a class="fr-summary__link" id="summary-link-2" href="#conges">Congés</a>
 						<ol>
                 <li>
