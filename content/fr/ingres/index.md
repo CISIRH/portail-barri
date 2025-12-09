@@ -34,4 +34,4 @@ Le CISIRH en assure l’hébergement, l’exploitation, l'enrichissement et la m
 
 La première **API « Nomenclatures »** permet d’obtenir, au format JSON (JavaScript Objet Notation), via une simple requête, la liste des codes réglementaires de toutes les nomenclatures gérées dans INGRES. Elle peut être utilisée directement dans le développement de vos applications utilisant ces données afin de disposer de référentiels toujours « à jour ». 
 
-La  seconde **API « Diffusions »** permet de récupérer au format Excel ou XML la liste des codes réglementaires présents dans INGRES (dans le même format que celui des diffusions officielles du « Noyau RH FPE »).
+La  seconde **API « Noyau »** permet de récupérer au format Excel ou XML la liste des codes réglementaires présents dans INGRES (dans le même format que celui des diffusions officielles du « Noyau RH FPE »).
