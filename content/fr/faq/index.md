@@ -94,34 +94,26 @@ eleventyNavigation:
                 </li>
                 <li>
 								    <a class="fr-summary__link" id="summary-link-1-4" href="#maladie">Maladie</a>
-                </li>
+             </li>
             </ol>
         </li>
-    </ol>
+			  <li>
 <a class="fr-summary__link" id="summary-link-2" href="#contrats">Contrats</a>
 						<ol>
                 <li>
 									  <a class="fr-summary__link" id="summary-link-1-1" href="#cdi">CDI</a>
-                </li>
+              </li>
             </ol>
         </li>
-    </ol>
-<a class="fr-summary__link" id="summary-link-2" href="#contrats">Contrats</a>
-						<ol>
-                <li>
-									  <a class="fr-summary__link" id="summary-link-1-1" href="#cdi">CDI</a>
-                </li>
-            </ol>
-        </li>
-    </ol>
+			  <li>
 <a class="fr-summary__link" id="summary-link-2" href="#cessation-de-fonction">Cessation de fonction</a>
 						<ol>
                 <li>
 									  <a class="fr-summary__link" id="summary-link-1-1" href="#retraite">Retraite</a>
-                </li>
+              </li>
             </ol>
         </li>
-    </ol>
+			  <li>
 <a class="fr-summary__link" id="summary-link-2" href="#donnees-personnelles">Données personnelles</a>
 						<ol>
                 <li>
@@ -129,10 +121,10 @@ eleventyNavigation:
                 </li>
                 <li>
 								    <a class="fr-summary__link" id="summary-link-1-2" href="#etat-civil">Etat civil</a>
-                </li>
+              </li>
             </ol>
         </li>
-    </ol>
+			  <li>
 <a class="fr-summary__link" id="summary-link-2" href="#actes-administratifs-bibliotheque-des-actes">Actes administratifs / Bibliothèque des actes</a>
 						<ol>
                 <li>
@@ -143,7 +135,6 @@ eleventyNavigation:
                 </li>
                 <li>
 								    <a class="fr-summary__link" id="summary-link-1-2" href="#emploi-du-nir">Emploi du NIR</a>
-
                 </li>
             </ol>
         </li>
