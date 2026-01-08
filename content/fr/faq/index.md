@@ -19,7 +19,10 @@ eleventyNavigation:
                 </li>
                 <li>
                     <a class="fr-summary__link" id="summary-link-1-2" href="#transfert-de-gestion">Transfert de gestion</a>
-                </li>
+               </li>
+                <li>
+					<a class="fr-summary__link" id="summary-link-1-3" href="#temps-partiel-pour-raison-therapeutique">Temps partiel pour raison thérapeutique</a>
+             		</li>
             </ol>
         </li>
         <li>
@@ -181,6 +184,33 @@ Le stage peut être prorogé au maximum pour une durée équivalente à la duré
 
 <br>
 
+#### <span style="color:#27a658">Recrutement</span>
+????accordionsgroup
+
+??? Comment gère-t-on dans le SIRH les agents contractuels suite à la réussite d’un concours en cas de dossier unique ?
+
+En application de l’article 33-3 du décret n° 86-83 du 17 janvier 1986 relatif aux dispositions générales applicables aux agents contractuels de l'Etat, un agent contractuel recruté pour répondre à un besoin permanent bénéficie, sur sa demande, d'un congé sans rémunération lorsqu'il est admis à suivre, soit un cycle préparatoire à un concours, soit une période probatoire ou une période de scolarité préalable à une nomination pour occuper un emploi militaire, de fonctionnaire des assemblées parlementaires ou de magistrat de l'ordre judiciaire ou à un emploi de la fonction publique internationale.
+
+<br>
+
+En cas de dossier unique, il convient d’utiliser dans le SIRH le motif de situation de contrat « suspension suite à CNR ».
+La situation de l’agent contractuel est alors « suspendue en raison d’un congé non rémunéré (CNR) ». Il est nécessaire de clôturer le contrat et de saisir « suspendu » avant de passer au nouveau statut. Aucun acte administratif ne sera rattaché à cette occurrence dans le SIRH, l’acte devra être pris manuellement. 
+
+<br>
+
+Les agents doivent être passés au statut « Stagiaires » suite à ce motif de fermeture de contrat.
+-	Etape n° 1 : La situation du contrat est valorisée à « Suspendu en raison d’un congé non rémunéré (CNR) ». 
+-	Etape n° 2 : Le contrat de l’agent est suspendu et clôturé à la date du changement de statut – 1 Jour. Un acte administratif relatif au placement en congé sans rémunération est pris hors du SIRH. Son dossier dans le SIRH est toujours ouvert.
+-	Etape n°3 : L’agent est nommé en qualité de stagiaire (changement de statut dans le SIRH). 
+
+<br>
+
+Pour aller plus loin : ce mécanisme s’applique également aux ouvriers de l’Etat qui ont réussi un concours : L’occurrence « suspendu en raison d’un congé sans salaire » est utilisée dans le SIRH et le contrat est suspendu.
+???
+????
+
+<br>
+
 #### <span style="color:#27a658">Transfert de gestion</span>
 ????accordionsgroup
 
@@ -199,6 +229,23 @@ Ainsi, ces agents ne sont pas mis à disposition mais affectés au sein des secr
 <br>
 
 Cette situation n'existant pas dans le noyau RH FPE, un nouveau code position a été créé pour gérer ces agents : ACI0I - Affecté hors de l'administration d'origine via une délégation de gestion sur le budget de l'administration d'accueil.
+
+
+
+
+???
+??? Comment les 1/2 journées sont-elles prise en compte dans le calcul de report d'une période de stage ?
+
+
+**En l’absence de précision réglementaire, il y a lieu d’appliquer le calcul le plus favorable à l’agent.**
+
+<br>
+
+Lorsque la date de fin de la durée statutaire du stage du fonctionnaire stagiaire est reportée d’une ou plusieurs demi-journées, il convient de calculer la somme de ces demi-journées. S’il reste un reliquat d’une demi-journée, faute de précision réglementaire, elle ne ne sera pas prise en compte dans le report du stage.  
+
+<br>
+
+Cas pratique d’un agent en stage du 01/01/2024 au 31/12/2024. Sa date de titularisation est prévue au 01/01/2025. Toutefois, l’agent a bénéficié de 3 demi-journées de congé de présence parentale pendant son stage. D’un point de vue calendaire, sa titularisation devrait donc intervenir le 03/01/2025 après-midi. Toutefois la date de titularisation ne permettant pas ce découpage, la date de titularisation aura lieu le 03/01/2025 par défaut.
 ???
 
 ????
@@ -904,6 +951,24 @@ Par conséquent, le traitement brut servant de calcul à l’élément proportio
 <br>
 
 Pour aller plus loin : Vous pouvez consulter le [guide du SFT](https://raw.githubusercontent.com/CISIRH/espace-noyau/main/Noyau%20RH%20FPE/1.%20DOCUMENTATION%20RH-PAIE/1.%20Guides/Guide%20suppl%C3%A9ment%20familial%20de%20traitement.pdf)
+
+
+???
+??? Quelles sont les modalités de rémunération d’un agent à temps partiel thérapeutique ?
+
+**Les agents titulaires à temps partiel thérapeutique perçoivent l’intégralité de leur traitement, des primes et des indemnités.**
+
+<br>
+
+Durant l'accomplissement de son service à temps partiel pour raison thérapeutique, l’agent titulaire perçoit l'intégralité de son traitement, du supplément familial de traitement et de l'indemnité de résidence (cf. article L823-4 du CGFP). S’il en bénéficie, il continue à percevoir en totalité la nouvelle bonification indiciaire (NBI). Les primes et indemnités continuent également à être versées intégralement (en application de l’art. 1er du décret 2010-997) 
+
+<br>
+
+**L’agent contractuel de droit public** exerçant ses fonctions à temps partiel pour raison thérapeutique est rémunéré. Il **perçoit une fraction du traitement ou du salaire ainsi que, le cas échéant, des primes et indemnités de toutes natures y afférentes, de l'indemnité de résidence et du supplément familial de traitement**. Toutefois, dans le cas des services représentant 80 % ou 90% du temps plein, cette fraction est égale respectivement à six septièmes et trente-deux trente-cinquièmes. La prime de transport et les indemnités pour frais de déplacement sont perçues au taux plein par l'agent contractuel autorisé à travailler à temps partiel, et le supplément familial de traitement qui lui est versé ne peut être inférieur au montant minimal versé à l'agent travaillant à temps plein avec la même charge d'enfants. L’agent contractuel peut percevoir des indemnités journalières dans les conditions prévues par le code de la sécurité sociale.
+
+<br>
+
+Enfin, **les contractuels de droit privé** sont rémunérés suivant leur quotité de service. Ils peuvent prétendre à des indemnités journalières dans les conditions prévues par le code de la sécurité sociale. 
 ???
 ????
 
