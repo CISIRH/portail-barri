@@ -18,10 +18,10 @@ eleventyNavigation:
                     <a class="fr-summary__link" id="summary-link-1-1" href="#titulaires-stagiaires">Titulaires/Stagiaires</a>
                 </li>
                 <li>
-                    <a class="fr-summary__link" id="summary-link-1-2" href="#transfert-de-gestion">Transfert de gestion</a>
+                    <a class="fr-summary__link" id="summary-link-1-2" href="#recrutement">Recrutement</a>
                </li>
                 <li>
-					<a class="fr-summary__link" id="summary-link-1-3" href="#temps-partiel-pour-raison-therapeutique">Temps partiel pour raison thérapeutique</a>
+					<a class="fr-summary__link" id="summary-link-1-3" href="#transfert-de-gestion">Transfert de gestion</a>
              		</li>
             </ol>
         </li>
