@@ -18,7 +18,7 @@ eleventyNavigation:
                     <a class="fr-summary__link" id="summary-link-1-1" href="#recrutement">Recrutement</a>
                 </li>
                 <li>
-                    <a class="fr-summary__link" id="summary-link-1-2" href="#titulaires-stagiaires">Titulaires/Stagiaires</a>
+                    <a class="fr-summary__link" id="summary-link-1-2" href="#titularisation-stagiaire">Titularisation/Stagiaire</a>
                </li>
                 <li>
 					<a class="fr-summary__link" id="summary-link-1-3" href="#transfert-de-gestion">Transfert de gestion</a>
@@ -150,35 +150,18 @@ eleventyNavigation:
 #### <span style="color:#27a658">Titulaires/Stagiaires</span>
 ????accordionsgroup
 
-??? Quelle est la différence entre la prolongation et la prorogation de stage ?
+??? Comment les 1/2 journées sont-elles prise en compte dans le calcul de report d'une période de stage ?
 
-**La prorogation est une période accordée au fonctionnaire stagiaire afin de lui laisser plus de temps pour faire ses preuves. La prolongation de stage permet l’accomplissement de la durée statutaire de stage interrompue par un évènement.**
 
-<br>
-
-Si la distinction n’est pas explicitée dans le décret 94-874 du 7 octobre 1994, il convient toutefois d’appliquer la prorogation dans la situation où les aptitudes professionnelles du stagiaire ne sont pas jugées suffisantes pour prononcer sa titularisation à l’issue du stage. Cette distinction entre prolongation et prorogation de stage a été confirmée par la DGAFP.
+**En l’absence de précision réglementaire, il y a lieu d’appliquer le calcul le plus favorable à l’agent.**
 
 <br>
 
-*La prolongation permet l’accomplissement de la durée statutaire de stage, nonobstant certains événements ayant perturbé ou modifié le déroulement normal du stage. Il y a deux types de prolongation :
-- prolongation dans les cas de stage accompli à temps partiel ou dans le cadre d’un temps partiel thérapeutique (il convient de pouvoir apprécier les qualités professionnelles des fonctionnaires stagiaires considérés sur une période de travail effectif suffisante, égale à celle des fonctionnaires stagiaires exerçant à temps plein) ;
-- prolongation suite à l’interruption du stage du fait de congés successifs autres que le congé annuel. La période statutaire de stage est alors prolongée selon un ratio qui diffère selon les types de congés concernés (en totalité, pour moitié, à hauteur d’un dixième).
-  
-<br>
-
-Il en résulte que la prolongation est une période complémentaire, qui s’ajoute à la durée initiale et doit donc être comptabilisée dans les conditions prévues par le décret n°94-874 du 7 octobre 1994.
+Lorsque la date de fin de la durée statutaire du stage du fonctionnaire stagiaire est reportée d’une ou plusieurs demi-journées, il convient de calculer la somme de ces demi-journées. S’il reste un reliquat d’une demi-journée, faute de précision réglementaire, elle ne ne sera pas prise en compte dans le report du stage.  
 
 <br>
 
-*La prorogation est une période accordée au fonctionnaire stagiaire afin de lui laisser plus de temps pour faire ses preuves et s’adapter à ses fonctions. La période prorogée renvoie, à une date ultérieure, la décision de titularisation le temps d’apprécier les aptitudes professionnelles du stagiaire. Elle interrompt un délai, une période, elle suspend l’application d’un statut et s’entend donc comme une forme d’ajournement.
-
-<br>
-
-Ainsi, à la différence d’une prolongation, la prorogation n’est jamais prise en compte dans le calcul de l’ancienneté à retenir lors de la titularisation (comme le précise le décret du 7 octobre 1994).
-
-<br>
-
-Le stage peut être prorogé au maximum pour une durée équivalente à la durée statutaire du stage considéré.
+Cas pratique d’un agent en stage du 01/01/2024 au 31/12/2024. Sa date de titularisation est prévue au 01/01/2025. Toutefois, l’agent a bénéficié de 3 demi-journées de congé de présence parentale pendant son stage. D’un point de vue calendaire, sa titularisation devrait donc intervenir le 03/01/2025 après-midi. Toutefois la date de titularisation ne permettant pas ce découpage, la date de titularisation aura lieu le 03/01/2025 par défaut.
 ???
 ????
 
@@ -230,22 +213,6 @@ Ainsi, ces agents ne sont pas mis à disposition mais affectés au sein des secr
 
 Cette situation n'existant pas dans le noyau RH FPE, un nouveau code position a été créé pour gérer ces agents : ACI0I - Affecté hors de l'administration d'origine via une délégation de gestion sur le budget de l'administration d'accueil.
 
-
-
-
-???
-??? Comment les 1/2 journées sont-elles prise en compte dans le calcul de report d'une période de stage ?
-
-
-**En l’absence de précision réglementaire, il y a lieu d’appliquer le calcul le plus favorable à l’agent.**
-
-<br>
-
-Lorsque la date de fin de la durée statutaire du stage du fonctionnaire stagiaire est reportée d’une ou plusieurs demi-journées, il convient de calculer la somme de ces demi-journées. S’il reste un reliquat d’une demi-journée, faute de précision réglementaire, elle ne ne sera pas prise en compte dans le report du stage.  
-
-<br>
-
-Cas pratique d’un agent en stage du 01/01/2024 au 31/12/2024. Sa date de titularisation est prévue au 01/01/2025. Toutefois, l’agent a bénéficié de 3 demi-journées de congé de présence parentale pendant son stage. D’un point de vue calendaire, sa titularisation devrait donc intervenir le 03/01/2025 après-midi. Toutefois la date de titularisation ne permettant pas ce découpage, la date de titularisation aura lieu le 03/01/2025 par défaut.
 ???
 
 ????
