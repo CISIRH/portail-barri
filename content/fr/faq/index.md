@@ -147,26 +147,6 @@ eleventyNavigation:
 
 ### <span style="color:#3a6d48">Affectation</span>
 ????accordionsgroup
-#### <span style="color:#27a658">Titulaires/Stagiaires</span>
-????accordionsgroup
-
-??? Comment les 1/2 journées sont-elles prise en compte dans le calcul de report d'une période de stage ?
-
-
-**En l’absence de précision réglementaire, il y a lieu d’appliquer le calcul le plus favorable à l’agent.**
-
-<br>
-
-Lorsque la date de fin de la durée statutaire du stage du fonctionnaire stagiaire est reportée d’une ou plusieurs demi-journées, il convient de calculer la somme de ces demi-journées. S’il reste un reliquat d’une demi-journée, faute de précision réglementaire, elle ne ne sera pas prise en compte dans le report du stage.  
-
-<br>
-
-Cas pratique d’un agent en stage du 01/01/2024 au 31/12/2024. Sa date de titularisation est prévue au 01/01/2025. Toutefois, l’agent a bénéficié de 3 demi-journées de congé de présence parentale pendant son stage. D’un point de vue calendaire, sa titularisation devrait donc intervenir le 03/01/2025 après-midi. Toutefois la date de titularisation ne permettant pas ce découpage, la date de titularisation aura lieu le 03/01/2025 par défaut.
-???
-????
-
-<br>
-
 #### <span style="color:#27a658">Recrutement</span>
 ????accordionsgroup
 
@@ -189,6 +169,26 @@ Les agents doivent être passés au statut « Stagiaires » suite à ce motif de
 <br>
 
 Pour aller plus loin : ce mécanisme s’applique également aux ouvriers de l’Etat qui ont réussi un concours : L’occurrence « suspendu en raison d’un congé sans salaire » est utilisée dans le SIRH et le contrat est suspendu.
+???
+????
+
+<br>
+
+#### <span style="color:#27a658">Titularisation/Stagiaire</span>
+????accordionsgroup
+
+??? Comment les 1/2 journées sont-elles prise en compte dans le calcul de report d'une période de stage ?
+
+
+**En l’absence de précision réglementaire, il y a lieu d’appliquer le calcul le plus favorable à l’agent.**
+
+<br>
+
+Lorsque la date de fin de la durée statutaire du stage du fonctionnaire stagiaire est reportée d’une ou plusieurs demi-journées, il convient de calculer la somme de ces demi-journées. S’il reste un reliquat d’une demi-journée, faute de précision réglementaire, elle ne ne sera pas prise en compte dans le report du stage.  
+
+<br>
+
+Cas pratique d’un agent en stage du 01/01/2024 au 31/12/2024. Sa date de titularisation est prévue au 01/01/2025. Toutefois, l’agent a bénéficié de 3 demi-journées de congé de présence parentale pendant son stage. D’un point de vue calendaire, sa titularisation devrait donc intervenir le 03/01/2025 après-midi. Toutefois la date de titularisation ne permettant pas ce découpage, la date de titularisation aura lieu le 03/01/2025 par défaut.
 ???
 ????
 
