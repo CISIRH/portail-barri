@@ -12,4 +12,4 @@ Le **bureau de l’analyse règlementaire et des référentiels interministérie
 
 Le BARRI produit également, en lien avec la communauté interministérielle, **des documents et guides de référence** sur des sujets RH complexes ou l’actualité réglementaire mais aussi des outils dont un **assistant digital**, permettant de faciliter et moderniser le travail quotidien de la chaîne GRH-Paie-post-paie et des paramétreurs des SIRH.
 
-L’ensemble de ces référentiels et documents constitue le **Noyau RH FPE**..
+L’ensemble de ces référentiels et documents constitue le **Noyau RH FPE**.
