@@ -105,6 +105,9 @@ eleventyNavigation:
 						<ol>
                 <li>
 									  <a class="fr-summary__link" id="summary-link-1-1" href="#cdi">CDI</a>
+             </li>
+                <li>
+								    <a class="fr-summary__link" id="summary-link-1-2" href="#emplois">Emplois</a>
               </li>
             </ol>
         </li>
@@ -846,6 +849,27 @@ Enfin, au terme de ses droits à exercer un service à temps partiel pour raison
 <br>
 
 L'apprenti doit transmettre à l'administration et à la caisse primaire d'assurance maladie la prescription du médecin traitant préconisant le temps partiel thérapeutique. L'administration diligente une visite médicale de reprise à temps partiel thérapeutique avec le médecin du travail/de prévention afin de prévoir les modalités d'organisation du travail et verse la rémunération au prorata de la quotité de travail de l'apprenti. L'assurance maladie verse, le cas échéant, les indemnités journalières directement à l'apprenti dans les conditions prévues par le code de sécurité sociale.
+
+???
+??? Quels sont les codes Noyau à utiliser pour gérer dans le SIRH les agents accomplissant un service à temps partiel thérapeutique ?
+
+En application de l’article L823-1 du CGFP, le fonctionnaire en activité peut être autorisé à accomplir un service à temps partiel pour raison thérapeutique (50 %, 60 %, 70 %, 80 % ou 90 %) lorsque l'exercice des fonctions à temps partiel permet :
+-	le maintien ou le retour à l'emploi de l'intéressé et que cet exercice est reconnu comme étant de nature à favoriser l'amélioration de son état de santé ;
+-	ou à l'intéressé de bénéficier d'une rééducation ou d'une réadaptation professionnelle pour retrouver un emploi compatible avec son état de santé.
+
+<br>
+
+L’agent contractuel peut également demander à accomplir un service à temps partiel thérapeutique (50 %, 60 %, 70 %, 80 % ou 90 % - subordonné à l’accord de la CPAM à laquelle l’agent est affilié) en application de l’article 11-1 du décret n°86-83 du 17 janvier 1986.
+A noter que des dispositions spécifiques s’appliquent aux praticiens hospitaliers universitaires, en application de l’article R6152-43 du code de la santé publique.
+
+<br>
+
+Ce temps partiel conduit à **utiliser les codes noyau suivants**, selon sa situation :
+- MS510 « Temps partiel pour raison thérapeutique après CMO, CLM, CLD ou CGM » pour les seuls agents contractuels (praticiens hospitaliers universitaires) et ouvriers de l’Etat ;
+- MS511 « Temps partiel pour raison thérapeutique après accident de service, accident du travail ou maladie professionnelle » pour les seuls agents contractuels et ouvriers de l’Etat ;
+- MS512 « Temps partiel pour raison thérapeutique après congé pour invalidité temporaire imputable au service » pour les titulaires, stagiaires et agents contractuels en cas de détachement d’un fonctionnaire sur contrat lorsque l’agent était auparavant en CITIS ;
+- MS513, « Temps partiel pour raison thérapeutique » dans le cadre général pour les titulaires, stagiaires et contractuels (cadre général hors praticiens hospitaliers universitaires). 
+
 ???
 ????
 
@@ -1622,6 +1646,21 @@ Cet article L1225-21 du Code du travail indique que « _Lorsqu'un état patholog
 
 En conséquence, les congés de grossesse pathologique (CG002) et les congés de couches pathologiques (CG003) **s’ajoutent au congé maternité. Lesdits congés ne sont donc pas pris en compte dans le droit des 90 jours de CMO**. 
 
+???
+??? Comment saisir un congé maladie pour cure thermale dans RenoiRH afin d’éditer la décision ? 
+
+**Il convient de saisir les codes correspondant au congé de maladie ordinaire.**
+
+<br>
+
+Un agent public ne peut cesser son travail pour effectuer une cure thermale en dehors des congés annuels qu'à la condition d'être mis en congé de maladie. L'obtention d'un congé de maladie pour effectuer une cure thermale est subordonnée à la condition que la cure soit rendue nécessaire par une maladie dûment constatée, qui aurait pour effet de mettre l'agent dans l'impossibilité d'exercer ses fonctions si le traitement thermal prescrit n'était pas effectué en temps utile.
+
+<br>
+
+**Dans RenoiRH**, l’agent sera placé en « congé de maladie ordinaire » (code CM001) dès lors que cette cure est prescrite médicalement et est liée au traitement d'une maladie dûment constatée. 
+Il n’existe pas à ce jour d’acte dédié à la cure thermale dans la bibliothèque des actes. Le gestionnaire peut néanmoins utiliser l’acte de congé de maladie ordinaire en y ajoutant :
+-	un visa relatif à la demande de l’intéressé sollicitant un congé de maladie pour suivre une cure thermale.,
+-	un visa relatif à l’avis médical prescrivant une cure thermale.
 
 ???
 ????
@@ -1775,6 +1814,24 @@ Nouvelle-Calédonie : du 24 mars 2020 au 10 juillet 2020 puis du 17 octobre 2020
 
 Les régimes transitoires de sortie de crise sanitaire n’entrent pas dans le champ de l’article L332-4 du CGFP.
 ???
+????
+
+<br>
+
+#### <span style="color:#27a658">Emplois</span>
+????accordionsgroup
+
+??? Comment affecter dans le SIRH les agents contractuels sur emplois fonctionnels ? 
+
+**Il existe deux codes Noyau qui permettent d’affecter les agents contractuels sur EF.**
+
+Le code C0148 permet l’affectation sur emplois de direction (soit les emplois régis par le décret n° 2019-1594). Les règles de gestion (RGRH) du Noyau RH FPE reprises dans le chatbot prennent en compte l’ensemble des conditions juridiques (notamment de durée qui peuvent différer selon les emplois). Toutefois, le paramétrage de RenoiRH ne permet pas la prise en compte de toutes les conditions. Suite à l’atelier Noyau du 17/09/2024, il a été proposé de borner une durée extrême (incluant contrat et avenants éventuels) à 6 ans (cela regroupe la majorité des emplois régis par le décret). Les situations différentes (autorisant des durées d’occupation de l’emploi supérieures à 6 ans) doivent être gérer avec le processus dérogatoire.
+Le code C0152 permet l’affectation sur emplois fonctionnels hors emplois de direction (exemple : sur emplois régis par le décret n°2022-335). Aucune règle de gestion bloquante n’est associée à ce code afin de l’appliquer également pour des textes et emplois de statuts différents.
+
+<br>
+
+A noter que pour chaque emploi occupé, un contrat doit être établi (1 EF = 1 contrat) y compris en cas d’occupation d’emplois différents régis par le même texte.
+???
 
 ????
 
@@ -1785,6 +1842,7 @@ Les régimes transitoires de sortie de crise sanitaire n’entrent pas dans le c
 <br>
 
 <br>
+
 
 ### <span style="color:#3a6d48">Cessation de fonction</span>
 ????accordionsgroup
