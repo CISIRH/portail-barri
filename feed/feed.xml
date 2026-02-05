@@ -4,7 +4,7 @@
 	<subtitle>Centre interministériel de services informatiques relatifs aux ressources humaines (CISIRH)</subtitle>
 	<link href="https://cisirh.github.io/portail-barri/feed/feed.xml" rel="self"/>
 	<link href="https://cisirh.github.io/portail-barri/portail-barri"/>
-	<updated>2026-02-05T10:47:19Z</updated>
+	<updated>2026-02-05T10:53:07Z</updated>
 	<id>https://cisirh.github.io/portail-barri</id>
 	<author>
 		<name>Centre interministériel de services informatiques relatifs aux ressources humaines</name>
@@ -13,7 +13,7 @@
 	<entry>
 		<title>FAQ - Transfert de gestion</title>
 		<link href="https://cisirh.github.io/portail-barri/fr/blog/faq-transfertgestion-sgcd/"/>
-		<updated>2026-02-05T10:47:19Z</updated>
+		<updated>2026-02-05T10:53:07Z</updated>
 		<id>https://cisirh.github.io/portail-barri/fr/blog/faq-transfertgestion-sgcd/</id>
 		<content type="html">&lt;p&gt;&lt;strong&gt;Question détaillée&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Dans le cadre du transfert de certains personnels vers les secrétariats généraux communs (SGCD), une convention de gestion doit être signée avec le ministère de l’intérieur pour le transfert de personnels non titulaires (Berkani) ainsi que d’ouvriers des Parcs et Ateliers (OPA).
@@ -28,7 +28,7 @@ Cette situation n&#39;existant pas dans le noyau RH FPE, un nouveau code positio
 	<entry>
 		<title>Publication du noyau RH FPE 24.10.00</title>
 		<link href="https://cisirh.github.io/portail-barri/fr/blog/publication-noyau-fev24/"/>
-		<updated>2026-02-05T10:47:19Z</updated>
+		<updated>2026-02-05T10:53:07Z</updated>
 		<id>https://cisirh.github.io/portail-barri/fr/blog/publication-noyau-fev24/</id>
 		<content type="html">&lt;p&gt;Cette version du Noyau RH FPE porte notamment :&lt;/p&gt;
 &lt;br&gt;
@@ -64,7 +64,7 @@ Cette situation n&#39;existant pas dans le noyau RH FPE, un nouveau code positio
 	<entry>
 		<title>Publication du noyau RH FPE 25.00.00</title>
 		<link href="https://cisirh.github.io/portail-barri/fr/blog/Publication-noyau-juil25/"/>
-		<updated>2026-02-05T10:47:19Z</updated>
+		<updated>2026-02-05T10:53:07Z</updated>
 		<id>https://cisirh.github.io/portail-barri/fr/blog/Publication-noyau-juil25/</id>
 		<content type="html">&lt;p&gt;Cette version du Noyau RH FPE porte notamment :&lt;/p&gt;
 &lt;br&gt;
@@ -117,6 +117,68 @@ Cette situation n&#39;existant pas dans le noyau RH FPE, un nouveau code positio
 &lt;br&gt;
 &lt;p&gt;•	la publication des recueils des fiches du Référentiel de Paye (RdP) ainsi que la publication du barème complet du RIFSEEP et de la cartographie Interministérielle des Impacts Congés Absences (ICA) sur le paiement des indemnités ;
 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;•	la mise à jour de la documentation métier dans le répertoire « 8-Informations complémentaires », notamment la documentation des nomenclatures, la matrice des modes de gestion et de rémunération des agents contractuels, la description des compteurs à mettre en œuvre dans les SIRH, la correspondance des indices bruts/des indices majorés juridiques et la description du chaînage des corps et des emplois fonctionnels.&lt;/p&gt;
+</content>
+	</entry>
+	<entry>
+		<title>Publication du noyau RH FPE 25.10.00</title>
+		<link href="https://cisirh.github.io/portail-barri/fr/blog/Publication-noyau-fev26/"/>
+		<updated>2026-02-05T10:53:07Z</updated>
+		<id>https://cisirh.github.io/portail-barri/fr/blog/Publication-noyau-fev26/</id>
+		<content type="html">&lt;p&gt;Cette version du Noyau RH FPE porte notamment :&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	les mises à jour des Référentiels de Classification Centraux (RCC) réalisées depuis la diffusion de la version d’actualisation 25.00.00 du Noyau RH FPE;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	la publication des actes PACTE Cerfa et Contrat apprentissage Cerfa, et de 301 actes documentaires de la bibliothèque des actes dont 294 actes modélisés.&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;Les 53 fiches de maintenance (FIME) du Noyau RH FPE en version 25.10.00 prennent notamment en compte les impacts des évolutions réglementaires suivantes :&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	du décret n° 2025-564 du 21 juin 2025 relatif aux régimes dérogatoires de report et d&#39;indemnisation des droits à congé annuel dans la fonction publique ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	du  décret n° 2025-471 du 27 mai 2025 relatif aux congés et aux permissions des militaires liés à la famille et modifiant diverses dispositions du code de la défense ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	du décret n° 2025-695 du 24 juillet 2025 modifiant les livres Ier et II du code général de la fonction publique et relatif aux dispositions réglementaires du livre III du même code;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	du décret n° 2025-694 du 23 juillet 2025 portant diverses dispositions applicables aux personnels ouvriers de l&#39;Etat ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	du décret n° 2025-869 du 29 août 2025 modifiant le décret n° 65-382 du 21 mai 1965 modifié relatif aux ouvriers des parcs et ateliers des ponts et chaussées et des bases aériennes admis au bénéfice de la loi du 21 mars 1928 ;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;•	des décrets n° 2025-680 du 15 juillet 2025 fixant l&#39;âge d&#39;ouverture du droit à la retraite progressive à soixante ans pour les assurés du régime de retraites des agents des collectivités locales et pour les ouvriers des établissements industriels de l&#39;Etat et n° 2025-681 du 15 juillet 2025 fixant l&#39;âge d&#39;ouverture du droit à la retraite progressive à soixante ans ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	du décret n° 2025-198 du 27 février 2025 relatif à la rémunération maintenue en congé de maladie pour certains agents publics ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	la mise à jour :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;des tableaux RGRH et du référentiel des évènements ;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;des nomenclatures fichier GEST conformément aux diffusions de la DGFiP ;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;p&gt;•	la création :&lt;/p&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;de 6 statuts afin de permettre le déploiement de RenoiRH à l’INSP en 2027 (FIME non présentée aux ministères portant sur la création de 4 statuts relatifs aux stagiaires du cycle exclusifs à l’INSP et 2 autres statuts pouvant être utilisés par d’autres entités portant pour le premier sur les contractuels percevant l’ARE et pour le second, sur les dossiers minimalistes uniquement utile à la GTA) ;&lt;/li&gt;
+&lt;li&gt;d’un nouveau tableau RGPAY (règles de gestion PAYSAGE) afin de renforcer les contrôles du mouvement 67 à effectuer en amont de l’envoi des remises de paie à l’application PAYSAGE.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;p&gt;•	la mise en qualité de la modélisation de la bibliothèque des actes (BDA) et de la documentation associée (actes documentaires et guides) ;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;•	la publication de la documentation du Référentiel de Paye (RdP) :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;les Recueils des fiches RdP par périmètre ministériel ainsi que le Recueil des fiches Interministérielles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;le barème RIFSEEP pour l’ensemble des ministères dont les corps et emplois figurent dans la liste des arrêtés d’adhésion publiée par la DGAFP ainsi que les corps et emplois relevant de la Réforme de la Haute Fonction Publique - RHFP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;la cartographie Interministérielle des Impacts Congés Absences (ICA) sur le paiement des indemnités&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
 &lt;p&gt;•	la mise à jour de la documentation métier dans le répertoire « 8-Informations complémentaires », notamment la documentation des nomenclatures, la matrice des modes de gestion et de rémunération des agents contractuels, la description des compteurs à mettre en œuvre dans les SIRH, la correspondance des indices bruts/des indices majorés juridiques et la description du chaînage des corps et des emplois fonctionnels.&lt;/p&gt;
 </content>
 	</entry>
