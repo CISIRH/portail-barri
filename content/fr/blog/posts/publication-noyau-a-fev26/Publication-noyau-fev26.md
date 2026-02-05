@@ -8,9 +8,7 @@ image:
     path: ./logo-noyau-rh-fpe.jpg
 tags:
   - noyau
-
-<br>
-
+---
 Cette version du Noyau RH FPE porte notamment :
 
 <br>
