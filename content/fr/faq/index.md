@@ -137,7 +137,7 @@ eleventyNavigation:
 									  <a class="fr-summary__link" id="summary-link-1-1" href="#absence-d-actes">Absence d’actes</a>
                 </li>
                 <li>
-								    <a class="fr-summary__link" id="summary-link-1-2" href="#conges">Congés</a>
+								    <a class="fr-summary__link" id="summary-link-1-2" href="#conges-1">Congés</a>
                 </li>
                 <li>
 								    <a class="fr-summary__link" id="summary-link-1-2" href="#emploi-du-nir">Emploi du NIR</a>
