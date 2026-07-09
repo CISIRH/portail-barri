@@ -1,7 +1,7 @@
 ---
 title: Publication du noyau RH FPE 25.10.00
 
-description: La nouvelle version du noyau est disponible !
+description: Publication du 06 février 2026
 date: git Last Modified
 image:
     alt:
